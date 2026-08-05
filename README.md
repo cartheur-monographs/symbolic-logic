@@ -2,6 +2,10 @@
 
 A body of research on symbolic logic to intelligent machinery including publication effort.
 
+_Purpose_
+
+The paper aims to recover Berkeley and Heiserman as contributors to a still-testable architecture of embodied machine intelligence, rather than leaving them as isolated historical curiosities.
+
 ## On source documents
 
 - `Basson--Intro to symbolic logic.pdf`
