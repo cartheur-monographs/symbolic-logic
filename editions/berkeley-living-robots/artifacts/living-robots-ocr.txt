@@ -1,0 +1,1615 @@
+THE. CONSTRUCTION
+LIVING. ROBOTS
+Coperiahty 19525 by Bimand C. BereLey
+
+1952, by Biman C. Berkeley ant Aanoctates,
+‘tt,
+
+Baw Tore Liy
+
+Bede
+
+scste wlth the views
+
+set forth to this ree
+
+the Boayelopcita Eeitanadesy apd will say that life is
+
+the detivity peculiar to protoplaon, sed therefore
+concthins made of herdearey ne
+
+‘mitter how tary sonterfulzor Lifelite,
+its properties nay bey ill never Hives’
+
+Bet
+
+we are convinced thaty with the great’ current development of rebate
+tal eatonatic,
+
+ciopiting machinery, it ie tnportant ani wortbohlle to bring up ead Alecuss
+the sube
+Sect of living reteta,
+
+ez site atecunstony an
+
+the cheat
+
+bere ctyny wll encoura
+eter tye
+ge
+
+{Etore and experimenters to try to build Livinr rosotay
+
+‘od ve shat
+
+ez
+
+ee
+
+are seetang
+
+be glad to try to help srytoiy to the extent that te cme
+
+to
+
+oh
+
+Pact
+1 — Dhsoussion
+‘me nature of Batots
+
+‘The Versathhtty of Robots
+‘me Kature of Lise
+
+‘The Beseatiad Properties of Lie
+abot Like
+
+hotees An constevoting bot Life
+obot Salf-Preservation
+bot Satf-tatntenance
+
+otot Reproduction
+Part IE —
+
+Robot Life
+Outline for Constructing
+
+No. 2
+Robot Life Specter
+2s
+
+barton
+
+»
+
+‘Schematic Diagrams for the Counter Part Robots
+
+be
+
+the Robots
+for tic
+ema
+Diagrans
+Sch
+Part IIT — Frastieat conetustons
+
+ide
+on thete
+nt
+faze, So let us take a close
+ES prosmecta,UBd abe Het eatinction
+
+‘por down for
+
+varying distances
+changes the pressure of compressed
+
+‘le witch rune from the Float toe selack Sof".
+
+air
+
+n'a seni)
+
+There the Cosaenitied tertetions
+
+Sf pres
+are ured
+sure
+te control the press
+Sn ansther,
+ure bat rach larger pipeline
+ontaining eonpresand air running fron the "black
+box tos chanber ever te ston
+of valve, “The valve can rise or descend varying
+the secant of opening in'a third
+
+Pipe, thigh witch Ligeia flow into the refines tacks
+"hed the sosntot
+aft
+e
+nthe chanter above the stan of the valve, sorkize agtinst a stron Springs
+seri
+the position of the valve, As fluid Flows'threuph the last pipe inte the
+tay th
+
+=e
+
+‘lost An, the Laud meter As affected,
+sol the "loop" of “nerative feedueck" 48 cone
+
+‘loses ines, every displacement of the Float sets Into notion a force to retarn it
+
+Teitte' provides poustton, "im thc roost,
+
+thanking green
+{Ur pipe Lines
+
+the “black bows
+
+the
+
+he sine
+
+sensing expen ip the Floaty
+
+ihe
+
+gar i the vlney sot the comprensed
+
+are the nerves and/meches,
+
+oy clever 1s this robot? fw mich of a thinking orem can be tullt
+atie
+controiter?”
+be pun Soagine thot ie nfont taxes ninite or tae
+‘evel in the tank
+
+to change as a reeult of the signal fron
+
+the distances
+were tongs
+
+the Flosty
+
+Of the Mguid level, wiih cuiek, adequate respon
+
+Starts
+to happens”
+Shto an sutonstie
+
+fe meet this’needy
+
+several
+
+Hints sf response can
+
+eren corsrol
+
+tll be ballt
+
+controllers, che
+of thes
+
+Fesponse of the valve is proportional te the change of the
+[a"Zalld
+rate reaponsety
+the response
+of
+
+Gf chaage of the itmia levels,
+
+‘stonatis controt
+
+sopectaliy Af
+
+Tet if ve were designers, we nay want & tery
+
+dn
+
+Ligeia levels
+
+Aonther
+
+There sre other binds of response
+te wells”
+
+fact can be
+
+obtatned,
+
+Excelent
+
+much better than Af yeu collared & hansn
+
+belng ad told hie to watch for dear Life the Iiqehd level needing, std move the
+‘ilve aosonting to seated rules.
+‘hb sutonatic controller
+Kind of robot ts partly responsible for
+
+the fact
+
+that gate
+
+ne sells today at about 25 cesta 4 gallon, fost abost ite price twenty yours Agoy
+although nearly all prices have nore than acubled, hot sstomtic eontrelvers
+are
+ef
+not only in ofl refthing bet in nibing chedotls, paper,
+ther snaustrist processes involving contimose flows.
+
+sod performing Mang
+
+The Uersstility of mabote
+At wore a. the wart todayy and 2 of then slaves in the service of meny
+‘biy‘tandreds
+of epectes o¢ rebote, ant nilidons of Snaivisual rebctey
+
+Are prom
+
+‘AAsoot aay Kind of solentifie sestrosect ean be used for the detection of tnfornstion,
+‘Bese Snetramente con becone the senring orgens for robete,
+‘Atooot ary Kind of machine --
+
+lathe, shovel, valve, motor, wheel, def, sore,
+
+Other device == can be used for mating changer in the payeies! worlds
+fan becone the acting organs for robots.
+A
+
+yartoty of dttferent devices can be used
+
+AQ
+
+ef then
+
+for tranumdtting information betunen
+
+the
+
+Gifterent parte of = robots compressed
+sir throspy pipes, slectric corrects sheng
+‘res
+
+A
+
+lange
+
+ockaneal pris in
+
+ottoy cates sume three
+
+variety of devices
+
+nay be used for
+
+play, sts
+
+reasceable operations on
+
+Tee
+
+information:
+
+‘lecttonle tubes, relays, cans, compressed sir, fevlersy ntehes etc. These becene
+the thinking orgins of robeta,” Ia fact, sone neshantoel or electrics] resets ~~
+‘ie the antonatie dial teleptone central office wth subscriber station, of the
+
+{lant automatic electronic digitel computers =~ display the development of hardware
+‘hdnne orenns to's prodigious extents
+
+‘At how close 42 « collection of these derions, Snterrsted together tite 4 robot,
+
+‘SMvinge?
+
+iat te Slivinge
+
+ne of then Ls Squeey the Robot Squirrel» made in 1951 by the weiter and his assoct=
+
+Spice se bout 21 teehes-Tangy TP tashee Nigh, and 6
+
+Stes And desortbes th faite dlectronies feo, 1951 anf
+
+and
+
+weighs about
+
+Pogelar Setesse Sly 952.
+
+E'poundey it rolte over the floor, honts for’s smat* (e gelf tail), pleks Stup in
+
+LeaPthandée (a'netansosep in tao faves), takes St over to its sneatTM
+
+(e netal plate),
+
+‘hace leaves tty and then starts bontine for nore mar”
+Squee has four sensing
+fnganas two "eyeeTM =~ pastosellay @ "tongue" o's seitchy a afoot! wth tn "esas"
+
+2
+hua three acting orgarss « deiving wncel, @ steeritg getty ft
+‘asipratea,Squce
+SSoop for ‘hapiats And finally, Stace as a snail brain, of « donen relays fod tubes.
+Slr'ha Space of this sctive bebirior, and nore than canbe doctlity, no ene says Eke
+
+‘Sete te alt
+
+But tow about the defftcult cases, Sn your tear on tars, when the ordinary clues
+‘that Birth beings ese alaply eould not be relted ont
+1m sepand to shape end structure, for example, the Mars TEDG wold not he
+
+Constructed wlth aay reserblance to either ae sninal ors plant of the Earn.
+In
+$iuey in view of oot present imovlesge, St seems crmecesstry
+and unlikely tht the
+‘Raub Gould'be made of the sane cheniecla An the sure proportions as barth proton
+
+‘lion.
+
+in facty the saygen'iess atmosphere ant low tenperatares of Mrs would make
+
+hein protaplaon distinctly woeonfortable.
+
+‘brn
+om Barth, the shape aod structore protien may be, far fron simp
+
+Sine Iiving ethty aay be fiest an egg) then a caterpillar, then = chryesiis,” th
+itterfiy., Sone fen aninals my hove Sore than nine Larval cr
+Tmetanarpbones,
+Eitcy sinilar changes from infant to asslt state,
+
+In rogard to stae of the Sndtvidual, the Mars THO would rot have to have ery et
+fr suited site) in sivance of sbserfattons nade on Mars.
+
+Oe
+
+‘Solivele egeede to be particles of a virus, abost one hundred thousandth of
+
+{mn dlaneter,” The Largest animal is either the wale, length US or 50 Testy
+
+{ose dinseaar, called Oigemtocsures,
+shose font print was about fourf
+eter,
+soi thoes length say hve been az mach so eivty feet.
+dhe inrgest plant te
+
+The sbquots or reswoes, which, tm
+Tenet
+
+and Foot topether, may be ever $00 feet 9
+
+In regard to speed of Living, the speed with wich the Mare THING Ived eould be quite
+‘eine te he peed of ang of etmay o plant en aac Brn on thy te
+are
+ts fiy when reinarops
+hesitate
+aise of spend of Living Se grests Gusts do not
+Estlings prenunably thelr nervoss aysten has po trouble dodging raindrops An 8 tiwe
+
+=3-
+
+Life
+ofies
+1h, Te Eesentiat Propert
+
+nat, then, are the properties of 14fer when do we consider that a thing ts Living?
+
+‘ere ts no easy enor that covers ll the extrem case th we Ine
+ron supposing ve could arrive st a definition thet applied to Sarth
+
+bouton
+
+tt 3
+iife,
+
+iife,. But ve ean mike s short hist of apparently ersentisl
+‘Right ape Fit taredan
+Petpecties that wochd be sufticfent on tare az well as Barth for'a thine to be
+Wileine's te cannot cisis thet thece properties are all necessary, fer there are
+any Iiving things that do not have sow or more of these propertieg.
+
+1 Fthinc resonate to any tat AF
+
+ting Bas the fltetngpropertien, then
+
+entity. Tt
+orltty
+Ls gee, Te nas a peretating, separate, Andtvidua
+‘BibiecS aPtatenes dt bus w'centery in other words, de basa selfs
+2. Sensation and
+SSSR
+
+4t has the
+AL sone stages of Sts existence,
+at
+aitticent changes in ts onitnary envitoment,
+
+Snake different responses to then
+
+de Daath, If At se forcibly divided through Sts center, st loses tts
+PeRia thay ASSES Spastey for Secantasne and eoponees In
+ls Sent-troservation,
+
+Ite ordizary responses to its ordinary eqrtroment
+
+Ss gettaintenaace,
+i
+=
+
+At sone stages of Sts existence, 1 hes the copsctty
+of sts ordinary cevironnent and Gee tt for maintaining
+
+tere aaa
+
+6.
+
+fod repairing its self.
+
+ton. AL sone stages of Sts existence, St hes the empacttyy
+
+eaviromest, of miking or constructing otter complete
+SEi ticy
+things hike Stzelf ant having the sane six proportion as ttself
+
+Bathe
+
+fore are tuo properties left out of Us ist whlch deserve cone discussion, The
+Sue fnvsog. "he are ail fanlar sdeh a grest many species of Darth life An
+lest
+{hich Geiurtdiats (in whote or tm part) scar in teo warteties, wale ant Tentiey
+‘EGS eantlinr propertSon for nost opectes,
+Ses ss an ensenttal property of If
+
+Sows people may De Snolined to say thet
+
+ins
+
+to say thet ££ the
+miy be fnclined
+‘he other property ts Byolutten, Sone people
+
+‘ethic
+canoe evap ten i Se ot liege Fory
+a for oe
+
+arth are all of then capebie of tvedving,
+through metstions,
+(enesy cheonoosnes, and all the Fest of the wonderful mechaniens of imberitance.
+
+5.
+
+bot Lite
+
+A sock ce Plynouth foc & structure Ike the Golden Oate Bridge, « clock 10ke
+Eat"
+= tee
+aatiaty Froperties 1 and 3 euch has's self, eash'can be desteoyed ——
+
+there
+{od poeta eoleorate
+
+‘me tes robots ve mentioned shove —- the intelligent traffic Iizht, the sutenstte
+== satisfy Property @j sash ean sense ant art secendincly.
+oneroilery and Sguee
+But the putting of properties ly 5, snl 6 =» self-preservation,
+seltanetntenence,
+‘od Sopebaustion = into mitter’thée te nov proteplasn hasy so far eo ve brow, nat
+Jet happened, Usioesy af course, St has happens! in the stonde energy instatiations,
+En Le?Strouded in unsekentatic Secrenye
+
+In fast, men have not yet seen any great need to do sos
+
+A robot rulded by a man
+
+telly preserve Itself, Like so autenbiie with
+driver, ay tate the trosble te
+‘Suis the savot to preserve tteeif? A robot can eastly be maintained sot Pepatred
+
+‘fata
+in s service station ~~ shy take the trouble to make the mnchine able te tak
+
+for robots,
+
+nieed,
+
+Af there
+
+ts
+
+any cuacisossa
+
+vo be dram
+
+ost of
+
+meats
+
+vrosd
+
+et
+
+Dertence with rebate to datey it ie thiss you ean progres a fooot to have timoat
+
+UEy Hind of rather sinple behovior that jou fancy.” In fact, mary provlent of uarfare
+
+Like’ the controt of the fire of punsy er sppropriate pllotine of eirerafe or guided
+‘nisstls, cat only
+be solved ty buildin incrieste ted conphieated bebavier inte,
+
+abots, sl thse problens
+hove been solved,
+
+46, cootees tn Constructine Rabat Lite
+ou thn shat ve go about butlaing self-preservation, aelfumtinteneaee, and repro=
+‘futon into edjecta?” that choices shall we nave in Seaer to consurece robot Tifet
+Bren if there are no Snhereat ficalties, there are plesty of veshniesl ennss
+‘Te
+
+first deotaton we shall make
+
+4s
+
+to
+
+avoid srotoplany
+
+the baste
+
+staff of
+
+Zarth
+
+fe!
+so fars_ "dm the one handy there is to puarantee tnt living being on here
+‘ould require protoplaons”
+
+Avi on the other handy protoplast
+tea aiphty complicated
+
+{HAMY, ‘organised
+en an extremely suit) sealey ani en stilt
+resin
+
+tdce tony
+
+atten
+
+know very
+
+tay nee dente
+
+Little tbeut
+ce ae,
+
+Ser ‘s"abe the oainary hrbuare wala noel for ating ‘neseenletl
+snd eecietert
+fystenss
+
+In fact, harvuare Ag s Kind of material that nen bave bad expecience wath
+
+{for some tho huvafes
+
+yours}
+
+ant ve are
+
+bepioaing to be sbie
+
+to do sone rather renarke
+
+‘ble things
+with tee
+‘ton second decision that we shall make Ss that robot 1ife at its cutest ts goine to
+{ea
+paresiea
+on protoplaon 2ife, “Innach the sane wey, andnsl Life te s persoite
+‘ plime Ltfe,”"Aninal Lafe appropriates the prosscts thee plant Life mamfecturess
+Eitrotot Lire, at tes cutsety ie going to appropriate the promcts that
+
+protoplast
+
+‘He mmseceafere
+
+Te Robot Seit-Preserration
+
+IE a robot is to be able to preserve Stasif, St har to have s certain amount of
+ring
+
+stich cusecss tnposes
+
+eth stastlons in each emay tat
+
+138
+
+rte
+
+‘Suppose for eueple oar robot life species was & snail robot on sels Like 8 toy
+‘sutoabile,
+
+“There are several Fequtrenentar
+
+(2) 48 should eyed reine into obstacles, since that nicht damage tty
+(2) At showtd not rot to for avay, for then St might get too far from Sts
+ine enricoments
+
+back to the none bave fron tine to tine when £8 wa
+(0) 48 shouldofcone
+ropedr ted matsteranees
+4h heed
+
+organ for
+speed, coulé be theersensing
+, together withityslov
+‘estacte-sensing buttons
+with « Meh oh
+sensing device, togeth
+A hight-intens for
+ttenent, Sen
+‘petselestte
+relay,
+tine
+f
+enents
+secon reqiir
+engan g the
+sin
+‘Be Sorat romisspents, ofnprtoa
+ic naintensene, coula be Ue seneing orga for, the
+
+ste
+ceeMay
+se ase
+be converted Sate yes nactticrs abd
+W ST enettionsandsould
+‘pyetner UUthe
+for cumple, appropriate ection ca be easily errands
+
+anil resect the Ton
+
+Nesbaatest
+
+forward
+no’ floerion® inof the
+wosld report
+r shich
+efeele
+censin
+eee’ tha
+of
+rape
+Foe
+notion
+direct
+the
+in
+change
+to
+g
+vestin
+stion
+need to be deelar ide inforn
+fhe robots
+
+8, nobot senetatntenarce
+
+to ¢
+will peed access
+maintain tteelf,sol1¢ sone
+to repsir andconooc
+to be abletarcat
+te & robot As4s $2DS
+progrming
+of
+Hint
+tee,
+es
+tise
+e
+CE
+1 4 robot
+or
+S anich tt can cxchunce old Stems, wich At has partially
+Sf
+
+of RS ASSE
+FREELY
+
+y for new ttanse
+telup,
+ScopleWeed
+
+re these day are prepared in forms at are otny fo, ling
+ttens of hardwa
+eacty #11 hy
+tbe of tcamepley nats tod bolts cone tn sapere Pectages, fn espeb
+
+a
+of the
+Moar
+t tbe ttn
+tbe mtmteentne
+t the maty set
+scl orien
+on: Lor ap
+then Hahtan
+ead
+gee Postti
+belt,
+the
+vp
+the
+wind
+match,
+s
+treat
+the
+oral
+an Piet e For 1 nan btn hig ccnaalized, highly evobved end
+wells
+Shee te eons
+Vecnch
+bolts feeldne
+wth his eyes, this
+ions
+Soewt
+an
+s
+shape
+nise
+recog
+uo
+ty
+e
+rene
+5
+wlth
+place
+ah
+8
+process So very efficient.
+alt
+te
+and for
+bo
+ut theve operations are seriously difficalt for all presnt-day ro
+6008 share
+, 2,4n 2
+san boing good shan" ade
+‘Bettas ener Hate van
+eyof aratexe
+s Sb
+
+ese snl
+
+uction of our
+design and constr
+longest tn the
+that delayed us
+‘In tact, the problen iat"
+cur Finsl desion, g
+tn
+s
+scoop
+the
+or
+ty
+rhants
+of
+pebe
+ine
+bles
+the
+Be facts elSaueg wt SP"Festa, aot are beth opened or closed by guy wires Pinnin
+agutrr delnwiyar say by a sstor- fore eas coe sinple plcKING- 454 PULLIN
+oboe Mars
+are
+fhe
+ht ot ccecruhs ta design St ao nave it work properly, while St
+oa drum turned
+the whole brain of
+cays to desten
+ly
+‘toon onfew
+oF Bardaare in
+
+Rage Te needed fo Sevelop teers
+position,
+
+robot maintenance probleman$5 tot
+present wy to solve thepart
+Vecbeedny, the eastestrobot
+thet my peed repair Stoeht
+lise detect cach
+
+eethe Toxrpartss instead, the rebot ben eqeding repeat {421 be ele
+atteaen th
+_ theplanSt ofand narng
+Ins {oovoinacy cavirecnento feeding ant repair StatieG® oF “Fe
+esos
+of the Rechandcsl
+Toa ee ce turpdsckTM or showpital", Like the “mateh”
+
+‘hutia.
+
+or matching automatic michine, wi3l test each
+Here, a counter-part robot,
+
+‘Ran th the rotots repair or naintain say ten that requires ity and refuel the robot,
+‘ide eountercpart reset or syaintensace factory" will st first be thoroughly depen
+ERE oe nonin hifey inthe save say a a parsolte tn many of ite Life stages 1a tho-
+
+host,” Fosttientng of the robot vill be done ence anf fer
+ent
+ge its
+Stuchly depend
+Si when Te resches the entrince of the maintenaace factory.
+
+tater, as nore emertence with "Living® robots is geined, spare Stes con be stored tn
+
+frvon’the robot, tal thenever needed can be shifted dnte‘ploce, The easiest Stems tr
+
+are Aiguids. Lubricating oll, for erample, could be fn a Hitele
+haa clase of course
+esecvoir en the robot toi arranged to soze out when needed.” then at much longer
+
+‘erate hl rceh ba vait ts recmittoning torah st 11 ey wth
+
+‘of inbetenting
+
+new
+
+ofl.
+
+or alt Living beings, the main repair process te tntereal and involuntary. Protofines life hos the Capacity to Desi many Kinte of danage to dtself, though not ally
+
+Ey ies internan provesaes vadch convert rev nstertals such as foods air, watery into
+
+he right ind of heshing staff. Bit dotereal healing wilt not be true’fer robot
+at the start; tt wilt be for sone tine a parasite on bunan 1ife, The mink
+Life‘
+Self-naintenance feguireent for robot life ts that when it eenses that 42 needs
+Fopain, of refueling, it can go ant get repatred or refueled.
+9.
+
+Robot Reproduction
+
+IE a robot ds to be able to reproduce Stself, then again 1t bas to have a certats
+‘Sount of preerimnine (Sebarior) such that ag a neoult of dts em actions, from tine
+ES°einey nove robots Like itself are reprosuced.
+
+the _problen siple, We shall asmune a rebot "birth
+me
+te keep
+ie shat conti
+Factarytcr locsted an tone part of the roost's ordinary enviroment.
+
+The rebot
+
+be ike sans roeky islands tn the sei wuere certain species of
+‘Bite Factory would
+ety core ny wnt be tebe by a he ER forme
+seh hit lege com
+(eteept men)
+
+Gievthl of each feed Line one after another
+
+ow shen a robot to stimlated tn the sporooriate way, set will happen? Te will
+‘ither etarn to the tobot birth factery snd press e tutton,or it will teanundt an
+
+‘Dpulses the abet birth factory will therespon assemble att tamue & new robots
+
+“Et the ret spectes te of the type thst has tapes for programing to be recorded
+
+{[h theny thece nilt be no propramtins get secorded in the tapes of the newnewPobots
+robot
+
+tne ante robot will connect Sts tapes tothe
+SE Sea bE PcSrided that
+tn ite om
+Sua record inthe Inteerts tapes all the Sefomation whieh was fecorded
+Tibay Uigether nith such charone ar St may have seqeired fron fes expertenc
+tore x can 2¢0 & posstbhe grest strantage of robot life; empertence ant Learning
+
+Eefuires by an old individual can te teomanitted Alrectiy to nee intteidualeway.
+SEEIEUSZGRSN LfeeThes tote about the process Sn t mich wore tnitrect
+
+‘ren
+
+at the present tine {t would be possible to set wp metas of conmintestion
+
+between
+the gla electrte trains.
+
+The progrioning worked out for or ty ene can be
+
+‘nado Svalisble
+#9 others.
+
+‘But stat As
+Tetimation im the appropriate way" that we mentioned above?
+Many
+Species of protoplame Life have Just ene siople tenteny, to naledniys
+Thay PRO
+
+ice new inaiviguale
+of the species, se many’ and a0 fest'as the envifonnat
+soa
+
+Bs
+
+ot if,
+
+Delage eansot
+
+pratt, baste
+
+Stni
+
+tts
+
+fons to nate renot lise msleipiving
+
+‘ide that the musbor of iniivisoale of'=
+
+any
+
+enn
+
+indefinitely.
+
+roost apeties is to
+
+ge td an
+ny tot then pro
+
+renidn constant?
+
+Suppose that each robot iniivisual continmaily signals the rosst Bicth factory,
+Then,
+EP'ary robot fniteizual *ales"y it stops signaling
+the robot birth factory, whereupon
+{the robot birth factory prosotly debuee
+= new robots
+‘he mink reproduction regutrenent for robot Life is thet when sn iniividual or
+‘Soeaaty of robots reports the need for another {nltvidual fesot ef the soecies,,
+
+nother uch robot Lr Feprotuceds
+
+Part M1
+Yow, how do we go
+
+~
+
+outhine for Constructing
+Robot Life
+
+about constmucting robot iter
+
+Corresponding to the three parts of a robot, there are three aides to the
+protien
+of constructing ronct 1ife,” These ares the eonstruction of sensire creams) tie
+Sonstrustion of taincine organs} soi the snstraction of seting envsnt:
+
+‘he construction of sensing organs for robot life Ss neither theorettesDly nor practi
+
+enbiy ditficale,
+
+For
+
+sight, we can have phototabes thet sense lights
+
+fun fave dlapnrigss tnat respond
+
+te
+
+polesclar visretions,
+
+"Fer touohy
+
+Por sound, we
+we ean have
+
+hit could be erplayeds
+
+‘he construction of acting organs for robot lige 4s aot theoretieslly défticalt tut
+
+practically tt is.
+
+The example mentioned above, s/harduare *handTM efaivetent to the
+
+Fina hand, 18 a good ftlustratton. Sen eoy there are nary simple Kinde of neohi~
+‘lcal devices that ena be expleyed fer the esting erpene for fonst Zafer wheels
+fn wah they ean sl, seeope by means Of wh they can pick ep thinesy ees
+
+‘he construction of thinking engine for robot life,
+
+the organs guiding tte behavior,
+
+is'a problen wich may appear to be theoretically &4fFiceley bot actually Sts a
+
+Hon Invnot alificciec
+
+This 42 the proses stew we shell discuss
+
+here at length
+
+1. tobot Life Species Bos 2
+‘To make our discussion conereta,
+
+Iet us asvune 4 siasle specter
+
+Sts bone enviremmat,
+@ *rebst world’s
+
+See Plgare
+Te
+
+stot
+fy
+2, 3,
+Pood starebotte
+
+Birt Petry
+Figure 1 —
+
+the mobot sort
+
+of *rebot 14fot,
+
+and
+
+1h thts robot worl
+
+2
+
+Tue
+
+wane representa
+
+oot
+
+[ees hve
+
+sete
+
+oc
+
+tre sony ty
+
+for thndnry to} foe.ch
+
+ae of
+
+tae
+
+ats
+re
+SEE
+Lights are of four different eolérs (colors ly Ma
+2, 35 ks
+nee
+
+2
+
+ood Arta,
+
+ante
+
+with
+
+moter of 140s,
+
+(color $)5 "here *foot® may be feants
+
+a
+
+of the sane color
+
+Be A Storehouse, share the robots being foot
+(24eht of ester 6).
+
+1s A Repair Shop, share a robot can be repaired (L4ght
+of color 7).
+5+ A Birt
+
+Tuctory, baring s rotating shetotube whlch aoans the robot
+
+‘Worlds here now robota
+
+can
+
+be produced.
+
+2. Baarior
+
+hat
+
+kin of behavior do we need for each of the beings in
+the robot serld?
+1. Storeh
+Store food ous
+when brought
+et
+to At.
+2 Repair
+
+Shop:
+
+Repair a rebot when
+
+ene oomas.
+
+3s Birth Photory: Af the Light of any robot goes cuty data
+& nev robot
+s
+
+‘of the sane type (Lue., with the sane color light},
+
+1 Baan Revot
+‘A Mant for feed, 4¢ wets
+
+2
+
+Plok up food A¢ fount ad take St to the stordatey Af well,
+
+©
+
+But dom
+
+feody ££ 48 49 val, sen 5¢
+
+vert
+ns now Manes
+
+resches the storehouse,
+
+ie told emung
+on snes
+
+ant
+
+2D. Go to the repair shop, AF £8 As otek,
+1
+
+Ont repatr
+Sn the
+d rwpate shops
+
+Ps TE At nits an obstacta, back up 4 24886, ant then go formant tn a
+iw dinestion.
+
+3s Sehamutie Diagrans for the Counter-Fart febote
+ne are, the
+
+genenatte dtagrans of the programing circuits?
+
+it shall sonuney for
+
+this part of this section, thet the teauar uninretanis elesirion svitch ant
+flay
+
+ining Sagres
+
+‘Sterahruser
+
+The schematic for the Storehouse Se ecavarstively simple.
+
+See Figure 2-
+
+|
+
+Si,
+
+storing
+Actions
+
+epatring
+petit
+
+|=
+Drive
+
+er
+oboe arrives
+
+Figure 2
+
+Figwe >
+
+Serematie for Storehouse
+
+Scheme for Repair Shep
+
+PERE BER
+
+‘Birth
+
+Se,
+
+Re esete for we Rpts op Ae aes compara
+
+Pestorgs
+
+eimles
+
+See
+
+The schematics related to the Detarlor of the Birth factory are &
+
+fs nore Complicated.
+
+tet us suppoae that the birth fuctory bas two aycles of cperatiens During cycle 1,
+the pactotabe tars arcunt completely, Like a rnanr antenna, detecting Light fren 212
+that conplste citele of 34 dagroegy 4f'all rebets are "Ali@e",
+‘ReStionse Daring
+
+the blebs
+dotacted efant course
+bemeesoserliy
+wa
+aights
+‘hen their
+i
+not
+ip
+dy
+25
+iy
+tolera
+‘Sat eycle,”eha Birth taotory shoul observe the
+
+ote
+of
+ood aunty
+‘beratee
+
+‘en the Birth tectory niy uid evostote Ont robot fas died", ant dt should Sanus 4
+
+of that type.
+iv robet
+
+e
+22 shown
+The tebemstt
+
+&
+
+sours
+
+ele tear
+
+Goring Oreae 2
+
+°
+
+a
+
+t
+
+reste b = Shmate fr the
+
+rt
+
+rctry
+
+Figure 5 — Senemtie for Cireuit Baporting Robot's “Desttt
+
+cake
+
+1, Schematic
+Diagrams for the Robots
+i come
+
+now to Whe schematic
+
+diagrams for
+
+the behavior of any of the four rota.
+
+First, Us nootos senses of the robct are theses
+
+»
+
+Soe 4asE
+Te Ste ae
+ore
+
+H
+
+Ste iene wate Ste Fiestas
+
+a
+H
+8
+
+Detect th light of the rescir shop Conlee 7)
+DBitsct the greveass of focd dn fts'scoap
+
+5
+
+a1
+3
+2»
+a
+
+a
+
+23
+ytect
+te Dont of te 00d coker
+Breast whe Light of ths storescune (coter 6)
+
+Detect an obstacie
+Bitect
+of
+Detect Qe
+Dhthatentrance
+gatrance
+of |
+ft has become
+‘asiiae
+
+5
+Ff3
+
+Reaktor
+that 48 has bosons
+
+1m knwping with the outing mature of this reperty we ahell aswune Unt these senses
+
+gare 6 ~ Schematic Digrn for Cheats Raperting Scinest
+
+4
+
+(sehen nace to a relay erntact)
+
+1 Gerttten nest to 8 ratay cott)
+
+ane
+
+05
+oe boty or plan
+
+Drees
+
+”
+
+not ay on aime
+a,
+
+o
+
+b nim
+(4 tines
+
+4¢ 20,2
+
+‘he ccoddtton equtl to a but detayed i
+Ba eet
+oe ae
+
+Oe
+
+‘age variables may be theught of as tine functions
+What have nly the values O ant 1,
+
+‘och an
+
+shown
+
+in Figure 7
+
+Figure
+7 —~ Delay of Tho Outs of Tine
+
+4a an abbreviation for a2, ve anant often uae Mor ats
+Yew suppose wo vant
+
+relay to represent 2 state S that csatinues
+
+during sone
+parted.
+Sippeae at the state $ atarea with Sweat f and stops with
+fvent Sovsne Some PP
+
+Topehogtesliy, we haves
+
+‘he relay etreatt itt ber
+
+jae
+
+‘Te boolean eateulus equation
+winl ber
+
+serie
+
+‘The relay hold contact marked 5 bas to Ing slightly behind the cofl S. We shall
+
+‘Saupe Unt the lag is con ant of tine, er_com pulse
+
+tine,
+
+Physically,
+for may
+
+‘slayay the lng ia oftan about 1/20 of & seosndy nod se eailad the pickup times
+For spothar example of s delay function, Let us consider
+
+IMs the proparty that At enangsenay
+
+tine deley relty,
+
+auyy fay aeconie after tne
+
+contact cleats
+
+Tes
+Uist
+
+{oean tity see Figure Be
+
+=
+
+besa
+Pive-secend thermal denen
+
+Figure 8 — AFive-Secont
+Debey Panction
+
+tere he
+of tine,
+
+Baa
+
+extestas opunticn wttt be B= aT? ce 46 we ue seconds as unite
+
+is are now ready to dtaplay the crgtntestion of the states, evente, and programing
+(OF cur apecias of tebot Lifes
+Thay are show in Pigare 9.
+
+we
+
+oom
+
+‘to
+
+ae ste
+
+ty
+
+he
+
+7
+
+tpt
+
+%
+
+“pte car ee
+
+fg
+
+TM tet
+
+A
+
+Sa tnt
+
+%_
+
+Seek storehouse
+
+Fy
+
+fon tnt
+
+Pap ne tet
+
+%
+
+%
+
+10 + Slo
+Walon
+
+regrow
+Te (5 ¥ 0%
+
+foot
+
+AS a TADS
+
+fe at stores
+
+Be Sp SPAY
+
+Tine senate attr
+
+Fa (5 7 Ror
+As GpFen
+
+Pe (5 Fst,
+
+i i i
+
+Sy
+
+Reece went
+
+sents
+
+‘Sy oF Py Detect an chotacte, of start
+
+>
+
+‘,
+
+ade
+
+terbutaline
+
+es
+
+retren ving
+ss
+
+wt
+
+RDS
+
+Yow that we have the progrins,$t $9 quite eusy Uo finish the schematic ctreuttss
+
+is
+
+Figure ite
+
+See
+
+Figure 21 — Robot Life Spactes Now 1 -~ Programing Correlated
+‘ee tetice
+
+Fart IT — Practica) Conclusions
+
+ute 45 407 tho Sn the werd wants Living robota
+tow is a this theoretical? what
+iano
+
+ve dos In cur anal ongantesticn ve are engnged in x small-scale program of
+‘Woth,
+
+bran,
+‘Susteasting treino and relottc, in have Finished Sineny s miniature mechanionl
+in mind
+Et Srovey the robot agutrrely ani ue are at werk ou eter robots, le bave Livy
+or
+Ee Stthastion of stiht ether rebeta =~ kinis Dat will bande identy or
+it 4a
+Be’conpantonles ny do Sik this? It is exciting to push beck the frontiers
+
+‘fan tn fire peoplats
+
+good Dasieas.
+it teams to betcnj
+anttntt
+daag
+
+Produce thenselees. “En facty fe do not beyend possibility thet such rebeta
+
+[hist in presentediy atente toargy sr golded missile Snstlietionyy hidden ta te
+Sclantifie secrecy.”
+In fact, imt monber
+of envirennenta Weotiie tr dngeaetnle for
+on
+
+brinen
+
+or
+
+rotolame Tite, 38vingF
+wil in tw fare
+etth
+toes wey
+
+practical,
+aod etsential.
+
+
