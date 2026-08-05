@@ -1,0 +1,502 @@
+===== PDF PAGE 01 =====
+
+MACHINE “INTELLIGENCE”
+Until a sound, agreed-on definition of “thinking” can be worked out,
+no man can say whether or not a machine can think. But here's a fascinating
+thought: What would a big, modern computing machine score on a standard
+Wechsler-Bellevue intelligence test? Not exactly a senseful question—but a
+fascinating one!
+
+No one any longer denies that a sired item of stored information
+machine can carry out many opera- in a fraction of a second;
+tions of reasoning. » 5) Select routines or subroutines de-
+The large-scale automatic sequence- pending on indications, either
+controlled calculators—if you use Har- those given to the machine be-
+vard language—or automatic elec- forehand or computed by the
+tronic digital computers—if you use machine in the course of solution
+Bureau of Standards language—have of a problem, and so determine
+proved that a machine can: instructions for itself;
+1) Take in numbers and instruc- 6) Check tentative answers by a
+tions in machine language; variety of tests to make sure that
+2) Perform the arithmetical opera- they are right;
+tions of addition, subtraction, 7) Put out answers in language'that
+division, square root, et cetera. human beings can read. :
+3) Carry out these operations in The proof that a machine can do
+long sequences of different steps; _ these things is simple. Machines phys-
+4) Store upwards of a thousand _ ically exist that have actually done all *
+pieces of information (numbers, of them.
+or instructions, or indications, Does this mean that one of these
+i.e., a one or a zero, a yes orano, machines can think? Does this mean
+. et cetera); and refer to any de- that a machine_can handle ideas, in
+82 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 02 =====
+
+a ay. a, SD
+This small computer, invented by Theodore Kalin ond Wiliam Burkhart, is unique among computing ma-
+chines. Instead of doing mathematics, it is a logic-computer. Instead of working with numbers, it considers
+statements, and computes their logical conclusion.
+the way that a human being sup- that the operations they perform could
+posedly can handle ideas? certainly be considered thinking opera-
+: nt hes tions. In fact, some of the scientists in
+Argument: A Machine Thinking the field, especially those working with
+Now there are scientists in the auto- _ the intricacies of automatic telephone
+matic computer field who argue, with switching equipment, say “If this is
+a considerable display of emotion, that not thinking, what is thinking?”
+such machines as these do not think. But the argument is supported by
+The argument has the appearance citing a number of thinking operations
+_ of being weak because it smacks of which machines do not yet perform.
+knowledge after the event. For, before Let’s try to list some of them. Such
+the arrival of the great automatic operations at first glance appear to
+computers, everyone would have agreed include:
+MACHINE “INTELLIGENCE” 83
+
+
+===== PDF PAGE 03 =====
+
+Hah Petes et | | a | .
+: —a =. 4
+The Bell Telephone Laboratories, at Murray Hill, New Jersey, has this electronic analogue computer; it is,
+in effect, a super-electronic-aide-rule, incapable of logic, but an excellent arithmetician. Data is fed into
+‘the machine by hand-setting potentiometers on this board; the plug-board above interconnects the unit
+computers.
+
+1. Forming ideas out of sensations situation, like seeing a house
+and recollections; burning, going to the telephone,
+
+2. Expressing ideas in words; calling the fire department, and
+
+3. Taking in words and getting telling the fire department where
+ideas from them; to go;
+
+4. Listening to a series of sounds, 8. Using mathematical symbols
+recognizing them as questions other than numbers to solve a
+and answering them appropri- problem in algebra or calculus;
+ately; 9. Analyzing a novel and compli-
+
+5. Telling a story; cated situation, and discovering
+
+6. Writing a book; a theory that explains it;
+
+7. Responding “intelligently” toa 10. Looking at a scene, and recog-
+
+84 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 04 =====
+
+| oe ; ee
+_ i (fi. |
+—————— yf he Se
+(4 | el ae a | fez” oe ees |
+F ew) | 1 | BLe oy -8 3 fe deat |
+ome ee oS RR
+| : | LA ae UL) ep yt 7
+4 E E Ae 8
+| [eter ose) pe
+; LA 4 me oe
+Lo a
+The Bell Electronic Analogue Computer's computing mechanism proper. All computation work is done by
+the units in the larger, right-hand bay; the left bay is power supply equipment.
+MACHINE ‘‘INTELLIGENCE”’ 85
+
+
+===== PDF PAGE 05 =====
+
+nizing objects from their ap- late mathematical symbols. Certainly,
+pearance. the rather arbitrary kinds of symbols
+In short the argument becomes that that human beings use can be trans-
+a machine cannot think because there _ lated into systematic arrays of decimal
+are many kinds of thinking operations or binary digits that a machine could
+that human beings can perform, and store in its registers. Certainly, the
+that machines cannot yet perform. tules for operating correctly with sym-
+This is a much better argument. In _ bolic expressions can be translated into
+fact, it would even bea complete argu- rules that a machine could operate
+ment if it did not have two loopholes. with. Perhaps it might be hard for the
+In the first place, what machines can- machine to be as astute at manipulat-
+not yet do is no argument as to what _ ing symbolic expressions as a trained
+machines in the future will be unable mathematician. On the other hand,
+to do. And in the second place, the the machine would have much greater
+items of thinking behavior that human _ speed, accuracy and completeness. Un-
+beings can perform and machines can-  deniably, a machine is able to deal in
+not perform may be insufficient to any reasonable way with any kind of
+prove that a machine cannot “think.” symbols when translated into machine
+For the kinds of thinking behavior language.
+necessary for an organism to “think” 4
+should be settled by an impartial um- Education
+pire; and breathes there a man with Another of the arguments that a
+soul so dead that he could be an im- machine does not think is that the ma-
+partial umpire in such a question? chine is a slave. In other words, the
+In fact, no sooner do we read over argument claims that everything the
+this list than we think of mechanical machine does is determined by the in-
+devices able to do something close to structions given to it beforehand by
+many of the listed activities. For ex- the mathematician who programs the
+ample, the automatic fire alarm has machine.
+long been in existence. For another But this not quite true. In a com-
+example, the iconoscope ina television plicated mathematical problem with
+camera can “see”; it should not be many branching routines, no person
+long before some kind of scanning at- can predict which branching routine
+tachment together with a memory of the machine will take until it actually
+shapes will enable the machine to gets up to the branch point, and ex-
+“recognize.” amines the indication of the road sign,
+Fora third example, even one of the which tells it which way to go. In fact
+existing automatic computers is un- _ if desired, random variables can be put
+doubtedly able to “learn” to manipu- into the machine, so that each time the
+86 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 06 =====
+
+pg ae i a e.
+
+The UNIVAC computer installed at Philadelphia for the Bureau of Census, will analyze census reports
+as a primary job. This order of machine approaches the lowest level of intelligence—and can do arith-
+metical processes at, quite literally, lightning speed,
+machine comes up to a branch point, the society to which the mathemati-
+the chance is good that it will make a cian belongs. We have to concede that
+different choice, and do something without the mathematical knowledge
+different. gathered and passed along by the so-
+
+In reality these instructions are the ciety—education—the equation could
+“education” of the machine in the not be solved. But we can dispense
+same way as instructions to the mathe- _ with the mathematician; for we can be
+matician constituted his education. sure that if he did not solve that equa-
+Basically, education means teaching an _ tion, some other mathematician would.
+individual organism what other indi- Quite generally when the time is ripe
+vidual organisms have found out be- for an invention or discovery, then it
+fore. The mathematician who finds out _ is made.
+the solution of a mathematical equa- The profound importance of edu-
+tion is making use of the methods cation is highlighted by the evidence
+worked out by thousands of other hu- that turns up every now and then
+man beings, many of whom died before in connection with human children,
+he was born. For the purpose of solv- brought up by wolves, or in the wild,
+ing the equation, let’s contrast the or in a closet by inhuman parents.
+contribution made by the mathema- These cases show with fearful clarity
+tician with the contribution made by _ the enormous influences of social cul-
+MACHINE ‘‘INTELLIGENCE”’ 87
+
+
+===== PDF PAGE 07 =====
+
+ture in every facet of human behavior 4. Digits Forward and Backward.
+and particularly the capacity to think. 5. Similarities.
+Nearly everything the machine does is 6. Picture Arrangement.
+the result of its education, and nearly 7. Picture Completion.
+everything the mathematician does is 8. Object Assembly.
+a result of his education. 9. Block Design.
+i 10. Digit Symbol.
+Intelligence The first test, general information,
+In our exploration of the subject of contains questions which “call for the
+thinking, and whether or not machines _ sort of knowledge that an average in-
+can think and to what extent they can dividual with average opportunities
+think, one of ‘the related subjects is should be able to acquire for himself.
+intelligence. If a machine could take For example, a question like “what is
+an intelligence test, and pass with a the average weight of an American
+good grade, could we say that the man?” might be included in the test.
+machine could “think”? What is (To protect the usefulness of the tests,
+intelligence? no actual questions from any test are
+A good deal of work has been done quoted.)
+on the subject of intelligence. David An automatic computer with a suffi-
+Wechsler in “The Measurement of ciently large memory could answer a
+Adult Intelligence”—Williams and question like this, if translated into
+Wilkins Co., 1944—says that “Intel- machine language. The question is
+ligence is the global capacity of the equivalent to a reference to informa-
+individual to act purposefully, to think _ tion stored in the registers of the com-
+rationally, and to deal effectively with puter. Its mark on this aspect of the
+his environment.” test would be 100. But for the auto-
+If we interpret “‘the individual” as matic computer to “acquire the in-
+an automatic computer, and interpret formation for itself,” would require
+“his environment” as the numbers putting the computer into situations
+and instructions which the automatic quite different from those in which
+computer receives, then certainly the computers now are.
+machine “acts purposefully, thinks The second test, general compre-
+rationally, and deals effectively” with _hension, is aimed at measuring an in-
+its environment. dividual’s understanding of practical
+Wechsler selects ten tests for the situations involving him. Questions
+measuring of intelligence: like the following are on this test:
+1. General Information. “Suppose, as you were walking by a
+2. General Comprehension. house, yu saw a great deal of smoke
+3. Arithmetical Reasoning. start pouring out of it. What would
+88 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 08 =====
+
+<< gee ae OG SS: epiatinctee |
+
+Dr. John Mauchly, one of the inventors of the UNIVAG, leaning over the Master Control Board of the Phila-
+delphia installation. UNIVAC is an electronic digital type computer—it “counts its fingers" to do arithmetic,
+rather than using the slide-rule analogue computer system.
+
+you do?” Wechsler remarks that suc- question as this. The score of the auto-
+cess on the comprehension test seem- matic computer on this test would be
+ingly depends on the possession of a zero. In the same way, this question
+certain amount of practical informa- should not be asked of a blind man,
+tion, a general ability to evaluate past. who would be fully entitled to say, “I
+experience, good verbalizing ability, am sorry, but since I cannot see, I
+and accustomedness to setting forth would be unable to do anything de-
+ideas in words. pending on seeing smoke pouring out
+
+Here is a thinking operation which of a house.”
+
+no existing automatic computer could In order for an automatic computer
+do. For one thing, the computer does to answer a question like this, the
+not have the sensing organs which machine would require a variety of
+would enable it to deal with such a _perceptors—sensing organs—consider-
+MACHINE ‘(INTELLIGENCE ”? 89
+
+
+===== PDF PAGE 09 =====
+
+Meer. m1 ihig |
+: “a | -
+8 ee
+" vb fee
+eed oe, | ij
+‘The great computers have become as essential to scientific research as libraries and laboratory equip-
+ment; the Notional Bureau of Standards has installed a major computer.
+able capacity to record sensations in plication, division, or proportion. No
+its registers, a capacity to form and unfamiliar words or unfamilar situa-
+deal with ideas—which we shall dis- _ tions are allowed in the test, and so the
+cuss below—and a capacity to express questions avoid trouble in reading.
+ideas in words and report them. ‘An automatic computer, of course,
+The third test, arithmetical reason- would have no trouble with any part
+ing, consists of ten simple questions of the test, if the questions were trans-
+expressed in words. An example of a lated into machine language. Its mark
+question is: “If a woman buys thirty- on this test would be 100.
+five cents worth of sugar and gives the In the fourth test, “digits forwards
+salesman fifty cents, how much money and _ backwards,” the tester—person
+should she get back?” The answer de- administering the test—first says “I
+pends on recognizing and carrying out am going to say some numbers. Listen
+a simple addition, subtraction, multi- carefully, and when I am through, say
+90 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 10 =====
+
+them right after me.” For the first tions were translated into machine
+question, the tester then reads slowly language. The computer would contain
+a series of digits, like 6, 9, 1, and stops, _ in its storage registers a lot of informa-
+and the testee then repeats 6,9,1. The tion about terms and their properties.
+next question is a series of four digits. It would be able to compare quickly
+The last question is a series of nine any two terms to see what properties
+digits. In the second part of the test, they have in common. It would dis-
+the tester says: “Now I am going to cover what term in all its collection of
+say some more numbers, but this time terms expressed the largest number of
+when I stop, I want you to say them those common properties. Then it
+backwards.” The series for the back- would give the answer, easily and sys-
+wards test ranges from two digits to tematically. The computation isessen- »
+eight digits. tially a problem in the algebra of logic
+
+This test is essentially a test of some called Boolean algebra. The machine’s
+of the individual’s capacity to store _ intelligence score on this test would be
+information, his memory. Certainly, 100.
+an automatic computer would have.no We could go on and discuss the re-
+trouble at all with such a test, and maining five intelligence tests, and the
+could easily remember a much longer way in which automatic computers
+series of digits, and repeat them either would be able to score on them. But
+forward or backward. Its score would enough has been said to show two
+be 100, : things.
+
+The next test, similarities, contains First, although these intelligence
+twelve questions like “In what ways tests were constructed without any
+are a cat and a horse alike?” The re- thought of a machine taking them,
+sponse is credited with 2, 1, or 0, de- nevertheless a machine could score
+pending upon the degree and quality rather well on many of them.
+of generalization. A full credit answer Second, the areas where the machine
+would be “they are both animals with gets a low mark are associated with
+fur.” A half credit answer would be _ the following factors: 5
+
+“they both have four feet.” A zero 1. Making use of sensing instru-
+credit answer would be “a cat meows ments (perceptors) ;
+and a horse neighs.” From question to 2. Organizing the sensations into
+question down, the test, greater and shapes and patterns;
+greater generalization is needed to — 3. Organizing shapes and patterns
+express the likeness of the two ideas. into ideas and experience;
+
+A properly educated automaticcom- 4. Learning from experience;
+puter would be able to do excellently 5. Going from ideas to words and
+on this test, if—as regularly—the ques- from words to ideas.
+
+MACHINE ‘INTELLIGENCE’? ot
+
+
+===== PDF PAGE 11 =====
+
+Sensation ‘To produce shapes for an automatic
+Sensing instruments, of course, have computer, we have to go further than
+developed far beyond the powers of the TV screen. The screen produces an
+human beings to feel sensations. With _ image indiscriminately, like the image
+hardly any trouble, scientists can at- recorded by the iconoscope, and does
+tach sensing instruments to automatic not furnish any shape. In order to ar-
+computers, whenever someone wants _ rive at shape, a comparing circuit and
+to. In fact, such data-as wind tunnel stored recordings of shapes must be
+observations and telemetering data, available.
+have been fed directly from observing Steps have been taken in this direc-
+instruments into automatic computers. tion. David Shepard of Falls Church,
+* The whole structure of science prob- Virginia, has recently produced a
+ably depends on the invention and model of a machine that will “read”
+development of sensing instruments. typewritten letters on a sheet of paper,
+Most instruments have simply trans- and then impulse an electric type-
+lated physical observations into the . writer to copy them. The principle of
+language of the human senses, chiefly this machine is simple and excellent:
+sight. an image of the letter is throwneon a
+No, the gap in the intelligence of scanning disk, which senses the pres-
+automatic computers is not in the ence of shadow in certain patterns—a
+ability to sense by means of mechanical _ vertical line, a large curve, et cetera.
+instruments. The sensed features are then recom-
+bined by a circuit network to give
+Shapes and Patterns impulses to the typewriter. More re-
+But, for a machine to organize search in this field will lead to further
+sensations into shapes and patterns is progress, in teaching automatic com-
+harder. Occasionally, we as human _ puters how to organize sensations into
+beings notice the effort we have to patterns.
+make, as when we try to read illegible
+handwriting. We may spend a ‘half Ideas
+minute, considering carefully whether But how do we get a machine to
+the letters are “Ir” or “bi”, or per- handle ideas? What are ideas anyhow?
+haps “cl” or “d.” We use knowledge ‘The simplest approach to a down-
+of the ideal shapes, the spelling re- to-earth unromantic account of ideas
+quirements of the word in which the _ is to consider first the “idea” that an
+obscure letters appear, comparison automatic oil furnace “has” of hot
+with other letters as written by the and cold, A thermostat sits on the wall
+same writer on the page, and finally of the living room, and when the tem- ©
+statistics and random guessing. perature goes down a degree or two, a
+92 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 12 =====
+
+piece of bi-metal curves a little more shape recognizing facilities are still
+than before, and closes a relay contact, very limited, and so its associations
+which lights the flame in the furnace are poor. But it does havea large num-
+and finally results in heat coming up _ ber of registers for containing a large
+to the living room. After a while, the number of ideas, represented rather
+heat coming out of the radiators in the uniquely by their symbols.
+living room warms the air, which The next stage in understanding the
+warms the thermostat, the piece of nature of ideas is the case where there
+metal curves a little less, the relay area large number of ideas, and a large
+contact opens, the flame goes out, and number of symbols, such as words, and
+the living room starts to cool down. _ there is a considerable amount of mix-
+That automatic oil furnace “has an up between them. A word may have a
+idea” of hot and cold; that idea, for number of meanings, be associated
+the furnace, is “relay open” or “relay with a number of ideas; and an idea
+closed.” If we want to change the ma- may be expressed by a number of
+chine’s idea of hot and cold, we turn words. What happens then?
+the little dial on the thermostat on the Well, it is like the shape-recognizing
+wall, and make it read the temperature _ situation again, only worse; efficiency
+we want. depends upon a good many comparing
+The next step in understanding the _ circuits, and a lot of statistical knowl-
+nature of ideas is the case where a edge, so that good bets on the meaning
+large number of ideas are to be dealt of a set’of words can be made.
+with, but each one has one and only An automatic computing machine
+one representation. Branches of knowl- whith has developed a wonderful facil-
+edge have a tendency to develop to the _ ity in this particular kind of problem
+place where each idea is represented _ is the military deciphering machine, of
+customarily by one and only one sym- which persons like myself who do not
+bol. Mathematics is one of the best wish to be contaminated with classi-
+examples. In mathematics we use “2” fied information know very little.
+most of the time, and not “pair, Hearsay says that it works on the
+double, brace, couple, two, deux, zwei, principle of making a huge number of
+duo, et cetera.” An idea is the meaning comparisons very fast, and testing
+of an expression, a symbol. The mean- possible meanings by calculated sta-
+ing is established by a network of asso- _ tistical parameters like the mean and
+ciations between symbols, meanings, standard deviation.
+and behavior. Certainly a much less sophisticated
+The existing automatic computer kind of deciphering machine could
+recognizes and deals with this kind of _ learn to deal with words and ideas in
+idea, except that its perceptors and its limited fields. For example, the ma-
+MACHINE ‘‘INTELLIGENCE”’ 93
+
+
+===== PDF PAGE 13 =====
+
+chine could readily compute thechance organism to learn to adjust success-
+of a given meaning for a sentence ina fully to novel and difficult situations.
+context. It could be educated or pro- ... It would seem that the true
+grammed to express an idea in words, measure of intelligence is the capacity
+and determine the ideas expressed by to learn, regardless of the method in-
+words. volved.” He reports on a lot of testing
+Could such a machine write a book of animals to discover their relative
+or tell a story? When we remember _ intelligence, in terms of solving certain
+that every human being writes a book problem situations. One of his tests is
+or tells a story differently from every the “multiple-plate problem box.” In
+other human being, it should be quite _ the center is a cage with food in it and
+possible for the machine to do so with a gate that is closed but may be
+equally differently. One of its greatest opened by remote control. Outside the
+requirements, of course, would be a cage is the rest of the problem box,
+really large memory—for all the words _ containing three special electric plates
+and the ideas that it might want to set in the floor. Suppose the plates are
+refer to,and for the proceduresadopted numbered 1, 2, 3. Then the animal, in
+by good writers, such as unity, coher- _ order to have the gate open, is required
+ence, emphasis, and the like. to step on the plates in a certain order:
+e & After the animal has learned to step on
+Roomba ole pelielce just one plate, No. 1, then plate 2 is
+The last gasp of the argument that added, and the gate opens only if first
+machines cannot think usually takes plate 1 and then plate 2 are stepped on.
+the form of the assertion that a’ma- The guinea pig can learn no more than
+chine “cannot learn from experience.” one plate. The white rat can learn no
+This argument asserts incidentally more than two plates, in the order 1, 2.
+that an earthworm can think, because The next sequence ofj plates to be
+it can be shown that an earthworm learned is 1, 2, 3; the fourth sequence
+can learn from experience. But can a is 1232; the fifth sequence is 12321;
+machine learn from experience? How _ the sixth is 123212; and the complete
+far cana machine get on ananimal test solution is 1 with 2321 recurring in-
+of learning from experience? definitely. A cat can learn a sequence
+The comparative psychologists have of seven plates, and a monkey a se-
+done a good deal of work on the ques- quence of twenty-two plates. Dr. War-
+tion of how much an animal can learn den says no animal learned the indefi-
+from experience. Carl J. Warden in an _ nite recurring sequence. These scores
+article “Animal Intelligence” in June are for the animals that-were the most
+Scientific American says “Intelligence intelligent of each species tested—a
+may be defined as the capacity of an high extreme, and not an average.
+94 ASTOUNDING SCIENCE-FICTION
+
+
+===== PDF PAGE 14 =====
+
+Can we program an automatic com- _ registers; and so on.
+puter, such as the Univac, to solve this The problem has a lot of ‘resem-
+problem? Of course we can. Here is the lance to many mathematical prob-
+general way in which it would be done: lems, and there is no doubt that the
+Allow the automatic computer to have machine can do it.
+one thousand registers. Suppose forty Now it may be argued that after all
+of these registers store information the machine has been programmed by
+about forty places in the problem box, someone, the “mathematician,” and
+in the form of a number of ten decimal __ so it is the “education” of the machine
+digits. If Place No. 24 in the problem which is responsible for its successful
+box contains food, then the first digit “learning from experience.” W.-R.
+of the number in Register 24 is 1. If Ashby of Barnwood House, Gloucester,
+the food is “locked up,” then the sec- England, the inventor of the Homeo-
+ond digit in every one of the forty stat, has retognized this problem. He
+registers—not only Register 24—is 1, says: The problemof the mammalian -
+up until the time when the machine _ brain, then, is that as a machine it has
+has “found out” the unlocking se- — to work out an essential part of its own
+quence of moves. At that time, there is wiring.” The essence of the ability of
+a pause during which all these second the brain to work out its own wiring,
+digits change to 0, thus indicating to is, he says, the principle of negative-
+the machine that the food is no longer feedback.
+locked up. The third digit in each Tt seems clear that it would be quite
+register is 1 if the place associated with possible to give certain very general
+that register contains one of the special instructions of “negative-feedback”
+plates of the problem box. type to a big automatic computer like
+
+The machine has a comparing cir- the Univac. Then alter a while it
+cuit. So it is able to tell whether or not would have worked out its own pro-
+a digit in some place in some register gramming for the problem-box situa-
+is 1 or not 1. tion.
+
+We program the machine with a And so we come to the conclusion of
+number of subroutines: a subroutine this whole discussion: the problem-
+for finding out that a certain register boxes of comparative psychology, the
+has food in it;a subroutine for “going” tests of adult human intelligence, the
+from one register to another; a sub- lists of difficult thinking operations,
+routine for selecting a register to which > should all be used as a guide to the
+it will go; a subroutine for noticing construction and programming—birth
+that a certain subroutine is to be pre-and education—of really versatile fu-
+ferred to another subroutine because ture automatic computers.
+it results in fewer trips through the THE END
+MACHINE “INTELLIGENCE”? 95
+
+

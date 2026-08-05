@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{25}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,20 @@
 Edmund~C. Berkeley.
 \newblock Algebra in electronic design.
 \newblock \emph{Radio-Electronics}, pages 55--58, February 1952{\natexlab{a}}.
+
+\bibitem[{Google DeepMind}(2025)]{googledeepmind2025geminirobotics}
+{Google DeepMind}.
+\newblock Gemini robotics brings {AI} into the physical world.
+\newblock
+  \url{https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/},
+  March 2025.
+\newblock Official Google DeepMind blog post.
+
+\bibitem[{Google DeepMind}(2026)]{googledeepmind2026geminier}
+{Google DeepMind}.
+\newblock Gemini robotics-er.
+\newblock \url{https://deepmind.google/models/gemini-robotics/}, 2026.
+\newblock Official model page accessed in 2026.
 
 \bibitem[Berkeley(1959)]{berkeley1959symbolic}
 Edmund~C. Berkeley.

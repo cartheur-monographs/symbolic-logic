@@ -1,113 +1,186 @@
 # symbolic-logic
 
-A body of research on symbolic logic to intelligent machinery including publication effort.
+This repository supports a paper project on Berkeley, Heiserman, and the problem of living embodied machine intelligence.
 
-_Purpose_
+As of August 5, 2026, the center of gravity of the project is no longer a simple lineage claim from Berkeley to later robotics. The active argument is stronger and more specific:
 
-The paper aims to recover Berkeley and Heiserman as contributors to a still-testable architecture of embodied machine intelligence, rather than leaving them as isolated historical curiosities.
+- Edmund C. Berkeley should be read not merely as a symbolic logician of machines, but as a serious architect of embodied machine intelligence.
+- David L. Heiserman deepens that architecture on the adaptive side through memory, generalization, and confidence-bearing revision.
+- Ashby and Walter clarify the adaptive and embodied seams of that comparison.
+- Turing provides a nearby but different developmental route into machine intelligence.
+- Shannon provides the crucial bridge from symbolic logic to relay and switching embodiment.
+- The later AIBO material is retained as a subordinate demonstration case, not as the paper's main historical center.
+- The broader contemporary stake is that current LLM-centered robotics may be powerful, but is still insufficient as a complete theory of controlled embodied intelligence if it cannot describe persistence, recoverability, internal state organization, maintenance, and experience-shaped conduct with comparable explicitness.
 
-## On source documents
+## Active paper
 
-- `Basson--Intro to symbolic logic.pdf`
-  - Introductory treatment of symbolic logic fundamentals, including propositions, predicates, inference rules, and standard forms for logical argument.
-- `Berkeley--Symbolic logic and intelligent machines.pdf`
-  - Berkeley's exploration of symbolic logic as a foundation for intelligent systems, with emphasis on formal language, deduction, and machine reasoning.
-- `Berkeley--Algebra in electronic design.pdf`
-  - Berkeley's 1952 short article showing Boolean algebra used directly in relay, rectifier, and triode circuit design, including the control logic of `Squee`.
-- `Boole--An Investigation of the Laws of Thought.pdf`
-  - Boole's formulation of algebraic logic, introducing symbolic methods for reasoning, class operations, and the logical foundations of mathematics.
-- `Boole--The mathematical analysis of logic.pdf`
-  - Boole's advanced treatment of logical algebra, exploring formal methods for deduction, equation-based reasoning, and the relationship between logic and probability.
-- `Shannon--A symbolic analysis of relay and switching circuits.pdf`
-  - Shannon's seminal application of symbolic logic to electrical circuits and switching theory, showing how logical algebra underlies computation and digital design.
-- `Venn--SymbolicLogic.pdf`
-  - John Venn's classic work on formal logic and logical notation, covering syllogisms, classes, and the algebra of logic.
-- `Venn--The logic of chance.pdf`
-  - Venn's examination of probability and inductive logic, relating chance, belief, and logical inference in uncertain reasoning.
-- `Venn--The Principles of Empirical Or Inductive Logic.pdf`
-  - Venn's deeper study of empirical and inductive logic, addressing how evidence, probability, and inference principles combine to support scientific reasoning.
+The current paper bundle is:
 
-## Background motivation of the authors
+- [arxiv/v.2/main.tex](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/main.tex)
+- [arxiv/v.2/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/main.pdf)
+- [arxiv/v.2/references.bib](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/references.bib)
 
-- Basson is presented as an introductory author whose work focuses on making symbolic logic accessible to new learners. His text emphasizes foundational concepts, clear exposition, and the practical application of logical forms, which makes it a natural entry point for students approaching formal reasoning.
+The paper now uses a reconstructed source base that has been extracted into searchable classed text files.
 
-- The Berkeley document reflects an author or editor interested in connecting symbolic logic to intelligent systems. That author is motivated by the idea that formal logic can serve as a rigorous basis for machine reasoning and artificial intelligence, showing how logic supports structured thought in computational contexts.
+## Classed corpus
 
-- John Venn is represented by three texts, and is motivated by the broader scientific goal of clarifying the relationship between logic, classes, and probability. His work across symbolic logic and inductive reasoning shows a commitment to precise notation, systematic argument, and the deeper philosophical foundations of logical thought.
+The project now has classed text versions of the main comparison set:
 
-## Influence of Venn on Berkeley
+### Berkeley
 
-Berkeley’s treatment of symbolic logic for intelligent machines appears influenced by Venn’s formal approach. Venn’s emphasis on precise notation, class logic, and systematic inference provides a foundation that Berkeley extends toward machine reasoning and structured artificial intelligence. This suggests that Berkeley is working in a Vennian tradition, applying classical logical rigor to computational and intelligent systems.
+- [sources-classed/berkeley-symbolic-logic-and-intelligent-machines-1959/symbolic-logic-and-intelligent-machines-1959.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-symbolic-logic-and-intelligent-machines-1959/symbolic-logic-and-intelligent-machines-1959.txt)
+- [sources-classed/berkeley-machine-intelligence-1952/machine-intelligence-1952-ocr.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-machine-intelligence-1952/machine-intelligence-1952-ocr.txt)
 
-## Analysis of Berkeley in relation to Venn, Boole, Shannon, and Basson
+### Ashby
 
-Berkeley is the center of this knowledge base, but he is best understood as part of a specific lineage rather than as an isolated author. The most important line runs from Boole through Venn to Shannon and then into Berkeley's synthesis of symbolic logic with machine design.
+- [literature-classed/ashby-an-introduction-to-cybernetics-2ed/an-introduction-to-cybernetics-2ed.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/ashby-an-introduction-to-cybernetics-2ed/an-introduction-to-cybernetics-2ed.txt)
+- [literature-classed/ashby-design-for-a-brain-2ed/design-for-a-brain-2ed.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/ashby-design-for-a-brain-2ed/design-for-a-brain-2ed.txt)
 
-### Boole as the starting point
+### Heiserman
 
-Berkeley explicitly presents George Boole as the original opening into the field. In the preface to *Symbolic Logic and Intelligent Machines*, Berkeley recalls discovering Boole's *An Investigation of the Laws of Thought* after a conversation in 1927 and describes it as the work that revealed to him the possibility of an "algebra of language." That matters because it shows that Berkeley does not merely cite Boole as background history. He treats Boole as the originating breakthrough that made calculable reasoning thinkable.
+- [literature-classed/heiserman-robot-intelligence-1981/robot-intelligence-1981.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/heiserman-robot-intelligence-1981/robot-intelligence-1981.txt)
 
-Within this repo, the two Boole texts support that claim directly:
+### Walter
 
-- `Boole--The mathematical analysis of logic.pdf`
-- `Boole--An Investigation of the Laws of Thought.pdf`
+- [literature-classed/walter-the-living-brain-1953/the-living-brain-1953.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/walter-the-living-brain-1953/the-living-brain-1953.txt)
 
-These works establish the algebraic treatment of logic that Berkeley later treats as a practical tool for classes, propositions, circuits, and machine behavior.
+### Turing
 
-### Venn as the clearest secondary influence
+- [literature-classed/turing-intelligent-machinery-1948/intelligent-machinery-1948.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/turing-intelligent-machinery-1948/intelligent-machinery-1948.txt)
+- [literature-classed/turing-computing-machinery-1950/computing-machinery-1950.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/turing-computing-machinery-1950/computing-machinery-1950.txt)
 
-If Boole is the origin point, Venn is the clearest secondary influence on Berkeley's actual style of exposition. Berkeley repeatedly uses class-oriented Boolean reasoning, simplification of rule systems, and diagrammatic or near-diagrammatic explanation. Those are strongly compatible with Venn's presentation of symbolic logic.
+### Shannon
 
-The evidence inside Berkeley's own book is fairly direct:
+- [literature-classed/shannon-symbolic-analysis-relay-switching-1938/symbolic-analysis-of-relay-and-switching-circuits-1938.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/shannon-symbolic-analysis-relay-switching-1938/symbolic-analysis-of-relay-and-switching-circuits-1938.txt)
 
-- Berkeley uses a committee-rule simplification problem that he explicitly attributes to John Venn, dated 1888.
-- Berkeley states that logicians including John Venn and Ernst Schroder "greatly improved and extended Boole's algebra."
-- Berkeley includes Venn prominently in the historical bibliography and index, including references to Venn diagrams.
+These files preserve page markers in the form `===== PDF PAGE XXX =====`, making them easier to cite, compare, and search.
 
-This does not mean Berkeley simply copies Venn. It means Berkeley appears to inherit a Venn-shaped understanding of symbolic logic as something that can clarify relations among classes, conditions, and statements and can simplify complex rule structures into equivalent forms.
+## Source contributions
 
-Within this repo, the strongest Venn source for that relationship is:
+The following summarizes how each classed work matters to the paper in its current form.
 
-- `Venn--SymbolicLogic.pdf`
+### Berkeley
 
-The two additional Venn works on inductive logic and chance are useful context for Venn's broader intellectual program, but they are less central to understanding Berkeley's machine-oriented symbolic logic than *Symbolic Logic* itself.
+Berkeley is the primary object of reconstruction.
 
-### Shannon as the bridge to machinery
+From `Symbolic Logic and Intelligent Machines`, the paper draws:
 
-Shannon is crucial because he supplies the practical bridge between Boolean algebra and electrical implementation. Berkeley explicitly highlights Claude E. Shannon's 1938 paper, *A Symbolic Analysis of Relay and Switching Circuits*, as a milestone in applying Boolean algebra to relays and on-off circuit elements.
+- the claim that symbolic logic is not only a formal language but a design language for machinery
+- the architecture of intelligent machines in terms of inputs, outputs, storage, calculation, and control
+- the algebra of states and events as a way of describing temporally organized machine behaviour
+- the robot chapters, especially the argument that a robot is a machine able to behave by itself through the coordination of sensation, action, and instruction
 
-That bridge is essential to Berkeley's project. Berkeley is not only interested in symbolic logic as a formal discipline. He is interested in the fact that the algebra of classes, statements, and conditions can be embodied in switching networks, relay systems, and automatic computers. Shannon supplies the clearest canonical route from logic to hardware.
+From `Machine "Intelligence"` in *Astounding Science Fiction*, the paper draws:
 
-The newly added 1952 Berkeley article, *Algebra in Electronic Design*, strengthens that reading from inside Berkeley's own engineering practice. In that short piece, Berkeley does not merely describe Boolean algebra in general terms. He works through relay, rectifier, and triode realizations, then applies the same logic to the steering and sensing circuits of `Squee`. That makes the repo's central claim sharper: Berkeley was not only inheriting Shannon's bridge from logic to hardware, but actively using it to organize machine behavior in small embodied systems.
+- Berkeley's public machine-intelligence framing in January 1952
+- the crucial `Learning from Experience` section on pages `94--95`
+- Berkeley's operational translation of comparative-psychology problem boxes into machine registers, encoded conditions, procedure selection, and negative-feedback-guided learning
 
-Within this repo, that source is:
+Together, these sources support the paper's strongest Berkeley claim: he is not just a symbolic logician of machines, but a theorist of living, organized, embodied machine conduct.
 
-- `Shannon--A symbolic analysis of relay and switching circuits.pdf`
-- `Berkeley--Algebra in electronic design.pdf`
+### Ashby
 
-For the purposes of this knowledge agent, Shannon should be treated as more than peripheral historical context. He helps explain why Berkeley moves so naturally from Boolean expressions to circuits, control mechanisms, and intelligent machines.
+Ashby matters as the adaptive middle of the paper.
 
-### Basson as background, not a rival school
+From `Design for a Brain`, the paper draws:
 
-Basson is worth keeping, but mainly as background scaffolding. He does not appear to be contrarian to Berkeley, and he is not a strong candidate for direct influence on Berkeley's 1959 book.
+- adaptation as a machine problem
+- the origin of adaptive behaviour as a rigorous engineering question
+- the Homeostat and the broader idea of self-correction through feedback
 
-There is also a simple chronological constraint: the Berkeley text in this repo is from 1959, while the Basson and O'Connor text here is from 1960. That makes Basson unlikely as a source for this specific Berkeley volume.
+From `An Introduction to Cybernetics`, the paper draws:
 
-More importantly, the books differ in orientation:
+- a vocabulary of state, transition, regulation, and variety
+- a way of describing adaptive order without collapsing into mysticism or loose metaphor
 
-- Berkeley is application-driven, machine-facing, and interested in the practical simplification of rules, circuits, and programs.
-- Basson is more standard, textbook-like, and centered on propositional calculus, predicate calculus, truth tables, and the classical syllabus of formal logic.
+Ashby helps the paper show that Berkeley's late concern with learning from experience is not a rhetorical flourish. It belongs to a serious mid-century problem-space of regulation, feedback, and self-reorganization.
 
-Basson therefore looks less like an opponent and more like a representative of mainstream mid-century formal-logic instruction. He is useful for stable definitions and orthodox framing, but he should not be weighted as heavily as Berkeley, Venn, Boole, or Shannon when reconstructing Berkeley's distinctive intellectual program.
+### Heiserman
 
-### Working conclusion for the knowledge agent
+Heiserman is the principal comparison figure.
 
-The most useful interpretive model for this repository is:
+From `Robot Intelligence ... with Experiments`, the paper draws:
 
-- Boole provides the founding algebra of logic.
-- Venn refines and extends the class-logic and symbolic method that Berkeley finds especially usable.
-- Shannon demonstrates how Boolean logic can be realized in relay and switching circuits.
-- Berkeley synthesizes these strands into a machine-oriented account of symbolic logic and intelligent behavior.
-- Basson provides background support from mainstream formal-logic pedagogy but does not define Berkeley's project.
+- Alpha as reflexive or immediate response
+- Beta as Alpha plus memory of successful response
+- Gamma as generalization from successful cases to novel but similar conditions
+- later Delta-style confidence-bearing revision
 
-On that reading, Berkeley is not best understood as a purely formal logician and not merely as a popularizer. He is better understood as a synthesizer who takes inherited symbolic logic and pushes it toward computation, control, and intelligent machinery.
+Heiserman contributes the developmental interior that Berkeley does not fully supply. The paper uses him to sharpen the difference between ecological persistence and experiential revision.
+
+### Walter
+
+Walter matters because he makes embodiment materially visible.
+
+From `The Living Brain`, the paper draws:
+
+- the tortoise demonstrations
+- the idea that relatively simple circuitry can yield creature-like behaviour
+- a physically demonstrable form of world-facing, apparently purposive conduct
+
+Walter keeps the paper from becoming too discursive about embodiment. He shows that the problem of living machine organization was not merely conceptual but materially staged in mid-century practice.
+
+### Turing
+
+Turing matters as a nearby but different route into machine intelligence.
+
+From `Intelligent Machinery`, the paper draws:
+
+- unorganized machines
+- the analogy with the infant cortex
+- education by reward and punishment
+- the idea that machine intelligence may require developmental organization
+
+From `Computing Machinery and Intelligence`, the paper draws:
+
+- the imitation game
+- child machines
+- learning machines
+- a training-oriented route toward machine intelligence
+
+Turing is important because he keeps open a developmental model that is close enough to the paper's interests to be relevant, but distinct enough from Berkeley to highlight a genuine architectural divergence.
+
+### Shannon
+
+Shannon is the bridge from logic to hardware.
+
+From `A Symbolic Analysis of Relay and Switching Circuits`, the paper draws:
+
+- the explicit equivalence between symbolic logic and relay-switching analysis
+- the use of equations to represent and simplify circuits
+- the technical basis for turning logical relations into physically realizable control structures
+
+Shannon is therefore not peripheral context. He explains why Berkeley can move from symbolic logic to circuit organization, switching, behaviour selection, and ultimately intelligent machinery.
+
+## Present interpretation
+
+The most useful model for the project at this stage is:
+
+- Boole and Venn remain part of the formal inheritance
+- Shannon gives the hardware bridge
+- Berkeley reconstructs a machine architecture of sensing, control, state, action, and persistence
+- Ashby clarifies adaptive regulation
+- Walter demonstrates embodied world-coupling
+- Heiserman deepens the architecture through memory, generalization, and confidence-bearing revision
+- Turing marks a different but adjacent developmental path
+
+On this reading, the paper is not trying to show that Berkeley already solved later robotics. It is trying to show that he belongs to a still underdescribed architecture of living machine intelligence that remains relevant for judging what present embodied robotics can and cannot yet explain.
+
+## Additional notes
+
+Useful project notes in root:
+
+- [NEXT-SESSION-NOTE.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/NEXT-SESSION-NOTE.md)
+- [PAPER-GOAL-SUMMARY.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/PAPER-GOAL-SUMMARY.md)
+- [first-reader-summary.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/first-reader-summary.md)
+
+## Build reminder
+
+From `arxiv/v.2/`:
+
+```bash
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+bibtex main
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+```

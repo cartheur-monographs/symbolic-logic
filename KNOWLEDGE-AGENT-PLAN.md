@@ -1,73 +1,64 @@
 # Knowledge Agent Plan
 
-This plan describes how to turn this repository into a bounded knowledge agent focused on Edmund C. Berkeley, his lineage in symbolic logic, and his relation to early embodied machine intelligence.
+Date: 2026-08-05
+
+This plan describes how to turn this repository into a bounded knowledge agent focused on Berkeley, his comparison set, and the problem of living embodied machine intelligence.
 
 ## Goal
 
 Build a domain-specific knowledge agent that can answer questions about:
 
 - Berkeley's `Symbolic Logic and Intelligent Machines`
-- the lineage `Boole -> Venn -> Shannon -> Berkeley`
-- the contrast between Berkeley and mainstream formal-logic presentation such as Basson
-- Berkeley's relevance to embodied machine intelligence in the broader sense later seen in David Heiserman's work
+- Berkeley's `Machine "Intelligence"` and related `1951-1952` machine writings
+- the comparison set `Berkeley, Ashby, Heiserman, Walter, Turing, Shannon`
+- the relation between symbolic logic, control, embodiment, adaptation, and machine intelligence
+- the paper's present critical question: what current LLM-centered robotics still leaves architecturally underdescribed
 
 The agent should be a research assistant for this corpus, not a general-purpose AI explainer.
 
 ## Scope
 
-The first version of the agent should stay inside the source set already present in this repo:
+The first version of the agent should stay inside the classed source set already prepared in this repo:
 
-- `Berkeley--Symbolic logic and intelligent machines.pdf`
-- `Boole--An Investigation of the Laws of Thought.pdf`
-- `Boole--The mathematical analysis of logic.pdf`
-- `Venn--SymbolicLogic.pdf`
-- `Venn--The logic of chance.pdf`
-- `Venn--The Principles of Empirical Or Inductive Logic.pdf`
-- `Shannon--A symbolic analysis of relay and switching circuits.pdf`
-- `Basson--Intro to symbolic logic.pdf`
+- Berkeley
+- Ashby
+- Heiserman
+- Walter
+- Turing
+- Shannon
 
-Optional external context can be added later, but only when clearly labeled as secondary context.
+Optional secondary context can be added later, but only when clearly labeled as secondary.
 
 ## Product definition
 
 The agent should be able to do four things well:
 
-1. Answer source-grounded questions about Berkeley.
-2. Explain influence and lineage across the corpus.
+1. Answer source-grounded questions about Berkeley and the comparison set.
+2. Explain influence, comparison, and architectural difference across the corpus.
 3. Compare Berkeley with Heiserman-style embodied or adaptive machine intelligence without collapsing them into the same thing.
 4. Retrieve passages, concepts, and structured summaries with citations back to the corpus.
 
 The agent should not pretend to be an expert in all of AI, robotics, logic, or cybernetics.
 
-## Recommended repository structure
+## Current repository status
 
-Add a lightweight structure around the PDFs:
+The repository already has the most important corpus-preparation step completed:
 
-- `src/`
-  - original source PDFs
-- `notes/`
-  - human-written interpretive notes
-- `chunks/`
-  - extracted and normalized text chunks per source
-- `metadata/`
-  - source manifests, bibliographic data, concept tags
-- `prompts/`
-  - system prompts and agent instructions
-- `evals/`
-  - question sets and expected source-grounded answers
+- classed text extractions in `sources-classed/` and `literature-classed/`
+- project-level notes in root markdown files
+- an active paper bundle in `arxiv/v.2/`
 
-The current markdown analyses can later move into `notes/`, but that is not required immediately.
+The next agent work should build on that state rather than assuming an untouched PDF-only repo.
 
 ## Phase 1: Corpus preparation
 
-Prepare the source material so the agent can retrieve from it reliably.
+The main extraction work is now done for the high-priority comparison set.
 
-### Tasks
+Remaining work is:
 
-- Extract plain text from each PDF.
-- Clean OCR noise where it materially harms retrieval.
-- Split each source into stable chunks.
-- Store chunk metadata with source name, section, approximate page range, and theme tags.
+- clean OCR noise where it materially harms retrieval
+- split each classed source into stable chunks
+- store chunk metadata with source name, section, approximate page range, and theme tags
 
 ### Chunking guidance
 
@@ -89,6 +80,8 @@ For Berkeley specifically, special indexing should be added around these themes:
 - states and events
 - robot examples
 - programming and subroutines
+- learning from experience
+- persistence, maintenance, reproduction
 
 ## Phase 2: Concept map and ontology
 
@@ -97,19 +90,16 @@ Build a small domain ontology so the agent can reason consistently about repeate
 ### Core entities
 
 - `Berkeley`
-- `Boole`
-- `Venn`
 - `Shannon`
-- `Basson`
+- `Ashby`
 - `Heiserman`
+- `Walter`
+- `Turing`
 
 ### Core concepts
 
 - `symbolic logic`
 - `Boolean algebra`
-- `class logic`
-- `statements`
-- `relations`
 - `intelligent machines`
 - `control`
 - `memory`
@@ -121,6 +111,10 @@ Build a small domain ontology so the agent can reason consistently about repeate
 - `behavior`
 - `adaptation`
 - `embodiment`
+- `persistence`
+- `recovery`
+- `maintenance`
+- `learning from experience`
 
 ### Relationships to encode
 
@@ -132,7 +126,7 @@ Build a small domain ontology so the agent can reason consistently about repeate
 - `anticipates`
 - `falls_short_of`
 
-This ontology does not need to be complex. It just needs to make the agent's comparisons stable.
+The ontology does not need to be complex. It just needs to make the agent's comparisons stable.
 
 ## Phase 3: Retrieval design
 
@@ -148,8 +142,10 @@ Use hybrid retrieval if possible:
 ### Retrieval rules
 
 - Prefer Berkeley first when the question is about Berkeley's own claims.
-- Prefer Boole, Venn, Shannon, and Basson only when the user asks about influence, comparison, or background.
-- Treat Heiserman as comparative context, not as part of the primary corpus, unless that corpus is explicitly extended.
+- Prefer Shannon when the question is about the logic-to-circuit bridge.
+- Prefer Ashby and Walter when the question is about adaptation, feedback, or embodiment.
+- Prefer Heiserman when the question is about reflex, memory, generalization, or confidence-bearing revision.
+- Prefer Turing when the question is about child machines, learning machines, or unorganized machines.
 
 ### Ranking priorities
 
@@ -158,7 +154,7 @@ Rank passages higher when they:
 - directly answer the question
 - contain named authors or named concepts
 - define a concept
-- contain examples of machines, robots, control, states, or events
+- contain examples of machines, robots, control, states, events, feedback, or learning
 - offer explicit historical attribution
 
 ## Phase 4: Prompt design
@@ -170,8 +166,9 @@ The agent needs a strict system prompt to avoid drifting into generic AI chatter
 - Stay inside the provided corpus unless the user explicitly requests external context.
 - Distinguish between direct evidence and inference.
 - When comparing Berkeley with later AI or robotics, state clearly that those are cross-period interpretations.
-- Prefer citing Berkeley's wording and examples over modern restatements.
+- Prefer Berkeley's wording and examples over modern paraphrase when possible.
 - Avoid flattening Berkeley into a generic "symbolic AI" figure.
+- Avoid overstating direct historical lineage where only architectural continuity has been established.
 
 ### Voice
 
@@ -182,21 +179,19 @@ The voice should be:
 - careful with chronology
 - able to compare lineages without overstating influence
 
-## Phase 5: Initial note set
+## Phase 5: Internal note library
 
-Before building any UI, create a compact internal note library.
-
-### Priority notes
+Priority notes should include:
 
 - Berkeley as subject overview
-- Boole's role in Berkeley's self-understanding
-- Venn's influence on Berkeley
 - Shannon as the logic-to-circuit bridge
-- Basson as background rather than rival
+- Ashby as adaptive middle pressure point
+- Walter as embodied seam
 - Berkeley and embodied machine intelligence
 - Berkeley versus Heiserman
+- Turing as nearby developmental alternative
 
-Some of this work has already begun in this repo and should be formalized into reusable notes.
+These notes now exist in partial form in the root markdown files and should be formalized into reusable agent notes later.
 
 ## Phase 6: Evaluation
 
@@ -213,84 +208,8 @@ The agent should be tested with questions that stress retrieval discipline and h
 ### Example evaluation prompts
 
 - `How does Berkeley define an intelligent machine?`
-- `Why is Venn a stronger influence on Berkeley than Basson?`
 - `What role does Shannon play in Berkeley's machine theory?`
-- `Is Berkeley a precursor to embodied AI?`
+- `How does Ashby clarify Berkeley's learning problem?`
+- `Why does Walter matter for the paper's account of embodiment?`
 - `How does Berkeley differ from Heiserman on adaptation and learning?`
-
-### Success criteria
-
-The answer should:
-
-- cite the correct source or sources
-- avoid importing unsupported modern claims
-- separate evidence from interpretation
-- use chronology correctly
-
-## Phase 7: Optional implementation path
-
-A practical first implementation could be:
-
-1. extract text from the PDFs
-2. generate chunk files in JSON or Markdown
-3. create a metadata manifest
-4. build a simple retrieval script or notebook
-5. test with a fixed evaluation set
-6. refine prompts after observing failure modes
-
-If later desired, the corpus can be placed behind:
-
-- a local RAG prototype
-- a notebook workflow
-- a small API-backed research assistant
-
-## Risks
-
-The main risks are conceptual rather than technical.
-
-### Risk 1: General-AI drift
-
-The agent may start answering in terms of modern AI jargon instead of Berkeley's framework.
-
-Mitigation:
-
-- source-first retrieval
-- prompt constraints
-- evals emphasizing period-correct answers
-
-### Risk 2: Overstated influence
-
-The agent may exaggerate the relationships among Berkeley, Venn, Shannon, and Heiserman.
-
-Mitigation:
-
-- explicit `evidence` versus `inference` discipline
-- chronology checks
-- separate note files for direct citation and comparative interpretation
-
-### Risk 3: OCR contamination
-
-Poor OCR could make retrieval noisy.
-
-Mitigation:
-
-- manual correction of key sections
-- high-value concept notes
-- chunk-level summaries
-
-## Immediate next steps
-
-The best next sequence for this repo is:
-
-1. create a `notes/` and `metadata/` layout
-2. move or copy the current markdown analyses into `notes/`
-3. extract Berkeley, Venn, Shannon, and Boole into chunked text
-4. build a source manifest with dates and roles
-5. write an initial system prompt for the knowledge agent
-6. create a small `evals/` set of `20` to `30` questions
-
-## Bottom line
-
-It is absolutely possible to build a knowledge agent on this expertise, but the right product is a disciplined, source-bounded research agent.
-
-Its strength will not come from pretending to know everything. It will come from knowing this corpus unusually well and answering with stable historical and conceptual precision.
+- `How does Turing's child-machine route differ from Berkeley's control architecture?`

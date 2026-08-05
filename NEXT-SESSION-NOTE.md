@@ -1,89 +1,122 @@
 # Next Session Note
 
-Date: 2026-07-16
+Date: 2026-08-05
 
-## Current state
+## Current paper state
 
-The repository now contains:
+The active paper is the `v.2` arXiv version:
 
-- a Berkeley lineage analysis in [README.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/README.md)
-- a focused note on Berkeley and embodied machine intelligence in [BERKELEY-EMBODIED-MACHINE-INTELLIGENCE.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/BERKELEY-EMBODIED-MACHINE-INTELLIGENCE.md)
-- a build plan for a Berkeley-centered knowledge agent in [KNOWLEDGE-AGENT-PLAN.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/KNOWLEDGE-AGENT-PLAN.md)
-- a paper draft and paper tooling in [paper/](</home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper>)
+- [arxiv/v.2/main.tex](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/main.tex)
+- [arxiv/v.2/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/main.pdf)
+- [arxiv/v.2/references.bib](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/references.bib)
 
-## Paper files
+The paper compiles successfully. The remaining warnings are minor `Underfull \hbox` bibliography warnings from long URLs.
 
-The paper folder currently includes:
+## What the paper is now about
 
-- [paper/berkeley-embodied-machine-intelligence-draft.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/berkeley-embodied-machine-intelligence-draft.md)
-- [paper/annotated-bibliography.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/annotated-bibliography.md)
-- [paper/references.bib](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/references.bib)
-- [paper/main.tex](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/main.tex)
-- [paper/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/main.pdf)
+The paper is no longer primarily a simple lineage paper.
 
-## What is already done
+Its center of gravity is now:
 
-- The paper compiles successfully with bibliography.
-- The current PDF is about Berkeley as a precursor to embodied machine intelligence.
-- The literature review now reflects the five-band survey:
-  - primary sources
-  - immediate symbolic-logic context
-  - cybernetics and control
-  - behavior-based and embodied comparison
-  - light historical interpretation
-- Berkeley citations have been tightened around:
-  - intelligent machines and machine architecture: `pp. 66--70`
-  - algebra of states and events: `pp. 145--147`
-  - robots, `Squee`, and the robot-animal material: `pp. 177--181`
-- Heiserman comparison is anchored to the Alpha/Beta/Gamma discussion around `pp. 18--20` of `Heiserman-1981.pdf`.
+- Berkeley as a serious architect of embodied machine intelligence
+- Heiserman as the adaptive and developmental deepening of that architecture
+- Ashby and Walter as essential supports for the adaptive and embodied seams
+- Turing as a nearby but different developmental route
+- Shannon as the logic-to-hardware bridge
+- current LLM-centered robotics as the main contemporary pressure point
+- AIBO as a subordinate demonstration case
 
-## Working thesis
+## Current contribution statement
 
-The current paper argues:
+The best current reading of the paper's contribution is:
 
-- Berkeley should not be read only as a symbolic logician applying Boolean methods to machinery.
-- He should also be read as an early theorist of physically organized, temporally structured, behavior-governing machine intelligence.
-- He is not yet adaptive in the Heiserman sense, but he is a bridge figure between algebraic logic and embodied machine behavior.
+- a reconstruction of Berkeley and Heiserman as an underdescribed architecture for living embodied machine intelligence
+- a critique of present embodied robotics discourse where current LLM- or foundation-model-centered approaches are treated as if they were already a sufficient theory of robot intelligence
+- a later demonstration, via AIBO `R-CODE`, that this reconstructed vocabulary still has analytic use
 
-## Important caution
+## Corpus status
 
-Do not overclaim that Berkeley ``invented embodied AI.'' The safer and stronger claim is:
+The classed comparison corpus is now in much better shape than when this note was first drafted.
 
-- Berkeley is a precursor to embodied machine intelligence in a control-and-behavior sense.
-- Heiserman represents a later move into adaptive, experiential, confidence-based creature intelligence.
+The following have been extracted into searchable classed text form:
 
-## Best starting point next session
+- Berkeley
+- Ashby
+- Heiserman
+- Walter
+- Turing
+- Shannon
 
-The user said they have a different, fuller approach in mind and will share it next session.
+That means the next session should assume source preparation is largely complete for the high-priority comparison set and should focus more on:
 
-When the session resumes:
+- paper revision
+- chunking and retrieval preparation
+- citation refinement
+- comparative synthesis
 
-1. Ask for the fuller approach first.
-2. Compare it against the current six-page `main.tex` structure before rewriting anything.
-3. Decide whether to:
-   - reshape the current paper around the new approach, or
-   - preserve the current paper as a compact analytic core and build a second, fuller version on top of it.
+## AIBO section status
 
-## Most likely next tasks
+The AIBO section does contribute, but in a specific and limited way.
 
-- revise `paper/main.tex` around the user's fuller framing
-- deepen the historiography section if needed
-- add more exact page-level citations from Berkeley and Heiserman
-- decide whether to introduce Wiener, Ashby, Walter, Brooks, or Braitenberg into the main body or keep them mostly in the literature review
-- optionally commit the paper changes after the new direction is settled
+Its value is:
 
-## Practical reminder
+- to show that the Berkeley-Heiserman vocabulary can still be used on a real robotic corpus
+- to prevent the paper from ending as pure historical reconstruction
 
-If resuming from the TeX build:
+Its weaker role is:
 
-- compile with `pdflatex`
-- then `bibtex main` if bibliography changes
-- then `pdflatex` twice
+- it does not prove a strict historical lineage from Berkeley or Heiserman to Sony
 
-The last successful compiled output on 2026-07-16 was [paper/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/knowledge-symbolic-logic/paper/main.pdf).
+The paper now explicitly subordinates AIBO to the larger reconstruction-and-critique argument.
 
-## Additions
+## Best next improvements
 
-- we want to reference https://arxiv.org/abs/2607.12115 as a use-case in support
-- we do not want to relegate Berkeley and Hieserman as a historical curiousity, rather, as a powerful unknown and fully untested appraoch
-- we want to imply that behavior-based coding is the foundational path toward a functional robotic "brain"
+If continuing the paper, the best improvements are:
+
+1. Sharpen the thesis into one governing sentence that can be repeated consistently across abstract, introduction, and conclusion.
+2. Trim and tighten the literature review so the reader reaches Berkeley's substantive reconstruction faster.
+3. Make the Berkeley-Heiserman comparison more schematic, ideally with a compact contrast table:
+   - Berkeley: persistence, maintenance, ecological closure, explicit control
+   - Heiserman: memory, generalization, confidence, experiential revision
+4. Reduce some AIBO detail so the section stays clearly demonstrative rather than co-equal with the main argument.
+5. End with a stronger research program:
+   - persistence
+   - recovery
+   - state legibility
+   - adaptive revision
+   - distributed control under embodied constraints
+
+## Closest summary of first-reader reaction
+
+On a first reading, the paper appears to be:
+
+- a reconstruction of a neglected architecture of living machine intelligence
+- a comparative use of Berkeley and Heiserman to recover that architecture
+- a critique of current LLM-centered embodied robotics as still architecturally underdescribed
+- a demonstration, through AIBO, that the recovered vocabulary is not merely historical
+
+Its importance seems potentially high if the paper keeps that contribution tightly framed and does not drift back into looking like a broad historical survey.
+
+## Other relevant root notes
+
+- [README.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/README.md)
+- [PAPER-GOAL-SUMMARY.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/PAPER-GOAL-SUMMARY.md)
+- [first-reader-summary.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/first-reader-summary.md)
+- [AIBO-SECTION-NOTE.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/AIBO-SECTION-NOTE.md)
+
+## Build reminder
+
+From `arxiv/v.2/`:
+
+```bash
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+bibtex main
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+```
+
+## Last known good output
+
+The last successful compiled PDF is:
+
+- [arxiv/v.2/main.pdf](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/arxiv/v.2/main.pdf)
