@@ -1,4 +1,4 @@
-\begin{thebibliography}{22}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -50,6 +50,12 @@ John Venn.
 John Venn.
 \newblock \emph{The Principles of Empirical or Inductive Logic}.
 \newblock Macmillan and Co., London, 1889.
+
+\bibitem[Berkeley(1952{\natexlab{b}})]{berkeley1952machineintelligence}
+Edmund~C. Berkeley.
+\newblock Machine ``intelligence''.
+\newblock \emph{Astounding Science Fiction}, pages 82--95, January
+  1952{\natexlab{b}}.
 
 \bibitem[Basson and O'Connor(1960)]{basson1960introduction}
 A.~H. Basson and D.~J. O'Connor.
@@ -104,10 +110,10 @@ Rodney~A. Brooks.
 \newblock \emph{Artificial Intelligence}, 47\penalty0 (1--3):\penalty0
   139--159, 1991.
 
-\bibitem[Berkeley(1952{\natexlab{b}})]{berkeley1952livingrobots}
+\bibitem[Berkeley(1952{\natexlab{c}})]{berkeley1952livingrobots}
 Edmund~C. Berkeley.
 \newblock \emph{The Construction of Living Robots}.
-\newblock Edmund C. Berkeley and Associates, New York, 1952{\natexlab{b}}.
+\newblock Edmund C. Berkeley and Associates, New York, 1952{\natexlab{c}}.
 
 \bibitem[Berkeley(1951)]{berkeley1951electronicbeast}
 Edmund~C. Berkeley.
