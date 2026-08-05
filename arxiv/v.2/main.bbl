@@ -1,4 +1,4 @@
-\begin{thebibliography}{25}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -133,6 +133,12 @@ Edmund~C. Berkeley.
 Edmund~C. Berkeley.
 \newblock Light sensitive ... electronic beast.
 \newblock \emph{Radio-Electronics}, pages 46--48, December 1951.
+
+\bibitem[Berkeley(1952{\natexlab{d}})]{berkeley1952squeeconstruction}
+Edmund~C. Berkeley.
+\newblock \emph{Squee Construction Plans}.
+\newblock Edmund C. Berkeley and Associates, New York, 1952{\natexlab{d}}.
+\newblock Construction-plan booklet preserved in repository source scan.
 
 \bibitem[Tucker(2026)]{tucker2026behavioral}
 Christopher~A. Tucker.

@@ -30,6 +30,9 @@ The project now has classed text versions of the main comparison set:
 
 - [sources-classed/berkeley-symbolic-logic-and-intelligent-machines-1959/symbolic-logic-and-intelligent-machines-1959.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-symbolic-logic-and-intelligent-machines-1959/symbolic-logic-and-intelligent-machines-1959.txt)
 - [sources-classed/berkeley-machine-intelligence-1952/machine-intelligence-1952-ocr.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-machine-intelligence-1952/machine-intelligence-1952-ocr.txt)
+- [sources-classed/berkeley-the-construction-of-living-robots-1952/the-construction-of-living-robots-1952.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-the-construction-of-living-robots-1952/the-construction-of-living-robots-1952.txt)
+- [sources-classed/berkeley-squee-construction-1952/squee-construction-1952-ocr.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-squee-construction-1952/squee-construction-1952-ocr.txt)
+- [sources-classed/berkeley-squee-construction-1952/squee-construction-visual-index.md](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/sources-classed/berkeley-squee-construction-1952/squee-construction-visual-index.md)
 
 ### Ashby
 
@@ -75,6 +78,24 @@ From `Machine "Intelligence"` in *Astounding Science Fiction*, the paper draws:
 - Berkeley's public machine-intelligence framing in January 1952
 - the crucial `Learning from Experience` section on pages `94--95`
 - Berkeley's operational translation of comparative-psychology problem boxes into machine registers, encoded conditions, procedure selection, and negative-feedback-guided learning
+
+From `The Construction of Living Robots`, the project now has a classed extract built from the repository's cleaned transcription draft. This contributes:
+
+- Berkeley's stronger explicit language of living-machine behaviour
+- the broad ecology of sensing, acting, self-preservation, self-maintenance, and reproduction
+- the fuller prose framing around `Squee` and the robot life-species schemes
+
+From `Squee Construction Plans`, the project now has a searchable OCR draft. This contributes:
+
+- hardware-near construction detail for Berkeley's robot squirrel
+- a source bridge between the conceptual treatment of `Squee` and its concrete circuit and parts layout
+- a still-noisy but usable extract for locating design terms, component names, and section structure
+
+The project also now has extracted page images in
+`figures/berkeley-squee-construction-pages/` and a visual navigation aid in
+`squee-construction-visual-index.md`. These should be treated as the primary
+way of working with the plans, since the source is diagram-first and OCR alone
+does not preserve it well.
 
 Together, these sources support the paper's strongest Berkeley claim: he is not just a symbolic logician of machines, but a theorist of living, organized, embodied machine conduct.
 
