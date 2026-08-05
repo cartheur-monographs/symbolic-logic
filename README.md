@@ -8,6 +8,8 @@ A body of research on symbolic logic to intelligent machinery including publicat
   - Introductory treatment of symbolic logic fundamentals, including propositions, predicates, inference rules, and standard forms for logical argument.
 - `Berkeley--Symbolic logic and intelligent machines.pdf`
   - Berkeley's exploration of symbolic logic as a foundation for intelligent systems, with emphasis on formal language, deduction, and machine reasoning.
+- `Berkeley--Algebra in electronic design.pdf`
+  - Berkeley's 1952 short article showing Boolean algebra used directly in relay, rectifier, and triode circuit design, including the control logic of `Squee`.
 - `Boole--An Investigation of the Laws of Thought.pdf`
   - Boole's formulation of algebraic logic, introducing symbolic methods for reasoning, class operations, and the logical foundations of mathematics.
 - `Boole--The mathematical analysis of logic.pdf`
@@ -72,9 +74,12 @@ Shannon is crucial because he supplies the practical bridge between Boolean alge
 
 That bridge is essential to Berkeley's project. Berkeley is not only interested in symbolic logic as a formal discipline. He is interested in the fact that the algebra of classes, statements, and conditions can be embodied in switching networks, relay systems, and automatic computers. Shannon supplies the clearest canonical route from logic to hardware.
 
+The newly added 1952 Berkeley article, *Algebra in Electronic Design*, strengthens that reading from inside Berkeley's own engineering practice. In that short piece, Berkeley does not merely describe Boolean algebra in general terms. He works through relay, rectifier, and triode realizations, then applies the same logic to the steering and sensing circuits of `Squee`. That makes the repo's central claim sharper: Berkeley was not only inheriting Shannon's bridge from logic to hardware, but actively using it to organize machine behavior in small embodied systems.
+
 Within this repo, that source is:
 
 - `Shannon--A symbolic analysis of relay and switching circuits.pdf`
+- `Berkeley--Algebra in electronic design.pdf`
 
 For the purposes of this knowledge agent, Shannon should be treated as more than peripheral historical context. He helps explain why Berkeley moves so naturally from Boolean expressions to circuits, control mechanisms, and intelligent machines.
 

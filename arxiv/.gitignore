@@ -4,3 +4,4 @@
 *.log
 *.out
 !v.1/main.bbl
+!v.2/main.bbl
