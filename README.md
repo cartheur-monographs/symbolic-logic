@@ -47,6 +47,11 @@ The project now has classed text versions of the main comparison set:
 
 - [literature-classed/walter-the-living-brain-1953/the-living-brain-1953.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/walter-the-living-brain-1953/the-living-brain-1953.txt)
 
+### Wiener
+
+- [literature-classed/wiener-cybernetics-1948/cybernetics-1948.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/wiener-cybernetics-1948/cybernetics-1948.txt)
+- [literature-classed/wiener-time-and-organization/time-and-organization.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/wiener-time-and-organization/time-and-organization.txt)
+
 ### Turing
 
 - [literature-classed/turing-intelligent-machinery-1948/intelligent-machinery-1948.txt](/home/cartheur/ame/aiventure/aiventure-github/monographs/symbolic-logic/literature-classed/turing-intelligent-machinery-1948/intelligent-machinery-1948.txt)
@@ -140,6 +145,24 @@ From `The Living Brain`, the paper draws:
 - a physically demonstrable form of world-facing, apparently purposive conduct
 
 Walter keeps the paper from becoming too discursive about embodiment. He shows that the problem of living machine organization was not merely conceptual but materially staged in mid-century practice.
+
+### Wiener
+
+Wiener matters as broad cybernetic framing rather than as the paper's closest technical comparison.
+
+From `Cybernetics`, the paper draws:
+
+- the postwar frame of control, communication, and feedback
+- the shared treatment of animal and machine organization
+- a broader field in which regulation and signaling become central engineering questions
+
+From `Time and Organization`, the project now has:
+
+- a shorter, focused Wiener text on temporality and organized systems
+- useful support for claims about machine order, coordination, and organization across time
+- a compact retrieval target when the paper needs Wiener without searching the full `Cybernetics` volume
+
+Wiener helps situate Berkeley inside a wider postwar problem-space of organized signaling, regulation, and machine behavior, even where Berkeley's own route remains more architecturally specific.
 
 ### Turing
 
