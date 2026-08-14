@@ -1,0 +1,7242 @@
+===== PDF PAGE 001 =====
+
+
+
+===== PDF PAGE 002 =====
+
+/2
+UNIVERSITY OF SOUTHAMPTON
+
+TIME AND ORGANIZATION
+1Y
+
+NORBERT WIENER
+M.A.. Ph.D.. D.Sc.
+
+Professor of Mathematics in The
+
+Massachusetts Institute of Technology
+
+Price 2s. 6d. net
+
+THE SECOND FAWLEY FOUNDATION LECTURE
+
+
+
+===== PDF PAGE 003 =====
+
+
+
+===== PDF PAGE 004 =====
+
+I'HE FAWLEY FOUNDATION
+
+TIME AND ORGANIZATION
+ny
+
+NORBERT WIENER
+M.A.. Ph.D.. D.Sc.
+
+Professor of Mathematics in The
+
+Massachusetts Institute of Technology
+
+UNIVERSITY
+
+OF
+
+SOUTHAMPTON
+
+19CL
+
+
+
+===== PDF PAGE 005 =====
+
+The Fawley Foundation was established in the Univer-
+
+sity of Southampton in 1953, by Esso Petroleum Company,
+
+Ltd. In the Deed of Establishment the University and the
+Founders expressed their conviction that “‘the future of this
+nation and of mankind is closely linked with the relationship between science and industry, and that a special duty
+lies upon those engaged in academic and industrial life to
+do all in their power to enhance understanding of the major
+problems involved.”
+
+The Foundation providesfor the delivery in the University
+
+of a series of annual public lectures under the general title
+of “Science and Industry”; and each lecture will treat
+
+important aspects of the application of scientific thought
+to industrial and social needs.
+
+The second Fawley Lecture was delivered by Professor
+Norbert Wiener, on June 2nd, 1955, in the Assembly
+Hall of the University, the Vice-Chancellor presiding.
+
+
+
+===== PDF PAGE 006 =====
+
+TIME AND ORGANIZATION
+
+[® is a great honour and a great pleasure for me to be asked
+to give the second Fawley Foundation Lecture. In the first
+place, the general scope of the lecture places it among the most
+important foundation lectures of modern times. In the second
+place, it is in a field in which, while activity has been shared
+by Britain, America and other countries, there has been, in
+Great Britain, the longest and most continuous social consciousness of the relation between science and industry. For
+this reason I feel particularly honoured as an American to give
+
+a lecture in a field in which I am ready to concede a large
+
+share of the social forethought to England. Finally, Sir Harold
+
+Hartley has lectured at the Massachusetts Institute of Technology, and I have both met him personally and heard him
+lecture. I feel grateful to be his first successor in what is, after
+
+all, to some measure a return engagement in scientific solidarity
+between the two countries.
+
+Probably the reason why I have been asked to give this
+lecture is that I have written Cybernetics. Cybernetics is the
+science which I define to be the science of control and com-
+
+munication both in the machine and in the living organism.
+The most conspicuous new aspect of the science of cybernetics
+is that of the computing and control machines which work
+more or less for the purposes of computation or for the pro-
+
+gramming of automatic factories, and are known according to
+the fashion of the day as “giant brains”. They have caught
+the public imagination, which is always more receptive to
+gadgets than to ideas, and they have become in the eyes of
+that considerable section of the public which is addicted to
+science fiction, a symbol of the replacement of man by a
+superior machine. This was not at all my intention in writing
+Cybernetics; and it is not the purpose of my present talk to
+contribute to the further self-abnegation of humanity nor to
+
+promote the cult of the gadget.
+
+
+
+===== PDF PAGE 007 =====
+
+TIME AND ORGANIZATION
+
+On the contrary, it is my purpose to explain a certain contribution which cybernetics may have made to the ideas of
+communication and of control, whether the ideas are embodied
+in the organism, the machine, or unmechanical forms of human
+society. Certain researches, of which I want to say something
+further on in this lecture, have forced me to consider the
+
+possibility that control and communication mechanisms may
+contain clocks, which are essential, if not to their very existence,
+at least to their effective performance. The present paper is
+devoted to the comparative study of these clocks and of the
+
+function they perform over the entire range of cybernetic ideas.
+In connection with the broad range of cybernetic ideas,
+
+[ wish to underline the fact that automatization is merely one
+
+aspect of cybernetics, and that automatization itself will suffer
+if it is not taken in a broader context of cybernetic thought.
+The notion that communication and control are connected,
+and that they represent measurable quantities with a theory
+which is a branch of probability theory, has an importance
+which is entirely independent of the particular devices or the
+particular organism in which the theory is embodied. It is not
+to be progressive to insist in and out of season on the automatic
+features of our new communication and control machines.
+
+The automatic machine has great advantages for performing
+with the utmost speed communication and control operations
+of limited complexity; but it does not begin to compete with
+the human or even the animal nervous system when the
+
+demands for flexibility and complexity are high. A good
+
+understanding of cybernetics is necessary not only to enable us
+to design automatic control machines, but, even more, to
+determine whether the problem with which we are dealing is
+an appropriate problem for the automatic machine at all. The
+
+proper place for the modern genie, the slave of the electronic
+
+laboratory, is as our slave and not as our master.
+
+I have always been something of an addict of the detective
+story. At its worst, the so-called detective story can be a piece
+
+of thud-and-blunder writing, with no particular organization,
+
+and devoted to impressing on peaceful stay-at-home persons
+like myself the titillations of vicarious violence. At its best, the
+detective story may be a genuine intellectual pursuit, in which
+the author shows how small bits of stray information left
+
+
+
+===== PDF PAGE 008 =====
+
+TIME AND ORGANIZATION
+
+5
+
+behind by a criminal who is unwary, or at least not omniscient,
+may add up to a hanging case.
+
+In this form the detective story is closely related to many
+forms of scientific investigations, such as, for example, the
+
+reconstruction by an archaeologist of a dead civilization from
+its potsherds and tombs, or the reading of a previously unknown
+script on the basis of names of kings and ritual formulae. In
+
+fact, the technique of the good detective story is often much
+
+closer to the methods of science than the technique of the new
+literary genre which is known as science fiction. All too often
+science fiction represents a glorification of the strangeness of
+the new worlds presented to us by science and of the new
+
+powers which science has given humanity, rather than a true
+attempt to take on the point of view of the scientist and to show
+
+his thought in action. In this respect the detective story at its
+best, with its modest and limited universe and its many small
+
+and apparently insignificant clues which build up to a com-
+
+plete pattern of knowledge, is, in its modesty, its limited pur-
+
+pose, and its logic, far more scientific than the average tale of
+science fiction.
+
+I begin my talk with this apparently irrelevant reference to
+the detective story, because of a piece of scientific work in
+which I now find myself engaged. This piece of work is a
+co-operative venture of a group of communication engineers
+and apparatus designers at the Massachusetts Institute of
+
+T'echnology, with myself acting as a mathematician, and with
+
+a group of neurophysiologists and neurologists at the Mas-
+
+sachusetts General Hospital. The object of our study is the
+electric activity of the brain as presented by the confusing mass
+of stray electric activity exhibited in so-called electroencephalo-
+
+grams, and known in plain English as brain waves.
+The study of brain waves resembles the detective story in
+
+being an attempt to obtain an organic body of knowledge,
+leading in a definite and positive direction, from a rather
+haphazard mass of clues. Like the detective story, this investi-
+
+gation is dependent on the organization of what is originally
+haphazard and disorganized evidence, until the various
+scattered data come to point in one clear direction. In the case
+
+of the brain, the information to which all of our random evidence appears to be leading is that the brain contains what we
+
+
+
+===== PDF PAGE 009 =====
+
+0
+
+TIME AND ORGANIZATION
+
+may term a clock of high accuracy. As in the detective story,
+the clues seem to the amateur observer misleading and incon-
+
+clusive; and it is only when they are processed with a very large
+degree of skill, that the common direction in which they are
+leading begins to stand out with the evidence of an undeniable
+fact. The thrill of seeing this undeniable fact gradually emerge
+from a mass of seemingly uninterpretable data is in no way
+
+different in quality from the thrill of reading a first-rate mystery
+story and of finding oneself in step with the author or ahead of
+him in arriving at the conclusion.
+To go into the history of the electroencephalogram: some
+time in the 1930’s a group of electrophysiologists in various
+countries! made a study of the electric potentials collected by
+electrodes placed on a human scalp, and of the similar electric
+
+potentials yielded by electrodes placed directly on or in the
+
+brains of experimental animals. Great hopes were formed that
+these brain waves would exhibit important characteristics,
+throwing a light on mental and cerebral activity in such a
+
+manner that they might be used both by the physiologist in his
+investigation of normal activity and by the pathologist in his
+study of disease. In fact, these highly irregular curves have been
+
+of considerable use in the study of epilepsy and of a few other
+
+cerebral phenomena. However, the great expectations originally formed from them have been largely disappointed, owing
+to the difficulty of getting readable information by the inspec-
+
+tion of a set of highly irregular curves. Thus what was needed
+was a new method for the analysis and classification of electroencephalograph records. This I found mvself in a position to
+
+furnish.
+The tool which I found particularly apt for the study of
+brain waves was a branch of the mathematical theory known as
+
+harmonic analysis. Harmonic analysis consists in the reduction
+
+of a complicated motion into a sum of simple oscillations. The
+classical branch of the subject concerns itself with the reduction
+to such a sum of a motion which is periodic, or which in other
+words repeats itself after a given time. This branch of harmonic
+1 Richard Caton of England had made electroencephalographic studies on
+animals in 1875, but the German, Hans Berger, was the first to make observations
+concerning certain electrical potentials which displayed themselves on the human
+scalp. Dr. Grey Walter and Dr. F. A. Gibbs were among the leaders of the study
+
+of electroencephalography in the 1930’s.
+
+
+
+===== PDF PAGE 010 =====
+
+TIME AND ORGANIZATION
+
+7
+
+analysis is called the theory of Fourier series, and is one of the
+most highly developed branches of mathematics which we
+possess. There is scarcely a pure mathematician who has worked
+in the group of fields known as analysis who has not contributed
+to the theory of Fourier series.
+However, not all motions which we wish to analyse with
+simple oscillations are periodic. There is one class of motions
+
+which, although not periodic, has been subjected to a mathe-
+
+matical analysis scarcely less searching than the theory of
+
+Fourier series. This class consists of those motions which in a
+certain appropriate sense start from nothing, and end in
+nothing. Whereas the Fourier series represents a function of
+the time as the sum of oscillations which consist in a constant
+
+displacement, a fundamental, a second harmonic of twice the
+frequency of the fundamental, a third harmonic of three times
+
+that frequency, and so on; the theory of harmonic analysis
+suited for functions which are small for both large positive
+
+times and large negative times, breaks them up into the
+integral of a continuous range of simple harmonic oscillations,
+
+and is known as the theory of the Fourier integral.
+These represent the chief varieties of harmonic analysis
+known to the pure mathematician. However, the physicist is
+deeply concerned in a type of harmonic analysis which I call
+generalized harmonic analysis, which does not fit into either
+
+of the two compartments to which the mathematicians had
+devoted most of their attention. The part of physics in which
+
+this harmonic analysis occurs is the theory of light. Light is
+
+generally conceived ‘as a continuous process, not necessarily
+periodic, as are those processes for which the Fourier series is
+the natural representation; and not transient in time as are
+
+those processes belonging to the scope of the Fourier integral.
+In this theory of the harmonic analysis of such continuous
+processes, the physicist is used to the consideration of light
+whose spectrum falls into a discrete set of lines, light whose
+
+spectrum is continuously distributed over bands, and perhaps
+
+even more varied sorts of light.
+In the years 1924 to 1930 I spent a considerable amount of
+
+effort in putting this field of harmonic analysis into a logically
+
+closed theory comparable with that already existing for the
+
+Fourier series and for the Fourier integral. The definitive result
+
+
+
+===== PDF PAGE 011 =====
+
+8
+
+TIME AND ORGANIZATION
+
+of my investigations appeared in 1930 in the Acta Mathematica
+
+in Stockholm in a paper entitled, “Generalized Harmonic
+
+Analysis”.
+
+My work on functions with continuing power, such as occur
+
+in the theory of light, was based in part on the periodogram of
+Sir Arthur Schuster, and in part on the use of autocorrelation
+by Sir Geoffrey Taylor in his papers on turbulence. The idea
+
+of my work in this field is the following: if we start with the
+
+function f(¢), its autocorrelation is T—&gt;on
+lim 1
+| -T f(r) f(7)dr.
+2T
+.
+
+T
+
+g——
+
+This autocorrelation is an expression made up of the same
+
+frequencies which constitute f(¢), but all the component
+oscillations are now put into cosine phase, and their amplitudes
+are squared. The result of this is to give us a graph for the
+
+autocorrelation, much more regular than the graph for f(¢)
+
+itself. In doing this we throw away a great deal of the informa-
+
+tion contained in the graph off(¢), but what remains is much
+
+more readable and significant. The harmonic analysis of the
+autocorrelation may now proceed in straight Fourier integral
+lines. This operation of taking the autocorrelation I decided
+to use on brain waves.
+
+From the beginning the results were striking and I believe
+
+significant. As I expected, the autocorrelogram proved to
+
+yield a picture much more readable than that of the original
+electroencephalogram from which it was formed. It had already
+
+been observed that brain waves often contained an oscillation
+at the rate of g or 10 per second, known as the alpha rhythm.
+
+As far as the eye shows, however, it is extremely difficult to
+
+judge the persistence of thisrhythm, and even tofinditatallunder
+unfavourable circumstances. When the autocorrelation is taken,
+the rhythm stands out with the utmost clarity and persistence.
+
+Under very many circumstances, the autocorrelation curve of
+
+a brain wave begins with what looks very much like an ex-
+
+ponentially damped rhythm of the alpha frequency; but as
+the delay ¢ becomes greater and greater, this rhythm continues
+
+at about constant level for what we know to be as much as
+
+131 seconds, and what indeed may be considerably more. In
+
+fact this persisting rhythm now appears itself to have a complicated structure, and to be made up in the main of the sum
+
+
+
+===== PDF PAGE 012 =====
+
+TIME AND ORGANIZATION
+
+9
+
+of two rhythms of nearly the same frequency, which beat with
+one another, and which may—I am here on uncertain ground—
+be referred to the two hemispheres of the brain.
+While the autocorrelation method is fairly recent under its
+own name, something very nearly equivalent to it has been
+
+used by the physicists for some time in the study of light. I am
+referring to the reading of the interferometer used by Michel-
+
+son. In this instrument, which is the most refined of all
+
+spectrographs, a beam of light is spread by a half-silvered
+mirror, and the two halves follow paths with an adjustable
+difference in length. They are now allowed to interfere, and
+the intensity of the light is studied as a quantity dependent on
+
+the difference in paths. This intensity depends quadratically
+
+on the electromagnetic vector of the light. The places where the
+light is strong after interference are known as fringes. The
+
+degree of homogeneity and monochromaticity of the light is
+
+measured by the counted number of the fringes, before they
+disappear when the relative difference of delay in the two paths
+is great.
+Using these criteria we may say that the alpha rhythm in
+the brain contains at its centre a rhythm which continues to
+
+show itself as the passage of hundredsoffringesand which
+is therefore of extraordinary purity in frequency. This central
+rhythm, for all its persistency, is not strong in energy, and
+would be entirely lost on any non-instrumental examination
+
+of a brain wave. In this sense, the pure central rhythm is a new
+
+discovery, and the old alpha rhythm as observed is derived
+from nothing more than the beginning and exponentially
+falling part of the autocorrelation diagram, where the fringes
+
+are strong, but have not had the chance to show their more
+
+important property of consistency.
+
+You will remember I started this lecture with the analogy
+of the detective story, and I have shown how certain scientific
+detective methods have established the existence of an accurate
+
+clock in the brain of man—a clock of good consistency, beating
+at about 10 oscillations per second, and keeping phase with
+
+itself for perhaps hundreds of seconds. However, again in the
+detective tradition, it is not enough to discover a crime or an
+
+anomaly, but its significance must be established and in many
+cases the motivation behind it. The brain has a good clock.
+
+
+
+===== PDF PAGE 013 =====
+
+10
+
+TIME AND ORGANIZATION
+
+Well and good. Is there any reason why it should have a good
+
+clock or why a communication and control apparatus using a
+good clock can be expected to function better or at least
+differently from one with a poor clock? I shall show that the
+
+function of the clock in the control apparatus is important and
+that it is quite concordant with an expectation that clocking
+in the brain has something to do with intelligence and organized
+
+functioning.
+
+A control and communication mechanism is one in which
+stored traces of past decisions are combined to give rise to
+
+present and future decisions. For the combination of informa-
+
+tion, it is generally desirable that the pieces of information
+combined should arrive at substantially the same time into the
+
+combining mechanism. This is true with most switching
+mechanisms, and it is definitely true with that particular sort
+of switching mechanism known as the synapse of the nervous
+
+system.
+
+The transmission of an impulse along a nerve fibre is a
+
+fairly simple phenomenon, if we confine ourselves to its
+
+description rather than its analysis. The electric discharge
+known as a nerve spike conditions a similar discharge further
+
+along the fibre proceeding with a constant velocity and nearly
+independent of the nature of the stimulus by which it is caused.
+
+In other words, the conduction of nerve impulses is an all-ornone phenomenon.
+
+However, impulses may proceed beyond the fibre on which
+they originate. When the fibre ends, it joins with a number of
+
+similar fibres in a butting on a new fibre by connections known
+
+as synapses. When the proper combination of incoming fibres
+fire within a certain limited time of combination, the outgoing
+fibre fires, and otherwise it does not. That is, the question of
+whether an outgoing fibre fires or not depends not merely on
+
+the existence of impulses on the connected incoming fibres but
+also on their substantial simultaneity of arrival.
+We now say that it is possible for a switching mechanism to
+operate without a clock, by operating on what we may call
+a sequential basis. If there is a mechanism for holding incoming
+impulses until the proper set has arrived and then combining
+
+them simultaneously into outgoing impulses, a controlled
+
+system may work without a clock. This involves a complicated
+
+
+
+===== PDF PAGE 014 =====
+
+TIME AND ORGANIZATION
+
+I1
+
+storage and triggering mechanism, and it also involves the
+requirement that the outgoing channels be kept ready and idle
+
+until the proper combination of impulses has passed into the
+
+incoming channels.
+
+On the one hand, such an idleness is time consuming. By
+far the greater part of the activity of a control mechanism
+
+operated on this principle will be spent in standing by. On the
+other hand, holding mechanisms on temporary memories,
+although they exist in the brain as well as in other control
+mechanisms, are not too well understood, and are likely to be
+
+complicated and expensive in character. Of course, the word
+
+‘expensive’ is not one to be interpreted in terms of money.
+It is certainly not so to be interpreted in the case of a living
+system such as the human being; but it does have a meaning
+
+as far as demands on available resources are concerned. Thus
+
+a system which has a good enough clock to ensure that the
+impulses which are to combine arise simultaneously, has a
+
+great advantage in economy and in efficiency.
+
+That this is more than a manner of speaking is attested by
+
+the fact that many working control mechanisms do in fact
+contain clocks. At the Massachusetts Institute of Technology,
+we have a milling machine which reads its orders off punched
+tape like the tape in a player-piano, and interprets these into
+
+an up-and-down movement of the work and a right-and-left
+and to-and-fro movement of the cutting tool. Some sort of
+
+clock is essential for seeing that corresponding impulses arrive
+
+at corresponding times, and that the three different sorts of
+motion remain in step with one another.
+It is of course possible that this regulating clock is a clock
+only in the Pickwickian sense, and that it merely counts
+impulses rather than measures the time between them. In fact,
+the clock of our milling machine has something of this character. Its speed can be changed considerably without a great
+effect on its efficiency, and can even be changed in an irregular
+manner. This possibility, however, depends on certain rather
+
+special and limited features of the milling machine.
+
+The milling machine is deliberately made self-compensating
+
+under a change in clocking speed. What facilitates this is that
+
+most of the cuts are long straight lines. Thus over a large part
+
+of its action, a change in speed merely moves the instrument
+
+
+
+===== PDF PAGE 015 =====
+
+12
+
+TIME AND ORGANIZATION
+
+further in the direction in which it is going, and the errors
+arising from this are not hard to compensate. On the other
+hand, if the milling machine is working on sharply curved cuts
+
+at a high speed, then the inertia of its motion will mean that a
+
+change of the timing will carry the tool and its work in a
+tangential direction and will distort the cut. A machine doing
+more varied work than the milling machine will have a more
+
+cogent reason for keeping its clocking more perfectly timed.
+
+Suppose that we were to examine electric stray currents
+
+around the milling machine, what should we find? On the one
+
+hand, a clock itself would give a very nearly periodic record,
+
+albeit a weak one. Clocks are best kept at a moderate energy
+
+level without too much coupling with the external world. This
+is for the sake of their uniformity of operation. We should
+expect that the autocorrelation of the clock itself would not be
+too dissimilar to that part of the autocorrelation of an electroencephalogram which runs at an approximately constant level,
+
+after the initial period of rapid exponential decline has been
+
+passed.
+
+However, a clock in a machine is there to be used; and it
+cannot be used unless its output is amplified up to a level at
+which it is effective in accomplishing some mechanical task.
+Therefore, from time to time, in addition to stray currents in
+
+the machine which arise from the unamplified clock, there will
+
+be strays whose source is the clock as temporarily amplified for
+use. These amplifications will take place over different times,
+and they essentially represent modulation of the clock as a
+
+carrier by a message indicating its employment.
+This modulated carrier is a phenomenon essentially similar
+to what we find in television, where the clock represents the
+
+sweep frequency. This sweep frequency carries the message,
+
+which in the case of television is the picture. The effect of
+modulating a carrier wave is to spread the frequency band of
+a carrier; and in certain well-known cases this will have the
+effect on the autocorrelation of an exponential falling off. Thus
+
+the autocorrelation which we obtain from the brain wave bears
+a close resemblance to that which we should expect from the
+combination of the readings of a modulated clock and an un-
+
+modulated clock.
+We thus see that clocking is both a useful and a recognized
+
+
+
+===== PDF PAGE 016 =====
+
+TIME AND ORGANIZATION
+
+13
+
+phenomenon in the control machine of the brain and in various
+sorts of mechanical control machines. However, a social organ-
+
+ization is also a control machine, and it becomes interesting
+to ascertain: (a) whether such social control machines have
+clocks, and (5) whether these clocks fulfil a useful purpose.
+From the control machine of the automatic factory to the
+social control machine of the now standard type of assembly
+
+line, there is no great step. Certainly factories and assembly
+lines both have and need clocks. The personnel of a factory
+comes in on regular shifts and punches the time-clocks. This is
+in order to secure that organized effort be not impeded by the
+absence of essential members of a working crew, while the
+
+others are standing by.
+Moreover, the material of the assembly line must also be
+delivered on a tight schedule. Suppose that we consider the
+
+point in a motor car assembly line, where the engine assembly
+
+is clamped to place in the body assembly. Unless engines and
+bodies are delivered at the same rate, one or the other line will
+
+back up. This may have the effect of immobilizing the factory
+
+completely; but even if it does not, it must have the effect of
+employing factory space in a most uneconomical manner for
+temporary storage. As we have seen in the discussion of a
+
+machine like the brain, the sequential operation of an organism, as opposed to the clocked organization, makes storage
+demands which are likely to be unwelcome and expensive.
+As history goes, the factory is rather a new form of social
+
+organization. However, long before human labour in the
+factory was clocked by the hour and the minute, large sectors
+of human effort were clocked by the day, the year, the month,
+
+and the week. Every civilization, which is worthy of being
+called a civilization at all, has a calendar. Here I include such
+
+diverse cultures as the Egyptian, the Sumerian Babylonian, the
+
+Greek, the Jewish, the Roman, the Hindu, the Chinese, the
+
+Aztec, and the Mayan. In most of these cases, the calendar has
+been developed with a certain astronomical knowledge. What
+1s the function of this so universal characteristic of culture, or
+in other words of social organization?
+The most obvious primitive use of astronomy is in navigation.
+
+Nevertheless, calendars are equally important in cultures in
+which navigation has played a large role, and in substantially
+
+
+
+===== PDF PAGE 017 =====
+
+14
+
+TIME AND ORGANIZATION
+
+inland cultures. We are thus driven to consider functions of the
+calendar which have little to do with the sea, and here the most
+
+obvious is that of synchronizing the rhythm of sowing and
+reaping, of pasture and the changes of pasturing, with the
+
+seasons of the year. This alone would make the calendar
+
+important, although to a different degree in those regions with
+
+a temperate varying climate and in those regions with an
+equable climate changing very little over the year.
+If, however, we look more carefully at the calendar, we see
+
+that it contains manyfeatures which do not belong to the seasons
+and to the solar year. Many cultures have a lunar year, which
+is only adjustable by violence to the course of the seasons. The
+Moslem year, for example, drifts through its months all around
+the solar year, so that no fixed correspondence between the
+two years can be established.
+
+There are moreover certain features of the calendar which
+
+only belong in a rough way either to the solar or the lunar,
+and which have an importance almost equal to that of these
+natural divisions of time. Among these is the week.
+Behind the week are at least two social phenomena: religious
+worship and the market. The seven-day week is roughly a
+quarter of the lunar cycle, and like the lunar cycle, has no
+significant relation to the seasons. In China, the ten-day market
+period plays a considerable role, and there are still other weeks
+in different parts of the world. Why is the week so important
+to culture?
+
+Whether we consider the market week or the religious week,
+the week is used to regulate certain forms of human activity
+which depend on the joint action of large parts of the com-
+
+munity. The religious week regulates the coming together of
+people in worship; but it also regulates the rhythm of work and
+rest. Without something of this sort, it would be extremely
+difficult to bring the community together for a systematic
+worship in which large parts of the community take a joint
+share. We should furthermore find that the private and separate
+chythms of rest and activity of a community interfere sericusly
+with the activity of the farmer, the merchant, and the crafts-
+
+man. It is important, in business or political or other communal
+activities, to be reasonably sure that a man will be available
+
+for his share in these activities at stated and foreseeable times.
+
+
+
+===== PDF PAGE 018 =====
+
+TIME AND ORGANIZATION
+
+15
+
+The highest degree of such timed communal activity is to be
+
+found in the market.
+Here the farmer knows that at certain stated times, he may
+come to the market with his crops, and find somebody ready
+to purchase them. The craftsmen knows that he need not
+interrupt his work in the shop in an irregular manner, but can
+devote a definitely assignable day and even hour to the problem
+of the sale of his work. This involves a very different activity
+
+from that of manufacture. Without the market-week, orderly
+business and social activity would be greatly hampered.
+Besides this sort of rhythm of business and markets, there is
+in most cultures a longer rhythm which depends on religious
+festivals. Many contracts in Europe are made by the quarter
+year, in which such religious feasts as Christmas, Easter,
+
+Whitsuntide and Michaelmas are the critical days.
+Certain periods in the year, such as Lent or the fast of
+Ramazan among the Moslems, are reserved for the communal
+self-abnegation and asceticism, and thus form an essential part
+of the mode of life of the community. Let it be noted that Lent
+varies over a considerable range with respect to the solar year,
+
+and that Ramazan, like all features of the Moslem calendar,
+
+runs its due course around the seasons. Their clock is artificial,
+and not the strict clock of the seasons. It is not too much to say
+
+that all forms of culture depend on the probability that all the
+people, or at least a large part of them, will be doing the same
+things at the same stated times.
+
+As I have said, this clocking represents a foretaste of the
+tighter clocking which takes place in the factory. When a man
+punches the time-clock at eight in the morning in order to
+assure the employer that he will be available for work together
+
+with the other members of his gang, he is carrying out a process
+which is foreshadowed in the market week. When a factory
+demands that the raw material be delivered at certain precise
+
+hours of certain precise days, it is only going a little further in
+the same direction. The meaning of all these things is nothing
+but an awareness of the same factors which demand that the
+
+automatic milling machine contain an internal clock, and of
+the further factors which probably create the need for a similar
+fine clock in the human brain itself.
+It is far too early in our work on the autocorrelation of the
+
+
+
+===== PDF PAGE 019 =====
+
+i6
+
+TIME AND ORGANIZATION
+
+electroencephalogram for us to make dogmatic statements
+concerning the brain clock in man and the lower animals or
+in individual men of different levels of mental ability. However,
+there are indications from small preliminary samples that the
+human clock is more regular and more persistent than the
+similar clock in, let us say, the cat. It is quite conceivable,
+
+although not yet proved, that the regularity of the human
+clock will be associated with intelligence, and with the ability
+of the intelligent man to carry out relatively long-time coordinated mental activity. Of course, this does not mean that
+the clock itself is a measure of this intelligence; but at any rate,
+it gives us a strong suggestion that the regularity of this clock
+may be a necessary if not a sufficient condition for highly
+
+organized mental activity. At present this is nothing more than
+
+a basis on which we can lay out an elaborate programme of
+
+researches for the future. Meanwhile, we must wait for the
+verdict of these researches.
+It will be seen that my lecture is further away from industrial and economic facts than the lecture of Sir Harold
+
+Hartley, and that it lies in a region in which its social evaluation belongs more to the possibilities of the future than to the
+problems which face us immediately. It was entirely right that
+the first of these Fawley Foundation Lectures should be devoted
+to setting the stage for all lectures in the future concerning the
+
+patterns of science and industry. However, this brilliant
+
+innovation in the first of such a series of lectures might rapidly
+
+degenerate into clichés if the subsequent lectures followed the
+middle of the road and merely re-emphasized Sir Harold’s
+
+theme. It is for this reason that I have felt myself justified in
+introducing an extremely new and extremely tentative series
+of conjectures about clocking in this. the second Fawley
+Foundation lecture.
+The value of a series of lectures of this sort will depend on
+
+the innovations of thought introduced in the series. I have
+
+conceived it as my function to emulate the inaugural innovator
+rather than to seek to be a fully objective recorder of things
+done.
+
+
+
+===== PDF PAGE 020 =====
+
+
+
+===== PDF PAGE 021 =====
+
+
+
+===== PDF PAGE 022 =====
+
+or nope
+Lil
+
+iL.
+
+BYCee
+remy
+
+bs
+
+5
+¥ I Oh
+
+Cee a pw
+
+LYN EIT
+SHAERh
+
+TITLITY
+v 3 aiid
+
+BL
+Fi A LEN
+
+Cx egeumNperpry
+erieLoL0
+
+1
+BY
+
+yee
+ra
+
+TRL PREO NR porta
+Ce
+
+thw on
+
+Lat
+
+A.
+
+
+
+===== PDF PAGE 023 =====
+
+EE
+
+3
+
+4
+
+~
+
+=
+
+ne N
+
+x
+
+BANE ee
+
+“x
+
+a
+
+mE
+SEL
+-
+
+a
+3
+
+LAK ee
+by
+
+“
+
+Ly
+
+—~
+
+nh
+
+emg
+
+Ley
+
+=
+
+camtupe,.
+
+~v Found tion
+
+* the le-tuse »1--
+
+*ntures of moteyn timer
+
+1
+
+Po
+
+re
+
+the
+
+FT
+
+-
+
+iT
+
+oy
+Plret
+plere
+
+LE.
+
+In the second place.
+
+~1e14 in which while activity hos heen shared by Pri
+
+imerlcz, and other countries, there hee ba2n the longest and movy
+sontinuousa social consciousness of the velstlon between sclence ano
+
+Industry in Crest Zritsin,
+
+For this reason 1 feel vortlcularly
+
+honored + 4 en Armerlcen to olive a lecture in &amp; f1leld in whlch T &lt;»
+
+ready to gonzede a lsr~e chere of the soozisl forethourhy To Fnalend,
+
+Finally, Sir Harold lertley hoe lectured at the Fos
+
+«+
+
+Institute of Technolory and I have both met him »
+him
+
+ture,
+
+1 erateful to me hig fired successor C0 whnd
+
+after 11 to some measure = return engzzement ln soto nt
+o£
+
+fy pH
+
+=nd heerd
+
+v eoliderity
+
+hetween the two counter!
+
+T hove always been conmething of on eddliec
+)
+
+At its worst, the so-called detectlve slorv ro
+
+' thud-snd-blundsr writinz, with ne prertlculsr orpanirzatlon,
+
+end C~voted to the immreccion on peaceful stry-st-hoie oersons like
+myself of the titillutions ¢” visarious violence,
+de!
+
+4% ite bent, the
+
+tlve story may te
+
+the suthor shows how smell.
+by a criminal who is unwar
+up “0 a hanging cenr
+Tn this form the o
+
+vive story 1a closely
+
+invragiootions, such es for evammle
+
+ff onion
+
+reconstruction by sn ercheolo~ist of 2 dead civilization from ite
+
+cotehards end tombe, or the readlny of 2 nreviously unknown serint
+on the basis of nomea of kinvs and ritusl formulre.
+*
+“ean
+ue
+
+ka
+
+mene may mF
+3
+
+ff tine POHL OL. tantive atopy 4
+
+mB mas Fle thin tashinicue
+»
+
+-
+
+-
+
+me
+
+E
+
+yy
+
+of the
+1
+
+5
+
+3
+
+In 7
+
+wg ES
+*i 1
+
+new 14+ Teng mene Whleh
+5,
+
+
+
+===== PDF PAGE 024 =====
+
+fens
+
+is known ¢
+renee ya }
+
+cent
+
+;
+
+"mne fiction
+
+i, vy
+
+Ry er Me my
+
+th us by selenr
+
+“v
+
+prsther then a tru»
+
+“tte
+
+the erientlet and to show ht
+
+thow
+
+s
+
+hoa
+
+ou Worlds pre
+
+wowrg hich sclence hss given
+tn 1 keg on the polint of view of
+
+tan
+
+the dstective sfory at its best, with 2ta pade-=
+
+Tn thie resnezt
+
+1 “teas
+
+universe and ita meny small end aoverently insirnifiesnt clues
+
+which bulld up te
+
+complete patt vn of knowledre, is
+
+gclentiflc than the ~wro-m-
+
+" gclence fiction in its mode-+v
+
+ite limited purpose, and it.
+
+T begin ny talk wlth this apperently ir" ~vant ference to
+
+the ¢-*20tlve story, because of a piece of sclentific work in which
+
+I now ©_.nd myself engaged.
+
+This plece of work 1s a coliperative
+
+cress of gommunliestlon engineers ena
+
+*ecacmansts Institute of Technology, with mv
+
+tus deslizners
+® acting ss
+
+a mathematiclan. end with a groun of neurophysiolorictsa
+
+neursclezlsts at the Meecegchusetts General Hoenital.,
+of our «tv
+
+by thes confu-in~ mae
+
+The oblect
+
+ta antivity of the brsin sa presented
+
+7 lentrio activity erxhiditel in so-called
+
+2le~traencenhalosrams, and known in plain Enclich as brain waves
+Tor
+
+study of brain waves wesmbles the detective story in heing
+
+~*~ of knowledge, lesding in
+
+E33)
+
+dell
+
+slus
+
+on tt
+vy est
+nF
+
+ol:
+
+all
+
+ther hasharz-rd meaz of
+
+cipsatr {
+4
+
+~tantiv k PE
+CT
+
+astm
+
+.
+
+thi. cInvo~Rizstion As denendent
+
+~
+
+re *oinally hevharerd and disorgsenized
+"1 dnts come to rolnt in one
+Shes
+
+TC
+
+y=
+
+the information to which
+
+coears to be leading is that the brain
+
+rontains what wa may term a clock of hirh scouracy.
+
+2a in the
+
+
+
+===== PDF PAGE 025 =====
+
+detec’ i
+
+ao de © ma
+
+reser ober
+
+P—
+
+wer mi Yoeding end
+
+yy erm “nod vith
+
+acct
+$m
+
+1
+
+Lh
+
+“
+
+TE
+
+Aanmman Cpe ~tion An
+1 med dep an
+
+wh 4
+
+-
+
+T
+
+"Ye Poof graduslly
+
+un’
+3H
+
+1
+
+aie
+
+“ +
+
+ae
+
+i
+
+EL
+
+x
+
+ator
+
++
+
+a
+
+uf
+
+~4 wR no
+
+»
+
+Ne
+
+ans
+
+data 12 An no
+TH eg a
+
+si
+
+-
+
+way
+
+Te myste™y
+
+tt the guthor or shead of
+
+*
+
+lm
+
+Lorran, come tloe
+
+An +
+
+Rada l
+
+5
+
+~rophyeleleslists in various countries
+
+¥
+
+3
+
+y
+
+tudy of the elect ia notentlale collected hv electrodes
+a1 a human scalp, eri
+
+nl 3
+
+v
+
+"° the similar elestrle potentlsls
+
++ elestrodes nla
+
+exnorirrntal animale,
+
+* on or An the breins of
+
+Gr
+
+“ea formed that these brain
+
+raven would exhibit importsnt
+
+atics, throewlng a light
+
+be used both by the privitil.
+
+y hig inve~tizationofnormal
+
+on mental and cerebral setivity In such a manner that they mizht
+
+aati-"*v and by the rathol
+
+theses hirhly irrecular curves hove been of conslderable use in
+the study of enllensy and a fev nther cerebral phenomena,
+the
+
+rr
+
+.
+
+nt od i
+
+ovine
+
+inn
+
+oh®
+
+Anens me
+
+ry
+
+ny an
+
+&gt;r»
+
+Thus
+
+ecatio
+
+nrmed from them heve been
+
+r-~ectationg orird:
+cen
+
+i ;
+
+the
+
+anWY
+
+|
+
+- a
+
+x
+
+‘ne readable
+
+Len of a zet of highly irregular curves.
+» ner mathod for the analysis and glee Caebeho
+
+Tr
+_y
+
++. ;
+
+However,
+
+iS
+
+A
+
+mponh raoorda,
+
+NOGA
+
+This I found myself in =
+
+i
+
+he
+aT
+NT
+
+TI EON
+
+ev ge
+
+boa
+
+ul £ Ae
+
+7 ept for the study of brain
+- 1
+i
+ve
+
+wery known aa hermonlc
+
+Hersonle enanlvzls consists in the redustion of
+
+
+
+===== PDF PAGE 026 =====
+
+inne,
+
+oO
+
+The
+
+hy
+
+*sloal
+
+uu
+
+“n to zurerh
+ratdArg
+oy
+
+r=
+
+an~’
+
+"
+
+"* mfter pn given time.
+- ow
+
+moet
+
+Cd
+
+-
+
+CN
+
+.
+
+words
+
+*
+
+This branch ¢” herein
+
+theory »® Pourler cerier, 2nd ie one of the
+
+Fo
+
+®
+
+nwa
+
+Ll
+
+i 7 fENE
+ar]1s he
+7pa tine
+
+Lpy rw sem Y
+
+Ther
+
+which
+@
+
+» ooh ee»
+
+of
+
+m=
+
+Taf
+
+ae
+
+- Iie
+
+In the
+
+group
+
+ne=tmitwisnd to the theory
+
+ofFonrdi-
+
+th sim le
+
+Dr
+
+ions which,
+
+ar
+
+althe
+sear
+
+els
+
+.
+
+ror
+
+has
+
+To Le=naspeohing then the theeswsr
+cone?
+
+*hematleal analysis
+
+Tay *r aeries,
+
+t © those motions whieh in a certain snorooriste
+
+» »athing, and end in nothine,
+. fungtion of th~ {41~
+
+hereas the Fourier
+
+=
+
+which coneist in » congtoent dlsplager-
+
+ane
+
+Cf
+
+nf thro? times thf Lroauaney, ont
+
+third heornonie
+
+nosit
+int
+
+ia kn
+
+*
+
+Ava timo
+
+woww wu
+
+* hermcbhnie
+hae
+
+-— oA
+
+Dreask Forem
+
+a
+
+1
+
+Ants the
+
+rentinuouzg rence of girmls harmanis ogeillzationz, 2nd
+
+“he theory of the Fourier inte~-*
+
+"=mnt the chief varieties of hermonia eon-lwvale known
+
+.
+
+Aelpgn,
+
+in
+
+Howev or, the phyelnr’
+
+Moe 3ly anncerned
+
+r~nle analysis which I call -
+
+ans’
+
+vole
+
+ga
+
+“tpt A anna rd a
+
+ngeillastions
+
+nd -antal, a gecond
+
+harmonise of tuiea the frecuenry of tho
+
+ans’
+
+This
+
+woh dogg not fit into either of the two compartments to
+
++
+
+“ methemstlielansg had devoted most of thelr attention,
+
+The
+
+~erh of nhyeisz Ain which this hermonie zanzlyzis occurs is the theory
+
+
+
+===== PDF PAGE 027 =====
+
+3. “hh.
+
+hog
+
+¥
+
+a
+
+‘wcesas,
+
+om
+
+Fourier
+
+not
+
+$henn
+
+"¥
+
+-
+
+ey
+
+-
+
+=
+
+In
+
++
+
+LE
+
+.
+
+ay.
+
+ny
+
+* os wep
+
+nn *
+
+wml rine
+
+am ow
+
+the
+
+ne
+
+Cena.
+
+OARS~"
+
+ngcotI'un
+
+fn”
+
+sontt
+
+“rra yoried
+
+soy?
+
+aniount of «lfort
+r
+
+i
+
+ther
+
+worier ceries
+
+2nd
+
+Emr
+
+a
+
+atic ~ enneared in
+
+Tf?py investie
+
+-
+
+“1 Stockholm in =
+
+Wile
+
+yp
+
+osocur in
+
+MN
+
+he
+
+Tema
+
+0
+
+T4rht,
+
+2dr frthum Gehuster,
+5
+Mr
+os
+
+wes br
+
+-
+
+and in nent on SWC
+
+© Taylor in his ne
+
+€
+
+t-
+
+ny rt
+
+Flag ou
+
+funatiran
+;
+
+-
+
+f
+
+-
+
+%
+
+oe
+
+‘on by
+
+fan ©
+
+»
+
+&amp;
+
+Tha {den nf
+
++ eit#1 the
+
+oo!
+
+tt
+
+a
+
+-5
+
+opp
+
+(x oe 7 3 7 (T)anr,
+
+:
+
+"This antornrrelation §- =
+
+a4~ +"4eh eonstiture 2
+ae
+
+olosed
+
+"Me game frecueri.
+
+-aesonent peaillastions
+
+mt
+
+wer ih into ecosinae nhae-
+
+*
+
+much mor parulszsre then the gree
+£
+
+Pies
+
++51
+
+gousred,
+
+“trnarrelation,
+
+the »~-—1%t ¢” this i= +
+we throw sway a presi dea, .
+
+are
+
+Yodo, a
+
+£
+
+foe4
+
+LA ~Mng this
+r
+
+t The
+
+srenh of £{t) but what remsine ic much more readsble end eignificant,
+
+
+
+===== PDF PAGE 028 =====
+
+yt
++ Nn ”
+
+ve amy
+
+ee
+
+1
+
+Cem
+
+Feary
+
+stralght
+
+trommvmaletlion
+
+£3
+
+{
+
+eve
+v yield
+
+a mints
+
+} x
+at Nel 7
+PEL
+rn 2 a
+
+ary “2%wre
+
+a
+
+Brno
+
+¥
+
+.
+
+%
+
+1 eleotro-
+
+Aer
+i PsSo 1
+ior
+
+“sm ovihlcit 1% wes formed.
+;
+
+a
+
+1
+
+~
+
+"
+
+Py
+
+Te £1 dy He 3 hn
+
+ohr
+
+Vorsyors aftan agomtainel an osclllation at the
+
+ie
+
+©
+
+th
+L
+
+Beeson
+
+ye
+
+v
+
+hy
+
+vexry
+
+When tha aut
+
+©
+
+lation Ls taken, the
+
+1 the utnor
+r
+
+np
+
+horine
+
+gyPA
+
+bi
+
+Ban
+
+A A Re
+
+“tence,
+LA
+
+&gt;.
+saute
+
+Lo
+
+* vhat locks very mush liv Ean x
+
+of th» #’nha freauency; but es the Jd
+
+4
+
+3
+
+Under
+
+"a brain wave
+
+ou
+
+y damped rhythm
+
+my
++
+CHOne™)
+
+tg
+
+ou beoomes rreater end
+
+=thls rhythm continues ot nhent ecanntrnt level for what we
+
+¥
+
+know
+MOre.
+
+As fry
+
+CAlfficult to Juipe the
+
+4d
+
+cmotaness,
+
+ye
+
+Inha rhythm,
+
+Taythn, aad von to find it at 811 under
+
+BE
+
+und
+
+.
+
+i
+
+3
+
+©
+
+ope
+
+ph
+
+or
+
++
+.
+
+In fant. +hvin
+
+BODa
+
+1
+
+rhyth
+
+© rhythn ner anvears 1t
+
+“fwmiatar
+oy
+
+3
+
+uncertain ground--be referred to the two
+¥
+
+somethin~ +
+
+r
+
+¥
+
+lek 5
+[)
+
+Sly recent under its
+
+= paulvalent to 1t hoe been used
+
+iy
+
+ome
+
+by phyelaists for some tir 5
+to the re:
+
+v have
+
+memremny, Which beat with one znother,
+
+-
+
+i
+
+Jdon method
+own nome,
+
+¥
+
+» ha made un An the mein of the sum of two
+
+Low
+
+=nd
+
+hemi enhe re
+
+y
+
+~ ty
+
++h
+
+1, mothe y
+-
+
+1
+
+|
+
+en1
+
+"le
+
+i
+
+lnatrument whlch 1g the nor fe refinci ou I
+
+I
+
+TY
+
+p
+veferring
+
+in thls
+
+oraphs, a2 been
+
+3% 1lisht aa snaprend hv a halfeallevewead rirror, ond the two halves
+
+
+
+===== PDF PAGE 029 =====
+
+Ir
+
+LI
+
+£
+
+ne
+F
+
+©
+ox
+
+=
+
+iW
+
+ag
+
+mh
+
+mn
+
+wyFin
+
+-
+
+gerthor
+
+S
+
+1 =o
+wathz.
+
+o
+
+:
+Fi
+This
+intensity
+
+ht
+
+1
+
++r
+
+J
+
+rp oY
+
+oem
+
+J
+
+o~
+
+1 atulled
+
+Fon
+“11
+
+va known
+
+%
+
+:
+
+* +h 1i~-ht
+
+pp
+er
+
+,
+ne
+
+y
+
+“uy
+
+naths
+
+’
+
+“-r+hm dn the
+
+it
+
+a
+
+Cem dered
+
+an
+
+gl
+
+¢
+
+ia
+
+rentral
+o
+
+r fo Ire
+Noap
+
+1
+
+saith yg
+rhyths,
+
+§ or
+
+oll
+
+and would be entirsly lost
+
+it
+Tey
+
+on
+
+the
+
+- ey
+
+it
+
+wag pteapts
+cig
+
+w=
+
+T
+
+3
+
+v
+
+gAne”
+
+Lrmortent ro
+-
+
+ny nart
+;
+
+.
+
+nothold
+
+wa a
+
+on
+
+wT
+
+ohn my
+
+wa
+
+1 th
+
+-
+
+14 elpha rhythm
+
++ thon the beginning end
+
+Cy
+
+sm
+
+!
+
+1 this eense,
+
+TT
+
+1 - 4on Glarrzm, where the
+
+.chance to show thelr more
+
+"iyoy
+
+a.
+t
+
+i
+
+in
+
+PY
+
+te
+
+4
+
+Bry yyy
+
+aT
+
+gy
+
+aEnge r-
+
+The Train Lo
+should
+have a
+a
+
+x
+
+“aa
+
+10
+
+‘or merhans
+
+3
+
+bare
+
+huna:
+
+Yary of
+
+lork Ain the
+
+Talal
+
+»
+
+fp
+
+=f en iPin Adstective
+
+-
+
+ap the evi stem
+
+ou
+
+Wrain of mone
+
+1t
+
+—
+
+ocd
+
+or
+
+.
+
+yr
+
+a
+
+5
+the dat
+
+oeclly.
+
+4 &amp;
+
+yeld fp +
+
+¥
+
+ce
+
+“apr 4 n
+®
+
+~tyong- put
+
+frinmr
+
+t+=
+
+* —~
+
+Cg
+
+33
+
+-+
+
+wy tradition,
+
+3 alenifle-
+
+‘
+
+1
+
+clog
+
+1 behind it.
+
+reason why
+
+rood clock or wh xr . communication and control
+
+
+
+===== PDF PAGE 030 =====
+
+fy Ap
+
+3
+
+rT
+
+wy:
+
+“%
+
+hall211chow
+
+iy ~
+
+1
+
+1 netter
+
+tus 1s important
+
+ry pry
+
+3e
+
+haf alogking in
+
+the 1
+
+“om pen we F
+
+FY on vee py #
+
+oy
+
+Punatiening.
+santrol
+
+tr-
+
+.
+
+futy
+
+tv
+
+“dm nn
+
+Sl
+mens
+
+TY a
+
+*y
+
+ar
+
+|
+
+Fr
+
++
+
+combina sts
+
+3
+
+the
+
+the
+
+the ne vous
+
+tvr-nemiesion
+
+gr 8
+Ye
+swatehliny
+mecharisn Inown as the
+
+~~
+
+oft - yf reese
+
+n
+
+wy
+
+1
+
+iher is
+
+i
+
+‘ne with a conatent velas
+
+known S28 2 nerve
+pr
+
+n
+
+-
+
+Tan
+
+‘r
+
+origin
+
+nev
+
+5
+
+a
+
+ae
+
+“My fiber
+
+In other words, the
+
+li-or-none phenomenon.
+
+ismulresr pov nroceed beyond the fiber on which they
+
+“hen the fiber ends, 1% joins with 2 number of glmiler
+
+fiber f
+
+n
+
+,
+
+htting on &amp; new flher by conncctions known as synapses,
+
+“ire vlthin a certaln
+
+Thee
+
+1!
+
+?
+
+¢
+
+A nev fndenendent of the
+
+natur&gt; of the etlmilna by which 1t *~ gaused.
+Onan
+
+3}
+
+* to its description
+
+ve
+
+spd ts renditions a similer
+
+nroae
+
+1
+
+“henomener
+
+rath
+
+MEY
+
+“tohanlems. and 4% is definitely
+
+“hat pert
+
+Pp
+
+4
+
+amy Af Anformation combined should
+
+A Is
+
+Co
+
+-
+
+"Tttheesrafire Into the combining mechanism,
+
+oF
+
+Thi
+true
+
+nt end
+
+4
+
+'
+
+stored
+
+sonbination, the outcolng firmer fires, and otherwlce
+
+Fo
+
+ts
+
+1
+
+That is. the cuestion of whether sn outgoing fiber
+
+f
+
+~rt denends not merely on the exlstence of impulces on
+
+Ly
+
+ed incominz fivers but sleo on thelr cubstantiel simulansTy
+
+B
+
+
+
+===== PDF PAGE 031 =====
+
+©
+»~
+
+41 the proner get haa
+
+© ert then combining then
+
+7
+
+. controlled system may work
+
+simultzneously into outg-ing lroml ~°
+
+without
+
+~
+
+rle~¥
+
+~ammlicsted astorese and trigzering
+
+Thia involv”
+
+meele
+
+©
+
+y gpwslves the re-uirersnt thet the outgolng
+
+araty pnd fla unhtt
+
+chepr
+
+fy the inconi=
+
+' mr » Ot
+way ee
+
+wy
+
+WC
+
+=
+
+emi Te
+
+-
+
+1
+
+»
+
+hold?
+
+8
+
+w
+
+«
+
+=f andine hv
+
+a
+
+¥
+
+ER
+
+Le
+
+the br
+
+rq the other hand,
+
+“em, althouw y “hey mvist An
+
+1 mechanlame.,
+
+¥
+
+vamsliocated and
+
+un
+
+cu
+
+t.
+
+i
+
+yn
+
+By fer
+
+vonlam Mmerated
+
+antral
+
+k
+on
+
+11
+
+sv» vr 7 "nz incoming
+
+ther
+
+1 mul --
+
+-
+
+»-
+
+of
+
+-~
+
+to
+
+ng mechenlem
+
+not too well
+
+|
+
+-~~4gms 4a nat ane
+pape
+
+in
+
+“wn
+
+0
+
+mee om
+
+“Toma
+
+-»
+
+An tN
+
+meaning
+
+-
+
+Thus
+
+AO i
+
+pip
+
+2
+
++
+
+E,&gt;
+$7 oF
+in
+2
+
+r
+
+.
+
+a
+
+i
+
+x
+
+“nn
+
+s
+
+hich
+
+A
+
++va8ted by the
+
+4 - 4a more than
+
+~
+
+fo
+
+»
+
+Au
+
+em
+—
+
+mach
+
+, =~nntain clocks.
+
+mantio.
+
+sltute
+
+&gt;
+
+Liline
+
+pose
+3
+
+8
+
+ri -
+
+gy)
+
+the work onu
+
+ool.
+
+4men}
+
+ryagten
+
+=dy-ntage Jad
+
+ny
+
+pct
+
+-
+
+Lo
+
+ain
+
+ae
+
+rma in
+
+movement of
+
+, movement of the cutting
+
+Some sort of clock 1s essentisl for seein: that corresnonding
+
+
+
+===== PDF PAGE 032 =====
+
+{prt©
+
+ths ubhr
+
+Twang
+
+dar
+
+lock
+
+aE
+
+“
+
+a
+
+ull
+
+gy
+
+mc
+
+-
+
+yor
+
+not
+
+» counts impulses
+
+mr
+
+mgnae, ond th
+
+roth
+
+“ha fina Fotorman tho
+
+‘nt, the clock of
+
+1):
+
+nn.
+
+Ita epeed can
+
+hy
+
+= its
+
+~"telency,
+
+0 nd «
+
++
+
+i
+
+howew~the
+
+x
+
+Coy
+
+SNaf A
+
+monn :
+
+1 rEg ~~ leap
+
+This nossibllity,
+
+1 Jather emeel=1l ond limited features of
+
+pmi™ "+ » ore
+%.
+
+unler
+
+©
+
+4
+
+* ad
+
+4
+
+"4 elonking snared.
+
+me » sol {-comnensating
+
+“het facilitates this 1s thet
+
+most of the ~nmta -~ve long streicht lines,
+
+Thus over a large paxt
+
+of it action. » change in eneed merely moves the instrument further
+! the errors arising from
+
+in th
+
++ tv» pthey hand, 1f the milling
+
+this
+
+maahine ta workine mm esharnly curved eta =f a hich eneed, then
+the
+
+*meprll
+
+gh.
+
+wla
+
+nf 2¢s motion will m~- 0 *' ~%* . choanve of the timing
+
+maver te fool nA fla worl
+
+milli
+ale -inr nore nerfrativ
+~
+
+the
+
+14r
+
+mera 4 hat
+
+- gtrev
+
+fn the pne hand, a clock
+
+Foam mY
+
+~eord, alhelt a weak one,
+
+3
+
+Clocks are hesy
+
+earrents around
+
+ooh
+
+wo
+
+iy
+
+“
+
+el
+
+a
+
+He
+
+sounlinz with the external world,
+aniformity of oreration.
+
+v energy level without too much
+
+This 1s for the sake of thelr
+
+¥Y¥e ghould exneet that the aut.
+
+~elastion
+
+
+
+===== PDF PAGE 033 =====
+
+‘simile;
+el
+
+Meeega
+
+Gene
+3
+
+TI me wen
+
+In
+
+penne
+
+re, -“.
+
+oO
+
+Pb
+
+plant
+
+[han ey
+
+-
+
+*
+
+.
+
+Cee
+
+«
+
+Cele
+
+ea
+
+ww
+
+“nea, from time to tire
+
+=~
+
+i
+
+y a2 level
+
+Ca
+
+marhenlenl task,
+
+nt whist £7 4s effective in mccormld 4!
+
+Theo
+
+a
+
+A
+
++o
+
+srnonentistl dealins Te £3
+
+4:
+
+wert of
+
+In addi irs
+
+the mrehine which arise from the mnam.
+
+“trey esurrente in
+
+* plork, there will be
+v =mplilied for use,
+
+atr--r~ hone aournaz Je the olnale
+
+Srapent times and they
+
+These zrmlifications will toke nl
+
+essentially represent modulation =” the cloek ps8 a crrrier hv
+
+negeare indleating ite eonloyment.
+
+7 aimlzrp
+
+This modulated errrier is go phenome~:
+
+to what w= find in television, whor
+
+gwr~+wensueney,
+
+~*~ the
+
+.
+
+This sweep freaurney esvrleas thr ~° na which
+
+in the nage of ~»1~4sion 1a the nicture.
+
+Tha
+
+ap A 1a tn anpead tha frequency band of
+
+«+t of nmodulstins
+
+111 h=we the
+
+in
+
+sutocorrelation of ra evnonantlal falling off,
+
+=: and
+
+TNT
+
+}
+
+-
+
+Thus tha zutogorvela=
+
+tion which we obtein from the braln wave bears n alors resemblance
+
+to that which we should emmeet from the combination of the readin~s
+of a nodulated clock and an unmodulated clock.
+
+We thus eee thot clocking is both a useful and
+
+nhenomenon in the control machine of the train and in various sorts
+af mechaniezl control mamhines,
+
+However, a soeclal orcgnization 1s slsc
+
+a control machine, ond it becomes Intern
+
+(2) “hether such social control ms'chines have clocks,
+(1) whether these eloska fulfill a useful purnoce.
+
+
+
+===== PDF PAGE 034 =====
+
+rr
+
+“TTT
+
+socis
+
+y the
+wr
+
+tr
+
+renmhly
+
+line, ther-
+
+lines both hove 2nd nec plas
+
+“1 An Py
+
+in on resuler shifts ord punches *ha tim
+tr
+
+cape the
+
+gar
+1
+
+CT
+
+i
+
+-
+
+-
+
+“=hory comes
+
+t
+
+clocks «
+
+A opr 3
+
+P-1 Py ww
+
+T
+This
+
+“mr
+
+is in order
+
+ahasn me of
+
+» ~+hepa rye standing
+
+member
+
+a
+
+THE
+
+TE de
+
+¥ om
+
+del’
+
+PTY
+
+180 be
+
+Sunnose that w
+
+noint
+
+"ine, wher: tt"
+
+18 clamped © las 30 tha body zagenbly.
+
+ny gesenbly
+
+Unle~: engines and
+
+bodles sre dcillvered at the gore rate, ons or the other line
+will baer un,
+
+This moy have the eoffest of immobilizing the
+
+hut even ir * : does not, it must have the
+
+no factory snaas In a most uneconomical manner
+
+for term
+
+horaze.
+
+Ag we hove seen in the discusslon of a
+
+naghine Lli¥~ the brain, the ee~uential operation of en organiem
+a8 onnonel to tha clockad orr-nlration mekes storage demands
+
+whieh
+
+socls
+
+v 0 be unwelcop snd evpenelv-.
+
+~v goes, the factory ls a rather new form of
+
+rnizstion.,
+
+However, long before human labor in the
+
+fagter “rmn plocked by the hour and the minute, lsrr~e sectors
+the ye-w. the month,
+
+a 11
+
+caliedq
+
+25vilizatior
+
+~+2zation st sll, has
+
+1
+
+SE
+
+‘arthy of being
+
+such diverse cultures as the Egyntian, the Dumerian IDabylonlan,
+
+the Creek, the Jewleh, the Homan, the Hindu, the Chinese, the
+
+
+
+===== PDF PAGE 035 =====
+
+Artes.
+
+hag he
+
+raed nl
+
+Tt
+
+“hat A
+
+cultur-
+
+%
+
+tendar
+
+Treas
+
+2.
+
+“tle of
+
+hagpe
+
+wv tn on Ae Yon en on
+
+™a reaf obvlour
+
+"7a, calendars ery ermally Lor
+
+which navization has nlsved a large role,
+inland eultures,
+
+“We ore thus driven to oro
+
+the calendar which have 1ittle to do with the sea, end here
+
+the moot obvious ie that of evnchronizing the rhythm of sowlng
+
+and reaning. of npstere and the changes of pasturlng with the
+
+ceasonsg of th
+
+Tia Tene would meke tha ¢ lendar Important,
+
+althonsn fo
+
+varyins olimate end thevery little over the v
+
+If, however, we look m
+
+that 1t contains mony featvrr
+
+and %o the solar year.
+
+Fer eultnres hove
+
+lz only 24justable by violence to the course of the Eeas0nNs,
+The loslem year, for exemle, drifts throuch 1ts months sll around
+the solar year, go that no fixed corrgenondiencs between the
+
+years can be f° &gt;ulich
+
+There are, moreaver. acy’
+
+whish only belong in a roush way slither to the solar or the
+lunar, and which have an importance almost em © the*
+
+these natural divisions of time,
+
+Among the~
+
+Behind the week ary at least two gocial phenom
+
+sorship and the market,
+
+-
+
+religlous
+
+‘ven-day week 1a roughly a cuerter
+
+of the lunszi cvele, and like the luncor cycle, has no significant
+
+
+
+===== PDF PAGE 036 =====
+
+20 play g
+
+.
+
+~~
+
+4
+
+ang
+
+bata
+
+DEY
+the
+
+A
+
+J
+
+’
+
+‘
+
+qr
+
+ride
+
+Ty
+
+The
+
+N
+
+ye gy
+
+I
+
+, Te
+
+Pons
+
+Hithout
+det
+
+-
+
+0K
+
+a
+
+oy
+
+moment
+
+to hidiny +v
+
+&gt;
+
+Lape
+
+Ch owenmld Fos
+
+karathar
+
+pL my
+
+7
+
+~
+
+of
+
+onde
+
+aE Ae
+
+sv
+
+meyer
+to
+
+a
+
+&gt;
+
+as
+
+wr
+
+owls
+
+amemeesd
+
+ame
+
+Lf
+
+A
+
+oat,
+
+Toe Yay
+
+tffieunlt
+
+yr
+
+1
+
+T
+
+oahenld
+
+“+a rhvthra of rest
+“np
+
+Toga
+
+¥yy yy
+
+3
+wen
+-
+
+A
+
+we;“4
+
+we
+
+Manly idl 4a
+
+~Po
+
+4,
+
+Ste
+
+pa Plamen.
+
+1
+
+-
+
+IE 1a
+
+Tilea
+
+iw
+
+in ghore
+
+.
+
+in therm 2afiiel
+
+ArAveyom
+
+Laat ra
+
+degree of sush timed nemmuns
+fic
+
+?
+
+fn
+
+emtemctila wevahin in which
+
+x
+
+Further=ar £ nt tha +ha
+an
+atlt wwd A wr
+
+»
+
+*
+
+CT*hig govt
+
+ade
+
+and patter oe
+
+“oman
+
+.
+
+Nn omeeglateas tha rhythm of work
+
+“4
+
+f
+
+Co
+
+re
+
+famine br en®
+
+wy Tmt
+rg
+
+woreilp, ot ©
+LEE
+
+£
+
+Torr
+
+=
+
+.¥
+
+—-— yy
+
+ig
+
+men hirheat
+Fu
+
+che
+
+’
+
+some 1
+
+nurchage “hes
+hig we
+
+Pri
+
+Bo am
+
+»
+
+“re
+
+&gt;L
+
+ay
+
+—
+
+wo
+
+we
+
+chao
+
+4
+
+Pa
+
+def”
+asglae ¢
+
+Mails aon
+
+thet of marmfacture,
+
+Without ths --
+
+end zonlal esotivity would be
+
+Sv Prom
+v hucineagn
+
+hd
+
+Jeczldes thle sort of rhythm
+of bucines
+
+markets, thers
+
+12 in moet cultures a lon er riwtho whieh denenda on relirious
+
+
+
+===== PDF PAGE 037 =====
+
+on
+
+gro
+
+far
+
+o&amp;oE
+
+~
+
+fer EY
+x
+
+s
+
+eee
+
+Lhe
+
+Thitenuntt de
+
+I
+
+*
+
+a
+
+guarier
+
+Loater
+
+Asya
+
+“rein vevieds In the voor. such as Lent or the fast of
+
+Ramazan among the toslems, sre reserved for the communal self.
+
+*e end ~enetioiom, and thus form en escentlal part of the
+Toeormunlty,
+
+To" 2% he noted that lent varies
+
+ble ronzme with regnect to the colar yeer and thot
+
+"features of the lloglem calendsr, runs its due
+
+course gr
+
+the ~+nm'n
+
+hr eenzons,
+
+Thelr clock Ls =srtificizl, znd not
+
+local of the cesnone.
+
+1% 4s not too much to sz2y that
+
+all forms of culture depend on th» ~=~hability that all the -2ople
+or at least a large part of them 211 be doing the same things at
+the same stzted times,
+
+Ag I have eald, this slocking
+
+v foretzste of
+
+the tighter clocking which tekes nlae2 in the fertory,
+
+When a
+
+man punches the time clock at 8 in the morning in order to
+
+agoure the emmloyer that he will be availeble for work together
+
+with the other members of his gon, he is carrying out a prosess
+
+which 12 forechadowed in the market week,
+
+When a factory demands
+
+that the raw material be delivered at certain precise hours of
+certaln preclse dere, it 1s only goins 2 1ittle furtter in the
+
+same direction,
+
+The meaning of 211 theses thincs is nothinz but
+
+on gworeness of the came factors which demand that the sutomatic
+
+milling mechine contain en internzl elock ond of the further
+
+fantors which ~robably create the nead for = similsr fine nlonk
+
+In the human brain itrel?,
+
+It 4s far too early in our work on the sutocorrelstion of the
+
+elenmtyroern
+
+~ on
+
+ram for us to make dommnatls etotemsnte concerning
+
+
+
+===== PDF PAGE 038 =====
+
+the brain clock in wan and
+
+louver cninals or in ‘néividusl men
+
+of different levels of mental ability.
+
+nai
+
+However, there
+
+TYR
+
+dons from small nr2limlinary samples that the humsn clock
+- onl more persietent then the similar closk in,
+
+let u= gov, th» eat.
+
+It le quite concelvable, glthoush not yet
+
+preved, that the regularity of the humen cleck will be asscelated
+
+with intelllgence, and with the obility of the intelligent man to
+
+carry out relatively long-time grordinsted mantal activity.
+
+sowrrse, thls dore not nesn thet the eloglk 1teell 7
+
+measure
+
+Of
+
+of thle intelllgence; but at ony rote, it gives na
+
+sugsestion that the recularity of this clock may be a ner
+
+1f not = sufflclent condition for highly orgonized mental
+eetlivitys
+
+At n= =-nt, this 1s nothlnr more than a besls on which
+
+we cen lay out en elaborate prosran of receorches for the future,
+Heanwhile we must wold for the verdlast of these pe
+
+It will be seen that my lecture iz further awev Tron the
+
+industrial and economic facts than the leeture of Cir Harold
+
+Hartley, and thet 1t lies in a reclon in which 4°
+
+evaluation belonrs more to the nozsibilitiess of the future than
+
+to the problems which fase ue immediately,
+
+It was entirely rizht
+
+thzt the first of these Fawley Peundation lectures chould be
+
+devoted to setting the stage for sll lectures in the future
+
+songerning the patterns of sclence and industry,
+
+Howeve:
+
+this brillient innovetlion in the firet of cuch z series
+
+lectures might rapnldly derenerste into clichés “2 the gudbseauent
+
+leagtures followed the rt
+
+Sir Brod
+
+Ye parm
+
+Ln
+
+a
+
+A
+
+myzell justilica « x
+
+tentavive sorl. 2 wi
+
+rr
+
+touI
+
+TT
+
+y SY
+
+.
+
+ti
+
+lg
+
+3
+
+“re [2d
+
+second Fowley FTound-tion lecture
+
+oH
+
+a
+
+F ur
+
+nd extremely
+
+shout clocking in thls the
+
+
+
+===== PDF PAGE 039 =====
+
+denend
+T have
+
+en oF
+
+gonoaivs
+rether than 1
+one «
+
+wr
+
+i
+
+nasue
+suounr
+
+Cinnowetor
+
+“:1ly objective recorder of thince
+
+
+
+===== PDF PAGE 040 =====
+
+Cnotnote
+thiudles
+
+~ fa
+
+LL.
+
+on
+
+br
+
+while
+”
+
+ny
+~
+
+La
+
+0
+
+lala
+%
+
+»1ger
+
+.
+
+TH
+
+™
+
+sleatroensenhelone
+
+~
+
+
+
+===== PDF PAGE 041 =====
+
+Time
+
+end
+
+enrnzatl on
+
+o
+
+Norhart
+
+Tro
+
+The Mascsachuset*~ Inst
+1a
+
+ce
+
+Technology
+
+oe
+
+Tam tm amma2
+
+“
+
+AAAs
+
+—d-
+
+~ 3
+
+~potive
+
+4+ 1~
+
+stor
+
+sen
+
+~ras
+
+-
+
+ond devotr
+C
+
+viecaricne
+
+ne
+
+in which the authr» show: To
+
+smal. bit
+
+left behind T ~~
+
+7
+
+~
+
+eimins?
+
+rey add un thor peda pnes
+In thy
+amt
+
+*
+
+re
+
+.
+
+v1 tv. lence
+
+At
+
+v7
+
+aad not
+
+.
+
+-n,
+
+-
+
+2%
+
+CAs
+
+‘unknown
+
+on
+
+vor
+
+a
+
+fact. t/'~ ft shnicue ct
+loser t+
+
+the methe?
+
+litera
+
+nr
+
+c
+
+.
+
+ES
+
+formulee.
+
+7°
+
++
+Siea
+
+of the new wor"
+
+ess
+
+Ho megscn
+
+Tt.show
+
+to
+
+thon~l.{
+
+often
+
+NEW
+
+powers which g *¢
+
+attempt ©
+
+In
+
+“&gt;ahni~e of the new
+
+\
+
+cow
+
+a
+
+ctorv is often much
+
+yr
+
+selena” LY ptirs s1m~mp
+
+*
+
+1ts beet
+
+emer
+
+snd anne en
+.
+
+tal:
+
+omniecient
+
+frcem
+
++a
+
+hatte
+
+its
+
+many
+
+reers
+
+serint
+
+ne reons
+
+an
+
+,
+
+-~tion
+
+“rev inforasation
+
+unwary
+
+Crten+
+
+© = +
+
+oF
+
+genulpe intellectual pursuit,
+
+cest, the Jete-*"-
+
+forme
+
+vod Tres
+
+4
+
+like mysel
+
+his
+
+N
+
+.
+
+5
+
+peal
+
+.
+
+-
+
+ag
+
+oem
+
+~nammlete
+
+-
+
+nowledor
+
+ame]
+
+me?
+
+~
+
+*
+
+Of
+
+ory
+,
+
+2
+
+WE
+i
+
+=
+
+then 1°
+
+aversge
+
+science fiction in its modesty, 1ts limited purpose, and
+
+its Toocdin.
+
+
+
+===== PDF PAGE 042 =====
+
+[ begin my telk with this epparently irrelevant reference
+50 the detective story, because of a plece of scientific work
+in which T nov
+
+zobperativ
+
+-
+
+a
+
+ERE
+
+-
+
+mvgelf engaged.
+* .
+
+This plie-~» cof work is «¢
+
+Covmymuytic=
+
+groun
+
+1
+
+of eleetriecal engineers and apparatus
+
+designers
+
+“"aggachusettes Institute of Technology. with
+
+and pees
+
+~the Magsachusetts General Hospital.
+
+VI Edy
+
+Ap ._
+
+mathematician, and with a groun of peyekroiosd ale
+
+nyself art?
+object of our g*-7
+
+rag
+
+t
+
+The
+
+elenatric activitv ¢7 the brain as
+
+oresented bv th e~nfual-
+
+"
+
+atrev
+
+electric
+
+activitr
+
+exhibited in so-called electroence-~~lograms, and known in plain
+Singlish as brain waves.
+
+The study of the brain waves resembles the detectiv - story
+
+in being en attempt *-. obtain an organic body of knowledge,
+leading ir .
+
+definit
+
+and positive direction, from a rather hav-
+
+hazard mass ¢” clue
+
+Like the detective story, this investigation
+
+is dependent cn the organization of what ie originally haphazard
+
+ond disorcan’
+
+to point ir c=
+
+Cas at gn
+
+information to which &amp;°
+
+TH
+
+a
+
+=he brein,
+
+the
+
+rr” our random eviirne: »mnears to be
+
+leading is that the brain contains what we mev term a clock of
+
+high accuracy.
+
+As in the detective story, the clues seem to
+
+the amateur observ~r misle~ding end inconclusiv=‘ and 1t 1s only
+hen they are prrse-sed with a verv large degree of skill and
+znow-how,
+
+that the common direction in which thev sre leading
+
+begins to stand * with the evidence of an undeniable fact.
+
+The th"
+2,
+
+me.
+
+«¢~ seeing this undenieble frct gradual’v emerge from
+1m me”
+
+in
+
+snd ¢” finds
+
+nt,
+deta.
+
+#
+
+all,
+
+Aate
+
+r2a0din
+
+‘n
+
+no
+
+0
+
+Gifferent
+
+fy pet-rat . mveatery story
+
+ne~"* 2 gten with the author or zhead of him
+
+in arriving at the conclusion,
+
+i rc
+
+
+
+===== PDF PAGE 043 =====
+
+Time and Organlzation
+
+Hd 8,
+
+[ heve 2lwnys been something of an addict of tho detective
+storv.
+
+AT 1ts worst
+
+the so-called detective story can be
+
+Bb]
+
+piece cof thud-and -blunder writing yith no particular organization,
+and devoted to the impression on peaceful stay-at-home persons
+like myself of the titillations of vicarious violence.
+
+At its
+
+best, the detective story may be a genuine intellectual pursuit
+in which the author shows how small bits of stray information
+left behind by a criminal who is unwary,
+
+mey add up to a henging case.
+
+or at least not omniscient,
+
+Ta this form the detective story
+
+1s closely related to many forms of scientific investigation;such
+
+28 for example, the reconstruction by an archeologist of a dead
+
+civilization from its potsherds and tombs, or the reading of a
+
+previously unknown script on the basis of names of kings and
+
+ritual formulfld, In fact, the technique of the good detective
+
+thelighoonams,Hho
+
+story is often much closer to the methods of science than”the hew
+literary genre which is known as science fiction.
+
+All too often
+
+science fiction represents a glorificetion of the strangeness of
+the new worlds presented to us by sclence and of the new powers
+
+whlch science has given humanity, rather than 2 true attempt
+to take on the point of view of the scientist and to show his
+
+thought 1n action,
+
+In this respect the detective story at its
+
+best, with its modest and limited universe and its many small
+
+and apparently insignificant clues which build up to 2 complete
+pattern of knowledge, is far more scientific than the average
+fale of science fiction in its modesty, its limited purpose. and
+
+its lorie,
+
+© begin my talk with this avnarently irrelevant reference
+
+to the detective story, because of a piece of scientific work
+in which I now find myself engaced.
+
+This piece of work is =
+
+sooperative venture of a group of electrical engineers and spparatus
+
+
+
+===== PDF PAGE 044 =====
+
+lesigners at the Massachusetts Institute of Technology, with
+nyself acting as a mathematician, and with a group of psychologists
+
+and nsvchiatriste at the Massachusetts General Hospital.
+&gt;bje1 ¢ our stuf L077
+
+oresent~a bv the confusi-
+
+(O
+
+©
+*
+
+2xhibited in +e gso0-calle”
+40 English as brain wave
+
+trie activity of the braln as
+og
+
+-
+
+i
+
+The
+
+Oo
+
+-
+
+~traywy electric activity
+
+~~troencephalograms and known in
+
+time in the 19230!'~
+
+raricia countriest made a studv
+
+~Yr/eYIy
+
+“lectronhysiologists in
+
+’ the elrntric potentials collected
+
+by ¢lectrodes placed on a human scaln and ‘the similar electric
+
+potentials yielded by electrodes placed directly on or in the
+orains of experimental animals,
+
+Great hopes were formed that
+
+shese brain waves would exhibit important characteristics.
+
+chrowing a light on mental and cerebral activity in such a manner
+
+“hat they might he used both by the physiologist in his investigation
+
+&gt;f normal activity and by the pathologist in his study of disease.
+In fact,
+
+these highly irregular curves have been of considerable
+
+ise in the studv of epllepsy and a few other cerebral phenomena.
+
+Jowever, the great exnectations originally formed from them have
+
+been largely disappointed, owing to the difficulty of getting
+
+~zdable information by the inspection of a set of highly irregular
+
+ney
+a
+
+ed dn
+
+..
+
+~
+
+!
+
+a
+
+"ACES.
+
+ong
+
+20
+y
+
+ReaT al
+
+waist
+
+
+
+===== PDF PAGE 045 =====
+
+w= the study of the braln waves recembles the detective
+
+story in being an attempt to obtedn an organic body of knowledge,
+
+leading in a definite end v-~**"v~ directie&gt; “rom
+
+hephazerd mass rf clues
+
+is denendent ro {he organ?®’
+
+¥
+
+case
+
+~~
+
+¢
+
+{th brair
+
+evidence epnears t
+
+idence
+
+the
+
+TL.
+
+tare
+
+vo
+
+Information t~ 7.
+
+Tr~ding 12 tha’
+
+term a clock ¢” I"*&lt;" accuracy.
+
+mather
+
+this investigation
+
+mation,
+
+"7
+
+In the
+
+of our random
+
+the brain contains what we may
+
+A= In the detective story, the
+
+clues seem to the amateur observer mi~?
+
+-ding and lnconclusive; znd
+
+skill and know-"= “hat ther comm~-
+
+"rn in which they 2aré
+
+1t is only when thew are process
+leading begins t
+fact.
+
+The thri-
+
+i¢t-ml1 ct 70
+eo
+
+emerge from a mar
+
+way different 1. cv.
+
+mystery story ant
+
+shead of him in &amp;v
+
+1.
+
+°°
+
+v
+
+~~ "7L ¢ vory large degree of
+*
+
+°n~2 ¢f an undeniable
+* fact gradually
+
+“~ble data is in no
+
+' reading a first-rate
+
+tep with the suthor or
+
+
+
+===== PDF PAGE 046 =====
+
+The tool which I found particularly ept for the study
+vf Threin waves wes a branch of the mathematical theory known
+ng hermoniec anelveisa
+
+Her—onir ons”-°° ene? ~tg in the reduction
+
+sf 2 complicated motion Int
+The
+
+classical branci.
+
+«
+
+°F
+
+be
+
+F¥
+
+“27 with the
+
+su. 4
+
+reduction to such a sum ci o motion which is veriollc,or which in
+
+sther words repeats 1% «30 after ¢ given time
+nar-onic analysis i
+
+c¢-~17ed the theorv of Fr
+
+1s one of thc mor
+shlch
+
+we
+
+—
+
+sored In 47
+
+rhe
+
+"Tields known ac
+
+~ontr buted
+
+7
+
+theory of Fourfc: «o
+
+TY
+
+motions which we
+
+-r,
+
+ra
+
+yim
+
+gre Il Se
+
+'°7 series.
+
+tie who has not
+
+ens
+
+r1+h
+
+Vv
+
+The
+
+ou
+
+~~
+
+27
+
+gar chine
+
+*
+
+motions
+
+to =~ mathematical
+
+-~h not periodic hag been sul ir te
+
+nl
+
+and
+
+methenctician who has
+
+secarcel-¢ 7?
+
+~ ng
+
++
+
+This branch cf
+
+than the theory c¢” Fourier series.
++
+
+in
+
+gporopriate
+
+sense
+
+start
+
+ve Fourier series represents
+"TT tions which congistre
+
+ARR
+
+"-ndamentel
+
+de = dd
+
+the
+
+{Tireguency of t°
+
+that frequency
+for
+
+functions
+
+4° 2-3 hermnonl
+
+“undanent
+
+©
+
+=v
+-
+
+large negstly~
+
+of three times
+
+¢” harmonic~ analysis
+
+sulted
+
+©
+
+end
+
+ame
+
+mogitive
+
+“nto the integra”
+
+times
+
+of
+
+=
+
++ ~11lations gnd is known
+
+sontinuous ran
+
+AACGRACESS as t-
+
+2 cecond hermonic of twice
+
+the Ferurier integral
+
+theo
+
+These renrecent th~ chief varieties ov harmonic analysis known
+Co
+
+The
+
+in
+
+—
+
+~~+
+
+de
+
+3 Av
+
+Howeve
+
+snalvels
+
+t°
+
+i"
+
+the
+
+mothemeti rian had
+
+-
+
+,
+
+2
+
+fevered
+
+re
+
+&amp;
+
+Adeenly concerned
+
+-- 071i 7ed harmonic
+
+whic
+
+dnea not £11, into ot
+
+onalvs
+=
+
+mn.
+
+rotten
+
+most
+
+* the two compartments
+~F
+
+ads
+
+attention
+
+
+
+===== PDF PAGE 047 =====
+
+: ] 4 L. pr;
+Ker
+
+J Ae Band
+
+Licht
+cht 1 1s
+z
+
+Ape
+
+:
+
+3
+
+pu
+As,
+generallv
+a Hhredeas
+: ThisMetin,
+AA Orgad
+B EEEAAD
+a Vo,
+&amp; ee
+congcelved
+a continuous
+eden
+rot
+tlicse processes for which the Fourier
+
+reirea 3
+a
+
+the
+
+gre
+
+those
+
+thy
+
++:°~
+
+“*
+
+into
+
+5 leoolic
+
+transient
+
+in
+
+time
+
+scone ¢” the Fourler integrel.
+
+of such continuous vprocecgses
+
+Lderation of llght whose spectrum
+
+~ines, light BX whoce spectrum
+
+.
+
+v7 bands.
+
+and perhens even more varied
+
+earn 1024 ta 2020 I enent &amp; considerable
+
+sorts ©
+©
+
+gnd nc
+
+nr.
+
+Ls continuo:
+
+amount
+
+on
+
+roa” wat
+
+sne phys?
+
+falle
+
+net
+
+tn thie £707
+
+"wd mde
+
+1
+
+:
+
+,
+
+-
+
+Sores
+
+ie
+
+® hermonrnt© epnglysis into
+
+A teary Tv
+
+r]
+
+id
+
+for
+
+ie’
+in
+Tt
+Harmnonic An 8.25
+
+;
+
+v7,
+
+a
+
+¢
+
+om
+3
+
+“or existing
+
+The
+
+Semanal in 1630
+
+~metlieca in Stockholm in a peper entitled.
+:
+
+Poeneralized
+
+
+
+===== PDF PAGE 048 =====
+
+on
+
+the
+
+~~
+
+=
+
+RE -* fy
+
+*
+
+Anott
+ane
+
+£1~
+
+Ean oy
+
+ner represented.
+~nted to a similar
+
+Ny
+
+®t {
+
+1...
+
+not
+
+1
+
+.
+
+cour«
+
+Here +’
+
+«+
+
+~
+
+cwe=iiate
+
+into
+
+3
+
+~reagnt adit An
+
+111 mathe
+
+Trr-tion
+
+el
+
+1.
+
+grigonome
+
+“poort
+
+sense
+
+0
+
+begins with
+
+nothingness.
+
+the Fourier
+
+Tinements
+
+/ He)
+
+frrm
+
+/
+
+However.
+M10
+I
+
+Far
+
+wer}
+
+phe
+th
+
+1etions
+
+\
+
+yo
+
+5
+
+thre
+
+have
+
+hee:
+
+step-
+
+chidesn
+
+co
+
+I
+
+~~t3
+
+Mv wnark on function
+
+pret tT®s.
+
+70
+
+The idealisth
+
+1
+
+hut Schust
+
+use c' autocorrelation 1
+
+CiderMone
+
+17M.
+
+In
+
+part on the periodogramn
+
+Ana:
+
+cr
+
+A
+
+~
+
+“ing:
+
+vil
+
+gH!
+&amp;
+
+1} part on the
+ls papers on
+
+vith the
+
+t+ Zr) 7
+
+Sap
+
+function f(t), its autocorrelation 4 —.
+
+This autocorrelation is an expression made
+
+\
+
+Frequencies which eonstitute f(t), but all the component
+osclllations are now put into cosine phase 2nd their amolitudes
+
+are squared.
+
+The result of this is to glve us a graph for the
+
+autocorrelation, much more regular than the creph for f(t) itself.
+In doing this
+
+throw away 2 grest uw2al uo Cc the information
+
+aontained in the eraph of £(t), but what remains is much more
+
+
+
+===== PDF PAGE 049 =====
+
+2adable and sigr
+
+SN
+’
+
+3
+
+rrelation I decide”
+
++
+
+net
+
+m=
+
+he oekocomelaline Wo
+ov Seve BY PI
+*
+
+teking
+
+the
+
+suto-
+
+Worn oO
+
+~m the beglnning the vr~sults were striking and I believe
+
+It had already been observed that brein waves often
+an oscillation at the réato ¢” 9 or 10 per second, known
+
+alpha rhythm,
+
+As far h
+
+tii
+
+rv- showe. however, it is
+
+extremely difficult to jJudze the persistence of this rhythm and
+even to find 1t at all under unfavoregtble circumstances.
+
+When the
+
+autocorrelation 1s taken, the rhythm stands out with the utmost
+larity
+
+and persistence.
+
+Under verv many circumstances, the
+
+wtocorrelation curve oo” a brain wave begins with what
+
+vrooks very much llke an exponentially damped rhythm of the
+FT
+
+S
+
+alpha frequency, but as the delay t becomes greater and greater.
+this rhythm continues at ebout constant level for what we know
+to be as much as 13 7/7
+
+considerably more,
+
+seconds.
+
+and what indeed mev be
+
+In fact, this persisting rhythm now appears
+
+1tself to have a complicated structure and to be made up in the
+
+nain of the sum ¢” two rhythms of nearly the same frerueéncy,
+shich beat wit
+
+-~=
+
+snother ~nd which may.
+
+™
+
+-= "ewe
+
+on uncertain
+
+zround--hbe ref--=m=~" t- the two hemispheres ¢* *-~ b~~’n,
+
+While the sutocorrelation method is fairly recent under its
+
+own name, something very nearly equivalent to it has been used
+ov the physicists for some time in the study of light.
+
+I am
+
+referring to the reading of the interferometer used by Michelson.
+In thie instrument, which 1s the most refined of all spectrographs
+2 beam of 1lizht 1s spread by a helf-silvered mirror, and the two
+
+nalves follow paths with an adjustahl-difference in length.
+The o&gt;
+
+is ot
+
+*~tengitvr ff the light
+0
+
+~aanti:-denendent or t+
+
+CT
+
+*apyenc
+
+in paths.
+
+This intensity depends cuadratically on the electromagnetic
+
+
+
+===== PDF PAGE 050 =====
+
+vector o” the light.
+
+The places where the light is strong
+
+sfter interference ere known a2 fringes.
+
+The degree of homogeneity
+(opr
+
+Ar
+
+and monochromaticitv cf the light is measured bv the number of Ul
+
+fringes before they dlsappear when the relstive difference of
+
+lelay in the two paths is great.
+
+Using these criteria we may
+
+say that the alpha rhythm in the brain contains at its center
+
+3 rhythm which continues to show itsrundreds of fringes and which i3 thet
+
+ln frequency.
+
+This central rhythm, for all its persistency, is
+
+not strong in energy, and would be entirely lost on any non| nstrumental examination of
+
+hr in wave.
+
+pure central rhythm is
+or &amp;
+
+a
+
+NAAT TY
+
+PR
+
+TIT
+
++ °
+
+sense, the
+
+T"Hha
+
+er
+
+“wthm corfesiuraes=~#1¢h* nv rare than th» beginning and
+
+Y
+
+onentlally £p1°
+¥
+
+Thus
+
+vhat
+
+“.
+
+_
+
+"autocorrelation diagram
+
+LL iUe FB, to slewJhon At
+
+about
+
+of man contiins a clock of good consistercy, beat in~
+
+1C oscillations per second, and keeping phsee with i+ -¢
+
+oerhaps hundreds of seconds,
+
+This pler-
+
+nanifestly not one which contains mue
+
+nental activity, but it i+ imnortas
+important
+
+Arvrdsarsd we
+
+substantially a new discovery is that the ®rain
+
+questions whic. ~
+
+function can the brain clock ful...
+
+"Tir fPormation
+
+%»
+
+content
+*
+
+for
+
+i
+
+;
+
+and reises
+
+aumen brain.
+
+What
+
+particular, uwkeedsa Fras.
+
+Function germaenge to the overation of a control and communication
+
+necheniasm?®
+
+2 i Dp (
+
+v Fs
+
+A control and communication mechanism is one in which past
+
+decisions are comblned to give rise to present and future
+
+decisions.
+
+For the combination of information,it is generally
+
+lesirable that the pleces of information combined should arrive
+at substantially the same time into the combining mechanism.
+
+
+
+===== PDF PAGE 051 =====
+
+This is true with most switching mechaniems, and it is definitely
+true with that particular scrh of switching mechanism known as
+the
+
+evnence
+
+¢” the ner-
+
+—r
+
+4
+
+¥
+
+r-
+
+3
+
+framm
+
+—_—
+
+"ong a nerve fiber 1s a
+
+“Ry t= Xoo Arf deg,
++
+
+£
+
+L
+
+Eh.
+
+©
+
+sondi’
+ith
+
+-
+
+*m=in
+
+"achar~
+ernetang
+
+«rr 1-2 ds
+
+nA
+
+"=
+
+of nerve impulse
+
+However, impulse”
+
+originate.
+
+When thi
+
+nt
+
+a nerve
+
+spike
+
+furthe~ alone the fiber proceeding
+
+nant l=r
+
+the stimulus br v7.
+
+rmawm
+
+diech~
+
+Fer
+
+i ndemnendent
+
+the
+
+nature
+
+of
+
+rds, the conduction
+
+~~
+
+P-r;0on
+
+nf
+
+or
+
+Bim.
+
+sg
+
+"Mer ends,it Joins with a number of similar
+
+fibers in a butting on a new fiber by connections known gs
+
+synapees.,
+
+When thr proner combination cf incomin~ fibers fire
+
+within a certain limited time of combination, the outgoing fiber
+
+fires, and otherwise it does not
+
+Thiat 1s, the question of whether
+
+an outgoing fiber f*w-e or ~~t Jenenlis not merely on the existence
+
+&gt;f impulses on th
+
+substantial
+“In
+
+nav
+
+simult
+gay that
+
+:
+
+~~
+
+oo,
+i
+
+“sing mechanism
+
+to operate without a cl:»'C.whatwemevcoll a sequential basis.
+If there is a mechanism for holding incoming impulses until the
+
+oroner set has avvivel ar” ther combining them gmmdtonenusly into
+&gt;utgoing impulses, a controlled system may works Shy Involves
+2, complic +3 storaze and trigrering mechanism, and it also
+
+Involves t:
+
+3
+
+the nrr-~ combination of impulses has passed into the incoming
+nhanne
+the one hend.
+
+Par the
+
+creater part
+
+such an idleness is time consuming.
+of the getivity nf «a
+
+control mechanism
+
+By
+
+
+
+===== PDF PAGE 052 =====
+
+operated on this principle will be spent in standing by.
+the other hand
+
+thev exist
+
+sre
+
+On
+
+holding mechanlisr® oi? temporary memories. although
+hr
+
+.
+
+not © 00 wel?
+
+Coe”
+
+under’
+
+.
+
+oT
+-
+
+-“r
+
+“tr? mechanisms,
+
+complicated end
+
+a.
+
+oa
+
+sxpengive in charact&gt;
+
+-
+
+2
+
+r—
+
+ne to be internpretr-~
+system such aes
+ro - dc, Ref
+
+th
+
+‘ng an
+
+~-
+
+fer as demands ¢
+
+1 vv"
+:
+
+-
+
+2
+
+wd
+
+has a good enov~
+to combine arise sinmultsneouslvims a greet advantage ln economy
+
+ond in efficiency
+That this is mor
+
+-~
+
+by the fact that manwv ~~ ='*»~
+
+cofitain clocks,
+
+ecnont»-"
+
+‘han 21 attested
+
+mechanisms do X¥ in fact
+
+At the Massachusetts Institute of Technology,
+
+ve have a milling mechine which reads i*~ ec~ier~ cff punched
+
+=fg these
+
+tape like the teve in a player plano, &amp;'
+into an up enc down movement
+
+¢® the wc» =
+
+and to and fro movement of the
+
+cut
+
+nz tool.
+
+\
+
+~
+
+"5% and left
+
+Some sort of clock
+
+ls essential for seeing that corresponding impulses arrive et
+sorresponéing times,
+
+and tirgt th&gt; three different sorts of motion
+
+remain in ste» with one anoth
+
+It ir of course possible thot this regulatitg &lt;&lt; clock be
+5. clock only in a Plckwickean senee
+
+and thet X¥XEXXXE 1t merely
+
+counts impulses rather then measuve® *~ t*me between them.
+fact, the
+
+character,
+
+clock of ou: » "*=o machi
+
+Its gne
+
+gomething of this
+
+= Tre~ly without
+
+cireet effect on its effici~»
+
+irregular manner,
+
+“2c
+
+Ia
+
+a
+
+2nd ¢21 even be changed in an
+
+This nossil’ itv
+
+however, depends on certain
+
+rather special and limited features of the milling mechine,
+
+
+
+===== PDF PAGE 053 =====
+
+fhe milling machine 13 @cl’'™ "ately mede self-compensating
+
+ander &amp; chan
+
+ff
+
+I
+
+in {!
+
+"os aneed.
+
+Na
+
+am ma
+
+—— ry -
+
+'
+
+What foo.” “hates this is that
+
+"nes
+
+meta l-r
+
+Tor
+
+3
+
++rument further
+
+tte
+
+meses
+
+Jarge ext
+
+‘+ hard
+
+rk
+
+“0 commnrrac®
+
+“aphare
+
++r.
+
+~
+
+machine
+
+then
+
+vCT
+
+were
+
+AE
+
+the
+
+" the
+
+timing
+
+direction
+Fr more varied
+
+2!
+
+NC
+
+mrs
+
+w
+
+fc
+
+cogent reason
+
+1°n
+Tay nose
+
+that we
+
+the milling machine
+
+electric strav currents around
+
+1
+
++"
+
+clock itself would gi-—
+Jlocks are best kent al
+
+find?
+
+On the one hand, a
+
+ecord.
+
+elbei” » week one.
+
+vy omste energy level without too
+
+nuch coupling with the external world,
+
+&gt;f their uniformity of operation.
+
+This 1s for the sake
+
+We should expect that the
+
+autocorrelation of the clock itself would not be too dissimilar
+
+to that part o” the autocorrelation cf an c¢lectroencephalogram
+which runs
+
+at an epproximstelv
+
+constan
+
+*+-r the inlitisl
+
+°
+
+period of repld exponentiel decline he» &gt;
+
+However, a clock in a mechine is the»- *
+
+cannot be used unless its outnut is am”
+
+~
+
+~~
+
+~--
+
+©» used and it
+
+fo a legvel at
+
+which 1t. is effective in arcomolishing ven. mechanical task.
+Therefore,
+
+AM
+
+from time to time in addition tn str--4 * the machine
+
+which arise from the unamnlified clock, there -177
+
+=
+
+source 1s the clock as temporarily empllf®~~"Trr us”
+amplifications wil... tak» nlace ov"
+
+eggentinllyv represent modulaticr
+
+3
+
+mesegsace indicating its employment.
+
+=
+
+-
+
+=
+
+—-
+
+I
+
+So.
+
+atravs whose
+
+The ge
+
+“ad they
+
+carrier by
+
+This modulated carrier
+
+
+
+===== PDF PAGE 054 =====
+
+ls a phenomenon essentiall; similar to whet we find in television,
+vhere the clock represents the sweep frequency.
+
+This sween
+
+Precuency carriea the meseace. which in the case of television
+
+ls the picture.
+
+T=
+
+©
+
+c®f
+
+modulating
+
+a
+
+carrier wave
+
+is to
+
+-ar-ier.~nd in certaln well-known
+
+spread the frecguen
+
+cases this will h--
+
+“
+
+exponential fallin
+
+on
+
+“"
+
+J
+
+the
+
+autocorreletion
+
+of
+
+an
+
+autocorrelation which we
+
+obtain
+
+amblance to that which we
+
+from the brain r--
+
+smhine
+
+should exnect 7
+
+rlock ar” en unmecn’oo
+
+= ~3
+
+~f the readings of =~ modulated
+
+-
+
+Te thus see that clocking !
+
+both 2 useful and a recognized
+
+phenomenon in the control machine of the brain and in various
+
+softs oT mechanicel control mechines,
+
+However, a soclal organization
+
+Is also a control machine, and 1t becomes interesting to ascertain:
+
+(a) Whether such social control machines have clocks, and
+
+(b) whether these clocks fu1z2d a useful purpose.
+
+From the control machine of the automatic factory to the
+soci~l contre machine ¢” the now standard tyne of assembly lire,
+
+there 5~ no great stem.
+have and need clocks,
+
+C %2intv factories and assembly lines both
+
+The personnel of a factory comes in on
+
+regular shifts and punches the time clocks.
+
+This 1s in order to
+
+secure that sdrganized effort not be impeded by the absence of
+
+sgsgential members of eo working crew, while the others are standing
+
+v9) Morecvwe=
+
+the material of the assemblv 1in= must alsn be
+
+jelivered on r tight schedule.
+
+Suppose that 1» consider the point
+
+in a motor c¢~" assembly line where the enelin
+to place
+
+3
+
+the
+
+1 3v sgaembly.,
+
+Ul ~e
+
+~embly ie clamped
+
+je?
+
+This
+1d
+
+)
+
+1
+
+axrer
+
+"2
+
+14+
+
+Anea
+
+not
+
+1+
+
+miict
+
+hays
+
++1»
+
+af'fPant
+
+1K
+
+un ®
+
+mletelys
+
+emnlAavine
+
+
+
+===== PDF PAGE 055 =====
+
+.
+
+.
+
+FI
+
+patter 20
+
+TTS
+
+po——
+st as
+factory space ©
+temporary EX¥XXX An 2 most uneconomical
+nenne&gt;”
+
+nage
+
+Se!
+
+the ooo
+
+al
+
+Oy »
+
+to be unwelanmr
+
+“een 1n the discussion of a machine like the
+-—
+1
+
+mel
+
+£1
+al Qe
+
+organism es
+
+onnoged to
+
+demands which ere likely
+
+Nam eed aa
+
+fF A/rem,
+
+1!
+
+;
+
+
+
+===== PDF PAGE 056 =====
+
+Svery civilization, which is worthy of being called =
+
+civilization at
+
+1!
+
+has
+
+»nlender
+
+1iversr cultures as the Egyntian
+
+Here
+
+include such
+
+the
+
+the Greek, the Jewish, the Roman, the Hindu, the Chinese, the
+
+Aztec, and the Mayan.
+
+In most of these cases, the calendar
+
+has been developed with 2 certain astronomical knowledge,
+
+‘hat 1s the function o” thi-~ rn
+culture,
+
+or in other words
+
+~hiversal characteristic of
+
+«° sr~i.l organization?
+
+The most obvious nrimitive uee of astronomy is in navigation.
+
+Nevertheless, calrnd=r
+
+"mmcrtant In cultures in
+
+which havigaticn
+
+7
+
+inland! We ar:
+
+31
+
+substantially
+
+the calendar
+
+which have lit’
+
+most obvious
+
+1s that of sync
+
+Pas
+
+af
+
+pasture end the
+
+“th
+
+the seasons of ft!
+immortant.,
+
+althouch +o
+
+a. teym end
+
+’
+
+LL
+
+-
+
+Afferent
+.
+
+~fuolons with an equable
+
+wm
+
+Aver fhe
+
+a ram
+
+.
+
+1 OY] -
+
+see thet i+
+
+gions with
+
+3
+
+Timate and th
+
+Kr YI
+
+climat&gt;chanoin~
+
+cglenc
+
+2lendzar
+
+—-
+
+Hess
+
+tetirespapa, ele]
+
+voor
+
+a TANTRICng
+
+Near
+
+cm
+
+Ale
+
+7 Fos
+
+refullv
+
+r
+
+conteir
+
+seasons and tt ©
+
+ndear
+
+we
+
+rvatures which do not helenpg to the
+s lor year.
+
+Meany cultures have a luner
+
+year which is onlv adjustable by violence to the course of the
+seasons.
+
+The NMoslem year, fu example
+
+months all aroun®
+
+Ae po
+
+*
+
+solar yesr
+
+«~
+
+"
+
+drie:
+
+that n
+
+through its
+~~ «ed correspondence
+
+between t° tw can be established. "IThere sre. moreover, certain
+FPeatur:
+to to
+
+imoortaer
+
++1.
+
+“Fm oywhi5on?v belon~ in uo
+I, RT. 3
+
+1]
+
+“a
+
+Tree]
+
+re nr
+
+vither
+
+eee
+
+N a
+
+rn ikoodgE
+
+3
+er
+
+EARNERS pn,
+
+a
+
+Spb
+
+
+
+===== PDF PAGE 057 =====
+
+Behind the week are at least two social phenomenag ramsdy
+
+religious worshin and the market.
+2 quarter of the lunar cvecle,
+no
+
+significant
+
+=nlatinn ©
+
+merket period ~1 -v:
+
+The seven-day week is rouzhly
+
+and li »
+
+tho
+
+lunear rvele, hes
+
+the
+
+seasons
+
+&gt;
+
+Thin the
+
+ten-day
+
+considerable role, and there sr~ ¢till
+
+other weeks in
+so important tor Felt
+“hether FoI
+
+congidanm the
+
+mar
+
+&lt;a
+
+sgt
+
+we
+week,
+
+mati ious
+
+at
+
+human activity
+
+the week is used tH regulate certsi» £
+
+which depend on the joint action «7 Ter: ~ marta ¢f the community.
+The
+
+regulate th
+
+reliecious ~
+
+worshiy-
+
+hut
+
+°
+
+T ~~
+
+~aminc “~eathen
+RAT
+
+4a
+
+marge] at
+
+people in
+
+xr ATr
+
+ond rest.
+
+difficult
+
+mA”
+
+Ta re
+0
+
+t
+
+Thien Zo
+
+ThA
+
+rl
+
+——
+
+fo
+
+~ommuni. ty
+
+- gd
+
+shou? i furthermor:
+
+~°
+
+4.1.
+
+the
+
+of vex"
+
+ant
+
+4:
+
+privat
+
+-
+
+~~
+
+.«
+
+4
+
+&gt;
+
+rhythms
+
+Fog
+
+Py
+
+te.
+
+:
+
+ot
+
+or
+
+re
+
+~ ry
+
+thet
+
+=
+
+man
+
+r&gt;aeeable times.
+
+op
+
+i
+
+“1
+
+3
+
+C 2
+
+crn timeLT communal z2etivity is
+
+t
+wrats natn
+
+that the
+
+certain stated times he may
+
+J)
+
+tiie mar" with his crons and find somebody ready to
+/
+
+ourcheae them.
+
+Th
+
+nd
+
+ehon in an irveenlar menner, bub
+
+“rr in th
+
+crafteman knows that he need not interrunt
+
+GedA ea
+
+can devote sa
+
+definit&lt;"~ assignable dry £n to problem of the ¢~1~ of his work, Ve
+
+A
+
+T rat
+
+- A Tara
+om
+
+Without the weez,
+
+wor 0 fPferent activity from that of menufacture.
+
+orderly business and social activity would
+
+he creatly hamvnered,
+
+
+
+===== PDF PAGE 058 =====
+
+Besides this sort of rhythm of business
+ini
+
+shere lei longer rhvthr
+RN
+
+religione Jor
+oy the
+
+FE Sis
+
+ACt sate, 4
+
+—-
+
+neg0Te
+
+Christmas, Bester
+
+&gt;.
+
+JE
+
+ane.
+
+XoWo
+
+© SLA
+
+twhic's depends 2
+ON
+
+"
+
+~uartem =o
+
+and markets,
+
+Eurens teese—t=Eeem nade
+
+Tcliclious fenata no
+
+Whitsuntide, and MicH¥lmes are the éritical
+
+ays.
+Frnt
+
+tA
+
+2
+
+tha
+
+Roamazsn 2mong tho Mnslems
+
+weap
+
+guet
+
+tw
+
+oT
+
+rd Vine
+-»
+
+yew orm cv
+
+“
+
+¢
+
+dues
+
+coureaes
+
+sec
+
+-
+
+,
+
+co"
+
+forme
+
+wr
+
+5 =
+
+~
+
+“"
+
+goler
+
+Ton
+
+gm
+
+i
+
+vear
+
+too much
+
+th» nrobebility thet
+
+’
+
+for
+
+"hem will ke doing
+
+a
+
+Lv
+
+3
+
+1-—-*
+
+lendar,
+
+ng Cra
+
+i
+
+of
+
++n
+
+dinmazr
+
+a
+
+fast
+
+communal self-
+
+rar’
+
+rnd thre?
+
+tha
+
+“c~nntinl pert of the
+
+Titel fT
+
+node
+
+eo
+
+“wv the
+
+are reserve
+
+3,bne~-t*non
+re
+
+ont
+
+“3 ohter
+
+AN.
+
+ol
+
+men nunches
+
+i 2)
+
+1
+
+. »
+
+-
+
+da?
+
+qa:5
+
+2mplev0th
+*
+
+raw materis?
+
+?
+
+8
+
+“hewith tlhe
+
+yther membevrr
+foreshadowed
+
+y
+
+nrncess which is
+T
+
+«ry
+
+;
+
+:
+
+oe rt £ 3 nN
+
+etorv denands
+
+ko) [G&amp;A] !
+
+hot rs
+3
+
+0F
+
+thet
+
+the
+
+Cc ert ein
+
+precise days
+Iirection.
+
+awareness
+
+T+
+
+of
+
+the
+
+r
+
+«””
+
+er
+
+THA,Etcn
+
+ny
+
+7
+
+1°
+
+2
+
+thine
+
+*
+
+°
+
+no "hing but
+
+an
+
+© ators which demand that the automatic
+
+milling contain a ‘n*2rns”
+Thich
+
+fhm
+
+the
+
+clock and of the further factors
+
+eed Tor a gimilsr fine clock in the
+
+Amal:
+Teeinour Woi. on the
+“he
+
+elentrroencenhalooram for n1~
+
+t~
+
+make
+
+autocorrelstions
+
+dAnematie
+
+aetatements
+
+of
+
+
+
+===== PDF PAGE 059 =====
+
+{Ly
+
+concerning the brain clock in man and the lower enimele or in
+individual men ¢
+there
+
+are
+
+ind*~
+
+nore persistent
+
+sat.
+
+AL Tews" Tow? -
+
+of mentYT ~™ litv,
+
+°°
+
+However
+
+cesyviar and
+
+thir
+
+Tf
+
+se
+
+mee
+
+the
+
+If is om”!
+
+regularity Oo
+
++ ith intelligence
+
+nd the abll:”
+
+long-time coordi: "~*~" mental activit~
+rot
+
+mean that
+
+KXX Lit
+
+at
+
+anv
+
+Fhe regnl it”
+
+tt"
+
+©
+
+7
+
+i*teelf i
+
+giv.
+
+©
+
+tt
+
+lv
+
+*temer
+
+£
+
+measur
+=
+
+cA
+
+7
+
+dre
+
+this
+
+augaoestion that
+
+adnRacbtSN
+
+amen
+
+con@ition for highly organised ment 1 setivity
+his 1s nothings more than a bvasis
+
+on which we
+
+intellizence;
+
+r,t
+
+af ficient
+
+Tt omregent,
+|
+
+laborate nrogram of researches for the future.
+ve must walt for the verdict of these researches.
+
+Meanwhile
+
+
+
